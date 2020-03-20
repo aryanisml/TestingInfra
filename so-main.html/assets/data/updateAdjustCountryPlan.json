@@ -1,0 +1,454 @@
+{
+  "serviceResponse": {
+    "result": "OK",
+    "adjustStudyPlan": {
+      "parentPlankey": "62",
+      "studyPlanParams": {
+        "name": "ABCDEF-adjustment",
+        "description": "abcd",
+        "planType": null,
+        "enrollmentTarget": "462",
+        "screeningTarget": "868",
+        "FSI": "2018-10-13",
+        "LSS": "2019-04-12",
+        "LSR": "2019-04-13",
+        "screeningPeriod": "1",
+        "createdBy": "gjoshi",
+        "creationDate": "2019-02-25 13:46:29.710",
+        "lastModifiedBy": "skamble",
+        "lastModifiedDate": "2019-02-27 07:21:43.233",
+        "planKey": "114",
+        "originalPlanKey": "62",
+        "studyKey": "89",
+        "SR": "0.08357143",
+        "SFR": "25.335897",
+        "planCountries": "2",
+        "planEnrollment": "621",
+        "planScreened": "868",
+        "planSites": "40",
+        "planLSR": "2019-08-15",
+        "planFSI": "2018-10-13",
+        "planFSS": "2018-10-14",
+        "planLSS": "2019-12-29",
+        "cycleTime": "26.1",
+        "planStatus": {
+          "@value": "INVALID",
+          "statusCode": "STUDY_TMILE"
+        },
+        "isPlanApproved": "false",
+        "isPlan": "false",
+        "isPrevApproved": "false",
+        "isReadOnly": "false",
+        "isDeletable": "true",
+        "isAutoDeleted": "false",
+        "version": "2019-02-27 07:21:43.233"
+      },
+      "geoList": {
+        "geography": [
+          {
+            "@geographyKey": "0",
+            "@geographyLevel": "WW",
+            "@geographyName": "Worldwide",
+            "planParams": {
+              "enrollmentTarget": "621",
+              "screeningTarget": "868",
+              "FSI": "2018-10-13",
+              "LSR": "2019-04-13",
+              "LSS": "2019-04-12",
+              "PLSR": "2019-08-15",
+              "PLSS": "2019-12-29",
+              "PFSS": "2018-10-14",
+              "PFSR": "2018-10-15",
+              "PFSI": "2018-10-13",
+              "SR": "0.08357142857142857",
+              "SFR": "25.335897435897422",
+              "RR": "0.06239785714285715",
+              "ARC": "100.0",
+              "cycleTime": "43.9",
+              "numSites": "40",
+              "siteInitPercDates": {
+                "percDate": [
+                  {
+                    "@perc": "25.0",
+                    "#text": "2018-10-14"
+                  },
+                  {
+                    "@perc": "50.0",
+                    "#text": "2018-10-14"
+                  },
+                  {
+                    "@perc": "75.0",
+                    "#text": "2018-10-14"
+                  },
+                  {
+                    "@perc": "90.0",
+                    "#text": "2019-02-25"
+                  },
+                  {
+                    "@perc": "100.0",
+                    "#text": "2019-02-25"
+                  }
+                ]
+              },
+              "overRecruitmentPercent": "53.623188405797094",
+              "maximumEnrollment": "954",
+              "maximumScreening": "1324",
+              "isOverRecruitmentEnabled": "true"
+            },
+            "costParams": {
+              "costAlert": "false",
+              "screeningCost": "0.0",
+              "treatmentCost": "0.0",
+              "totalCost": "0.0",
+              "siteInitCost": "0.0",
+              "countrySetupCost": "0.0"
+            }
+          },
+          {
+            "@geographyKey": "23",
+            "@geographyLevel": "Region",
+            "@geographyName": "Western Europe",
+            "planParams": {
+              "enrollmentTarget": "621",
+              "screeningTarget": "868",
+              "FSI": "2018-10-13",
+              "LSR": "2019-04-13",
+              "LSS": "2019-04-12",
+              "PLSR": "2019-12-30",
+              "PLSS": "2019-12-29",
+              "PFSS": "2018-10-14",
+              "PFSR": "2018-10-15",
+              "PFSI": "2018-10-13",
+              "SR": "0.08357142857142857",
+              "SFR": "25.335897435897422",
+              "RR": "0.06239785714285715",
+              "ARC": "100.0",
+              "cycleTime": "63.4",
+              "numSites": "40",
+              "siteInitPercDates": {
+                "percDate": [
+                  {
+                    "@perc": "25.0",
+                    "#text": "2018-10-14"
+                  },
+                  {
+                    "@perc": "50.0",
+                    "#text": "2018-10-14"
+                  },
+                  {
+                    "@perc": "75.0",
+                    "#text": "2018-10-14"
+                  },
+                  {
+                    "@perc": "90.0",
+                    "#text": "2019-02-25"
+                  },
+                  {
+                    "@perc": "100.0",
+                    "#text": "2019-02-25"
+                  }
+                ]
+              },
+              "overRecruitmentPercent": "53.623188405797094",
+              "maximumEnrollment": "954",
+              "maximumScreening": "1324",
+              "isOverRecruitmentEnabled": "true"
+            },
+            "costParams": null
+          },
+          {
+            "@geographyKey": "21",
+            "@geographyLevel": "Country",
+            "@geographyName": "Belgium",
+            "planParams": {
+              "enrollmentTarget": "390",
+              "screeningTarget": "637",
+              "FSI": "2018-10-13",
+              "LSR": "2019-04-13",
+              "LSS": "2019-04-12",
+              "PLSR": "2019-12-30",
+              "PLSS": "2019-12-29",
+              "PFSS": "2018-10-14",
+              "PFSR": "2018-10-15",
+              "PFSI": "2018-10-13",
+              "SR": "0.10328571428571429",
+              "SFR": "41.0",
+              "RR": "0.06093857142857144",
+              "ARC": "100.0",
+              "cycleTime": "63.4",
+              "seedNumber": "1548755796650",
+              "numSites": "20",
+              "siteInitiationMethod": "percent",
+              "isSSV": "false",
+              "centerInitInfo": {
+                "percentCenterInitInfo": {
+                  "centerInitSlot": [
+                    {
+                      "slotNum": "1",
+                      "percOfCenterInit": "25.0",
+                      "noOfCenters": "5",
+                      "noOfPeriods": "0",
+                      "slotStartDate": "2018-10-13",
+                      "slotPlannedDate": "2018-10-13",
+                      "slotEndDate": "2018-10-13",
+                      "redistributed": "false"
+                    },
+                    {
+                      "slotNum": "2",
+                      "percOfCenterInit": "50.0",
+                      "noOfCenters": "10",
+                      "noOfPeriods": "1",
+                      "slotStartDate": "2018-10-13",
+                      "slotPlannedDate": "2018-10-14",
+                      "slotEndDate": "2018-10-14",
+                      "redistributed": "false"
+                    },
+                    {
+                      "slotNum": "3",
+                      "percOfCenterInit": "90.0",
+                      "noOfCenters": "18",
+                      "noOfPeriods": "135",
+                      "slotStartDate": "2018-10-14",
+                      "slotPlannedDate": "2019-02-25",
+                      "slotEndDate": "2019-02-25",
+                      "redistributed": "false"
+                    }
+                  ]
+                },
+                "granularCenterInitInfo": {
+                  "centerInitSlot": [
+                    {
+                      "slotNum": "1",
+                      "percOfCenterInit": "25.0",
+                      "noOfCenters": "5",
+                      "noOfPeriods": "0",
+                      "slotStartDate": "2018-10-13",
+                      "slotPlannedDate": "2018-10-13",
+                      "slotEndDate": "2018-10-13",
+                      "redistributed": "false"
+                    },
+                    {
+                      "slotNum": "2",
+                      "percOfCenterInit": "50.0",
+                      "noOfCenters": "5",
+                      "noOfPeriods": "1",
+                      "slotStartDate": "2018-10-14",
+                      "slotPlannedDate": "2018-10-14",
+                      "slotEndDate": "2018-10-14",
+                      "redistributed": "false"
+                    },
+                    {
+                      "slotNum": "3",
+                      "percOfCenterInit": "90.0",
+                      "noOfCenters": "10",
+                      "noOfPeriods": "135",
+                      "slotStartDate": "2018-10-15",
+                      "slotPlannedDate": "2019-02-25",
+                      "slotEndDate": "2019-02-25",
+                      "redistributed": "false"
+                    }
+                  ]
+                }
+              },
+              "siteInitPercDates": {
+                "percDate": [
+                  {
+                    "@perc": "25.0",
+                    "#text": "2018-10-13"
+                  },
+                  {
+                    "@perc": "50.0",
+                    "#text": "2018-10-14"
+                  },
+                  {
+                    "@perc": "75.0",
+                    "#text": "2019-02-25"
+                  },
+                  {
+                    "@perc": "90.0",
+                    "#text": "2019-02-25"
+                  },
+                  {
+                    "@perc": "100.0",
+                    "#text": "2019-02-25"
+                  }
+                ]
+              },
+              "createdBy": "gjoshi",
+              "creationDate": "2019-01-29",
+              "lastModifiedDate": "2019-02-27",
+              "lastModifiedBy": "skamble",
+              "algorithmId": "1",
+              "algorithmCode": "simpleFrcst",
+              "algorithmSiteCompId": "Random",
+              "overRecruitmentPercent": "50.0",
+              "maximumEnrollment": "585",
+              "maximumScreening": "955",
+              "rateAdjustmentsTable": null,
+              "minScreeningRate": "0.0",
+              "isOverRecruitmentEnabled": "true",
+              "isCountryEmpty": "false",
+              "planStatus": {
+                "@value": "INVALID"
+              },
+              "avgDaysToSiteInit": "19.428571428571427",
+              "ARTB": "2019-04-13",
+              "version": "2019-02-27 07:21:34.735",
+              "countryCalcQuantity": {
+                "effectiveSR": "0.05728201882711794",
+                "effectiveSFR": "0.0",
+                "effectiveSAS": "100.0"
+              },
+              "noteList": null,
+              "redistSites": "0",
+              "isCountryAdjusted": "true",
+              "isFromBasePlan": "true",
+              "isTargetAdjusted": "true",
+              "isSitesAdjusted": "true",
+              "isDeletable": "false",
+              "isAdjustable": "true",
+              "isCopyToCountryAllowed": "false",
+              "actEnrlWhnSRMod": "28",
+              "actEnrlWhnSFRMod": "28",
+              "dateSRMod": "2019-02-27",
+              "dateSFRMod": "2019-02-27"
+            },
+            "costParams": null
+          },
+          {
+            "@geographyKey": "47",
+            "@geographyLevel": "Country",
+            "@geographyName": "Germany",
+            "planParams": {
+              "enrollmentTarget": "231",
+              "screeningTarget": "231",
+              "FSI": "2018-10-13",
+              "LSR": "2019-04-13",
+              "LSS": "2019-04-12",
+              "PLSR": "2019-04-13",
+              "PLSS": "2019-04-12",
+              "PFSS": "2018-10-14",
+              "PFSR": "2018-10-15",
+              "PFSI": "2018-10-13",
+              "SR": "0.06385714285714286",
+              "SFR": "0.0",
+              "RR": "0.06385714285714286",
+              "ARC": "100.0",
+              "cycleTime": "26.1",
+              "seedNumber": "1548756061828",
+              "numSites": "20",
+              "siteInitiationMethod": "percent",
+              "isSSV": "false",
+              "centerInitInfo": {
+                "percentCenterInitInfo": {
+                  "centerInitSlot": [
+                    {
+                      "slotNum": "1",
+                      "percOfCenterInit": "25.0",
+                      "noOfCenters": "5",
+                      "noOfPeriods": "2",
+                      "slotStartDate": "2018-10-13",
+                      "slotPlannedDate": "2018-10-14",
+                      "slotEndDate": "2018-10-15",
+                      "redistributed": "false"
+                    },
+                    {
+                      "slotNum": "2",
+                      "percOfCenterInit": "50.0",
+                      "noOfCenters": "10",
+                      "noOfPeriods": "2",
+                      "slotStartDate": "2018-10-15",
+                      "slotPlannedDate": "2018-10-14",
+                      "slotEndDate": "2018-10-15",
+                      "redistributed": "false"
+                    },
+                    {
+                      "slotNum": "3",
+                      "percOfCenterInit": "90.0",
+                      "noOfCenters": "18",
+                      "noOfPeriods": "2",
+                      "slotStartDate": "2018-10-15",
+                      "slotPlannedDate": "2018-10-14",
+                      "slotEndDate": "2018-10-15",
+                      "redistributed": "false"
+                    }
+                  ]
+                },
+                "granularCenterInitInfo": {
+                  "centerInitSlot": {
+                    "slotNum": "1",
+                    "percOfCenterInit": "25.0",
+                    "noOfCenters": "20",
+                    "noOfPeriods": "1",
+                    "slotStartDate": "2018-10-13",
+                    "slotPlannedDate": "2018-10-14",
+                    "slotEndDate": "2018-10-14",
+                    "redistributed": "false"
+                  }
+                }
+              },
+              "siteInitPercDates": {
+                "percDate": [
+                  {
+                    "@perc": "25.0",
+                    "#text": "2018-10-14"
+                  },
+                  {
+                    "@perc": "50.0",
+                    "#text": "2018-10-14"
+                  },
+                  {
+                    "@perc": "75.0",
+                    "#text": "2018-10-14"
+                  },
+                  {
+                    "@perc": "90.0",
+                    "#text": "2018-10-14"
+                  },
+                  {
+                    "@perc": "100.0",
+                    "#text": "2018-10-14"
+                  }
+                ]
+              },
+              "createdBy": "gjoshi",
+              "creationDate": "2019-01-29",
+              "lastModifiedDate": "2019-01-29",
+              "lastModifiedBy": "akshay",
+              "algorithmId": "1",
+              "algorithmCode": "simpleFrcst",
+              "algorithmSiteCompId": "Random",
+              "overRecruitmentPercent": "60.0",
+              "maximumEnrollment": "369",
+              "maximumScreening": "369",
+              "rateAdjustmentsTable": null,
+              "minScreeningRate": "0.0",
+              "isOverRecruitmentEnabled": "true",
+              "isCountryEmpty": "false",
+              "planStatus": {
+                "@value": "VALID"
+              },
+              "avgDaysToSiteInit": "0.2857142857142857",
+              "ARTB": "2019-04-13",
+              "version": "2019-01-29 05:05:21.475",
+              "countryCalcQuantity": {
+                "effectiveSR": "0.0494827280175596",
+                "effectiveSFR": "0.0",
+                "effectiveSAS": "65.0"
+              },
+              "noteList": null,
+              "isCountryAdjusted": "false",
+              "isFromBasePlan": "true",
+              "isTargetAdjusted": "false",
+              "isSitesAdjusted": "false",
+              "isDeletable": "false",
+              "isAdjustable": "true",
+              "isCopyToCountryAllowed": "false"
+            },
+            "costParams": null
+          }
+        ]
+      }
+    }
+  }
+}

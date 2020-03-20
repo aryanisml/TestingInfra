@@ -1,0 +1,480 @@
+
+{
+    "serviceResponse": {
+        "result": "OK",
+        "studyPlan": {
+        "studyPlanParams": {
+            "name": "SO-16037",
+            "planType": null,
+            "enrollmentTarget": "500",
+            "screeningTarget": "620",
+            "FSI": "2018-08-01",
+            "screeningPeriod": "4",
+            "createdBy": "uahirrao",
+            "creationDate": "2019-01-21 13:57:11.268",
+            "lastModifiedBy": "uahirrao",
+            "lastModifiedDate": "2019-01-23 16:41:42.888",
+            "planKey": "1075",
+            "studyKey": "26",
+            "SR": "0.5714286",
+            "SFR": "0.0",
+            "planCountries": "2",
+            "planEnrollment": "600",
+            "planScreened": "310",
+            "planSites": "22",
+            "planLSR": "2018-12-01",
+            "planFSI": "2018-08-01",
+            "planFSS": "2018-08-01",
+            "planLSS": "2018-12-05",
+            "cycleTime": "0.0",
+            "planStatus": {
+                "@value": "INVALID",
+                "statusCode": [
+                    "STUDY_TMILE",
+                    "COUNTRY_EMPTY"
+                ]
+            },
+            "isPlanApproved": "false",
+            "isPlan": "true",
+            "isPrevApproved": "false",
+            "isReadOnly": "false",
+            "isDeletable": "true",
+            "isAutoDeleted": "false",
+            "hasLockedCountries": "false",
+            "version": "2019-01-23 16:41:42.888"
+        },
+        "geoList": {
+            "geography": [
+                {
+                    "@geographyKey": "0",
+                    "@geographyLevel": "WW",
+                    "@geographyName": "Worldwide",
+                    "planParams": {
+                    "enrollmentTarget": "600",
+                    "screeningTarget": "310",
+                    "FSI": "2018-08-01",
+                    "PLSR": "2018-12-01",
+                    "PLSS": "2018-12-05",
+                    "PFSS": "2018-08-01",
+                    "PFSR": "2018-08-05",
+                    "PFSI": "2018-08-01",
+                    "SR": "0.5714285714285714",
+                    "SFR": "0.0",
+                    "RR": "0.5714285714285714",
+                    "ARC": "100.0",
+                    "cycleTime": "17.6",
+                    "numSites": "22",
+                    "siteInitPercDates": {
+                        "percDate": [
+                            {
+                                "@perc": "25.0",
+                                "#text": "2018-08-02"
+                            },
+                            {
+                                "@perc": "50.0",
+                                "#text": "2018-08-03"
+                            },
+                            {
+                                "@perc": "75.0",
+                                "#text": "2018-08-03"
+                            },
+                            {
+                                "@perc": "90.0",
+                                "#text": "2018-08-04"
+                            },
+                            {
+                                "@perc": "100.0",
+                                "#text": "2018-08-04"
+                            }
+                        ]
+                    },
+                    "overRecruitmentPercent": "0.0",
+                    "maximumEnrollment": "600",
+                    "maximumScreening": "310",
+                    "isOverRecruitmentEnabled": "false"
+                    },
+                    "costParams": {
+                    "costAlert": "false",
+                    "screeningCost": "0.0",
+                    "treatmentCost": "0.0",
+                    "totalCost": "0.0",
+                    "siteInitCost": "0.0",
+                    "countrySetupCost": "0.0"
+                    }
+                },
+                {
+                    "@geographyKey": "12",
+                    "@geographyLevel": "Region",
+                    "@geographyName": "Northern America",
+                    "planParams": {
+                    "enrollmentTarget": "600",
+                    "screeningTarget": "310",
+                    "FSI": "2018-08-01",
+                    "LSS": "2019-01-21",
+                    "PLSR": "2018-12-09",
+                    "PLSS": "2018-12-05",
+                    "PFSS": "2018-08-01",
+                    "PFSR": "2018-08-05",
+                    "PFSI": "2018-08-01",
+                    "SR": "0.5714285714285714",
+                    "SFR": "0.0",
+                    "RR": "0.5714285714285714",
+                    "ARC": "100.0",
+                    "cycleTime": "18.7",
+                    "numSites": "22",
+                    "siteInitPercDates": {
+                        "percDate": [
+                            {
+                                "@perc": "25.0",
+                                "#text": "2018-08-02"
+                            },
+                            {
+                                "@perc": "50.0",
+                                "#text": "2018-08-03"
+                            },
+                            {
+                                "@perc": "75.0",
+                                "#text": "2018-08-03"
+                            },
+                            {
+                                "@perc": "90.0",
+                                "#text": "2018-08-04"
+                            },
+                            {
+                                "@perc": "100.0",
+                                "#text": "2018-08-04"
+                            }
+                        ]
+                    },
+                    "overRecruitmentPercent": "0.0",
+                    "maximumEnrollment": "600",
+                    "maximumScreening": "310",
+                    "isOverRecruitmentEnabled": "false"
+                    },
+                    "costParams": null
+                },
+                {
+                    "@geographyKey": "115",
+                    "@geographyLevel": "Country",
+                    "@geographyName": "Canada",
+                    "planParams": {
+                    "enrollmentTarget": "300",
+                    "screeningTarget": "310",
+                    "FSI": "2018-08-01",
+                    "LSR": "2019-01-25",
+                    "LSS": "2019-01-21",
+                    "PLSR": "2018-12-09",
+                    "PLSS": "2018-12-05",
+                    "PFSS": "2018-08-01",
+                    "PFSR": "2018-08-05",
+                    "PFSI": "2018-08-01",
+                    "SR": "0.5714285714285714",
+                    "SFR": "0.0",
+                    "RR": "0.5714285714285714",
+                    "ARC": "100.0",
+                    "cycleTime": "18.7",
+                    "seedNumber": "1548060394061",
+                    "numSites": "11",
+                    "siteInitiationMethod": "percent",
+                    "isSSV": "false",
+                    "centerInitInfo": {
+                        "percentCenterInitInfo": {
+                            "centerInitSlot": [
+                                {
+                                "slotNum": "1",
+                                "percOfCenterInit": "25.0",
+                                "noOfCenters": "2",
+                                "noOfPeriods": "1",
+                                "slotStartDate": "2018-08-01",
+                                "slotPlannedDate": "2018-08-01",
+                                "slotEndDate": "2018-08-02",
+                                "redistributed": "false"
+                                },
+                                {
+                                "slotNum": "2",
+                                "percOfCenterInit": "50.0",
+                                "noOfCenters": "5",
+                                "noOfPeriods": "2",
+                                "slotStartDate": "2018-08-02",
+                                "slotPlannedDate": "2018-08-02",
+                                "slotEndDate": "2018-08-03",
+                                "redistributed": "false"
+                                },
+                                {
+                                "slotNum": "3",
+                                "percOfCenterInit": "90.0",
+                                "noOfCenters": "9",
+                                "noOfPeriods": "3",
+                                "slotStartDate": "2018-08-03",
+                                "slotPlannedDate": "2018-08-03",
+                                "slotEndDate": "2018-08-04",
+                                "redistributed": "false"
+                                }
+                            ]
+                        },
+                        "granularCenterInitInfo": {
+                            "centerInitSlot": [
+                                {
+                                "slotNum": "1",
+                                "percOfCenterInit": "25.0",
+                                "noOfCenters": "2",
+                                "noOfPeriods": "0",
+                                "slotStartDate": "2018-08-01",
+                                "slotPlannedDate": "2018-08-01",
+                                "slotEndDate": "2018-08-01",
+                                "redistributed": "false"
+                                },
+                                {
+                                "slotNum": "2",
+                                "percOfCenterInit": "50.0",
+                                "noOfCenters": "3",
+                                "noOfPeriods": "1",
+                                "slotStartDate": "2018-08-02",
+                                "slotPlannedDate": "2018-08-02",
+                                "slotEndDate": "2018-08-02",
+                                "redistributed": "false"
+                                },
+                                {
+                                "slotNum": "3",
+                                "percOfCenterInit": "90.0",
+                                "noOfCenters": "4",
+                                "noOfPeriods": "2",
+                                "slotStartDate": "2018-08-03",
+                                "slotPlannedDate": "2018-08-03",
+                                "slotEndDate": "2018-08-03",
+                                "redistributed": "false"
+                                },
+                                {
+                                "slotNum": "4",
+                                "percOfCenterInit": "100.0",
+                                "noOfCenters": "2",
+                                "noOfPeriods": "3",
+                                "slotStartDate": "2018-08-04",
+                                "slotPlannedDate": "2018-08-04",
+                                "slotEndDate": "2018-08-04",
+                                "redistributed": "false"
+                                }
+                            ]
+                        }
+                    },
+                    "siteInitPercDates": {
+                        "percDate": [
+                            {
+                                "@perc": "25.0",
+                                "#text": "2018-08-01"
+                            },
+                            {
+                                "@perc": "50.0",
+                                "#text": "2018-08-02"
+                            },
+                            {
+                                "@perc": "75.0",
+                                "#text": "2018-08-03"
+                            },
+                            {
+                                "@perc": "90.0",
+                                "#text": "2018-08-03"
+                            },
+                            {
+                                "@perc": "100.0",
+                                "#text": "2018-08-04"
+                            }
+                        ]
+                    },
+                    "createdBy": "uahirrao",
+                    "creationDate": "2019-01-21",
+                    "lastModifiedDate": "2019-01-23",
+                    "lastModifiedBy": "uahirrao",
+                    "algorithmId": "1",
+                    "algorithmCode": "simpleFrcst",
+                    "algorithmSiteCompId": "Random",
+                    "overRecruitmentPercent": "0.0",
+                    "maximumEnrollment": "300",
+                    "maximumScreening": "310",
+                    "rateAdjustmentsTable": null,
+                    "minScreeningRate": "0.0",
+                    "isOverRecruitmentEnabled": "false",
+                    "isCountryEmpty": "false",
+                    "isCountryLocked": "false",
+                    "planStatus": {
+                        "@value": "INVALID"
+                    },
+                    "avgDaysToSiteInit": "0.5714285714285714",
+                    "ARTB": "2019-01-25",
+                    "minRT": "29",
+                    "version": "2019-01-23 16:30:40.403",
+                    "countryCalcQuantity": {
+                        "effectiveSR": "0.0",
+                        "effectiveSFR": "0.0",
+                        "effectiveSAS": "0.0"
+                    },
+                    "logList": null,
+                    "noteList": null
+                    },
+                    "costParams": null
+                },
+                {
+                    "@geographyKey": "102",
+                    "@geographyLevel": "Country",
+                    "@geographyName": "United States",
+                    "planParams": {
+                    "enrollmentTarget": "300",
+                    "screeningTarget": "0",
+                    "FSI": "2018-08-01",
+                    "LSR": "2019-01-25",
+                    "LSS": "2019-01-21",
+                    "PFSS": "2018-08-01",
+                    "PFSR": "2018-08-05",
+                    "PFSI": "2018-08-01",
+                    "SR": "0.5714285714285714",
+                    "SFR": "0.0",
+                    "RR": "0.5714285714285714",
+                    "ARC": "100.0",
+                    "cycleTime": "0.0",
+                    "seedNumber": "1548060394060",
+                    "numSites": "11",
+                    "siteInitiationMethod": "percent",
+                    "isSSV": "false",
+                    "centerInitInfo": {
+                        "percentCenterInitInfo": {
+                            "centerInitSlot": [
+                                {
+                                "slotNum": "1",
+                                "percOfCenterInit": "25.0",
+                                "noOfCenters": "2",
+                                "noOfPeriods": "1",
+                                "slotStartDate": "2018-08-01",
+                                "slotPlannedDate": "2018-08-01",
+                                "slotEndDate": "2018-08-02",
+                                "redistributed": "false"
+                                },
+                                {
+                                "slotNum": "2",
+                                "percOfCenterInit": "50.0",
+                                "noOfCenters": "5",
+                                "noOfPeriods": "2",
+                                "slotStartDate": "2018-08-02",
+                                "slotPlannedDate": "2018-08-02",
+                                "slotEndDate": "2018-08-03",
+                                "redistributed": "false"
+                                },
+                                {
+                                "slotNum": "3",
+                                "percOfCenterInit": "90.0",
+                                "noOfCenters": "9",
+                                "noOfPeriods": "3",
+                                "slotStartDate": "2018-08-03",
+                                "slotPlannedDate": "2018-08-03",
+                                "slotEndDate": "2018-08-04",
+                                "redistributed": "false"
+                                }
+                            ]
+                        },
+                        "granularCenterInitInfo": {
+                            "centerInitSlot": [
+                                {
+                                "slotNum": "1",
+                                "percOfCenterInit": "25.0",
+                                "noOfCenters": "2",
+                                "noOfPeriods": "0",
+                                "slotStartDate": "2018-08-01",
+                                "slotPlannedDate": "2018-08-01",
+                                "slotEndDate": "2018-08-01",
+                                "redistributed": "false"
+                                },
+                                {
+                                "slotNum": "2",
+                                "percOfCenterInit": "50.0",
+                                "noOfCenters": "3",
+                                "noOfPeriods": "1",
+                                "slotStartDate": "2018-08-02",
+                                "slotPlannedDate": "2018-08-02",
+                                "slotEndDate": "2018-08-02",
+                                "redistributed": "false"
+                                },
+                                {
+                                "slotNum": "3",
+                                "percOfCenterInit": "90.0",
+                                "noOfCenters": "4",
+                                "noOfPeriods": "2",
+                                "slotStartDate": "2018-08-03",
+                                "slotPlannedDate": "2018-08-03",
+                                "slotEndDate": "2018-08-03",
+                                "redistributed": "false"
+                                },
+                                {
+                                "slotNum": "4",
+                                "percOfCenterInit": "100.0",
+                                "noOfCenters": "2",
+                                "noOfPeriods": "3",
+                                "slotStartDate": "2018-08-04",
+                                "slotPlannedDate": "2018-08-04",
+                                "slotEndDate": "2018-08-04",
+                                "redistributed": "false"
+                                }
+                            ]
+                        }
+                    },
+                    "siteInitPercDates": {
+                        "percDate": [
+                            {
+                                "@perc": "25.0",
+                                "#text": "2018-08-01"
+                            },
+                            {
+                                "@perc": "50.0",
+                                "#text": "2018-08-02"
+                            },
+                            {
+                                "@perc": "75.0",
+                                "#text": "2018-08-03"
+                            },
+                            {
+                                "@perc": "90.0",
+                                "#text": "2018-08-03"
+                            },
+                            {
+                                "@perc": "100.0",
+                                "#text": "2018-08-04"
+                            }
+                        ]
+                    },
+                    "createdBy": "uahirrao",
+                    "creationDate": "2019-01-21",
+                    "lastModifiedDate": "2019-01-23",
+                    "lastModifiedBy": "uahirrao",
+                    "algorithmId": "1",
+                    "algorithmCode": "simpleFrcst",
+                    "algorithmSiteCompId": "Random",
+                    "overRecruitmentPercent": "0.0",
+                    "maximumEnrollment": "300",
+                    "maximumScreening": "0",
+                    "rateAdjustmentsTable": null,
+                    "minScreeningRate": "0.0",
+                    "isOverRecruitmentEnabled": "false",
+                    "isCountryEmpty": "false",
+                    "isCountryLocked": "false",
+                    "planStatus": {
+                        "@value": "INVALID"
+                    },
+                    "avgDaysToSiteInit": "0.5714285714285714",
+                    "ARTB": "2019-01-25",
+                    "minRT": "102",
+                    "version": "2019-01-23 16:30:40.403",
+                    "countryCalcQuantity": {
+                        "effectiveSR": "0.0",
+                        "effectiveSFR": "0.0",
+                        "effectiveSAS": "0.0"
+                    },
+                    "logList": null,
+                    "noteList": null
+                    },
+                    "costParams": null
+                }
+            ]
+        }
+        }
+    } 
+}
+ 
+ 

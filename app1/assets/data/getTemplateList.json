@@ -1,0 +1,66 @@
+{
+    "serviceResponse":{
+       "result":"OK",
+       "templateList":{
+          "templateThumbnail":[
+              {
+                "enrollmentTarget":1500,
+                "lastModifiedDate":"2018-10-15 17:14:29.292",
+                "lastModifiedBy":"uahirrao",
+                "currentUsersGroupInd":true,
+                "description":"UA-T1",
+                "LSR":"2018-12-27",
+                "type":"PLAN",
+                "templateMetaData":{
+                    "countryData":{
+                    "countryKey":13
+                    }
+                },
+                "creationDate":"2018-10-15 17:14:29.292",
+                "version":"2018-10-15 17:14:29.3",
+                "userGroupId":1,
+                "editEnable":true,
+                "createdBy":"uahirrao",
+                "userGroupName":"Base Group",
+                "name":"UA-T1",
+                "therapeuticAreaKey":5,
+                "copyEnable":true,
+                "templateAppType":"SOMAIN",
+                "screeningPeriod":14,
+                "deleteEnable":true,
+                "FSI":"2018-10-10",
+                "key":101
+              },
+              {
+                "enrollmentTarget":1500,
+                "lastModifiedDate":"2018-10-15 17:14:29.292",
+                "lastModifiedBy":"uahirrao",
+                "currentUsersGroupInd":true,
+                "description":"UA-T1",
+                "LSR":"2018-12-27",
+                "type":"PLAN",
+                "templateMetaData":{
+                    "countryData":{
+                    "countryKey":13
+                    }
+                },
+                "creationDate":"2018-10-15 17:14:29.292",
+                "version":"2018-10-15 17:14:29.3",
+                "userGroupId":1,
+                "editEnable":true,
+                "createdBy":"uahirrao",
+                "userGroupName":"Base Group",
+                "name":"UA-T2",
+                "therapeuticAreaKey":5,
+                "copyEnable":true,
+                "templateAppType":"SOMAIN",
+                "screeningPeriod":14,
+                "deleteEnable":true,
+                "FSI":"2018-10-10",
+                "key":102
+              }
+          ]
+       }
+    }
+ }
+ 

@@ -1,0 +1,2042 @@
+{
+	"serviceResponse": {
+		"planList": {
+			"planThumbnail": [
+				{
+					"key": "455",
+					"name": "BasePlan_PB",
+					"description": "Demo",
+					"screeningPeriod": "7",
+					"enrollmentTarget": "462",
+					"screeningTarget": "577",
+					"planEnrollment": "472",
+					"planScreened": "577",
+					"planLSR": "2017-12-25",
+					"planFSI": "2017-07-25",
+					"planLSS": "2018-01-10",
+					"planCycleTime": "22.0",
+					"planFSS": "2017-07-28",
+					"planCountries": "6",
+					"planSites": "100",
+					"SR": "0.05551045296167248",
+					"SFR": "17.882653861846038",
+					"RR": "0.04558371080139372",
+					"ARC": "82.0",
+					"FSI": "2017-07-25",
+					"LSR": "2018-01-23",
+					"LSS": "2018-01-16",
+					"cycleTime": "26.1",
+					"planStatus": {
+						"_value": "APPROVED"
+					},
+					"lastModifiedBy": "pallavi_borse",
+					"lastModifiedDate": "2018-11-15 22:11:35.453",
+					"version": "2018-11-15 22:11:35.453",
+					"originalPlanKey": "455",
+					"isPlan": "true",
+					"isReadOnly": "true",
+					"isDeletable": "false",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1",
+									"slotPlannedDate": "2017-07-28"
+								},
+								{
+									"slotNum": "2",
+									"slotPlannedDate": "2017-08-01"
+								},
+								{
+									"slotNum": "3",
+									"slotPlannedDate": "2017-08-10"
+								}
+							]
+						}
+					},
+					"costParams": {
+						"costAlert": "false",
+						"screeningCost": "0.0",
+						"treatmentCost": "816008.6074087913",
+						"totalCost": "919228.9014151045",
+						"siteInitCost": "103220.2940063133",
+						"countrySetupCost": "0.0"
+					},
+					"isAutoDeleted": "false",
+					"createdBy": "pallavi_borse",
+					"createdDate": "2018-11-15",
+					"lastModifiedTimeLine": "15-Nov-2018",
+					"PLSI": "2014-01-03",
+					"PFSR": "2017-08-04",
+					"lastModifiedUserName": "Pallavi Borse",
+					"adjustPlanList": {
+						"adjustPlanThumbnail": [
+							{
+								"key": "488",
+								"name": "BasePlan_PB34",
+								"description": "Demo",
+								"screeningPeriod": "7",
+								"enrollmentTarget": "462",
+								"screeningTarget": "577",
+								"planEnrollment": "472",
+								"planScreened": "577",
+								"planLSR": "2017-12-25",
+								"planFSI": "2017-07-25",
+								"planLSS": "2018-01-10",
+								"planCycleTime": "22.0",
+								"planFSS": "2017-07-28",
+								"planCountries": "6",
+								"planSites": "100",
+								"SR": "0.05551045296167248",
+								"SFR": "17.882653861846038",
+								"RR": "0.04558371080139372",
+								"ARC": "82.0",
+								"FSI": "2017-07-25",
+								"LSR": "2018-01-23",
+								"LSS": "2018-01-16",
+								"cycleTime": "26.1",
+								"planStatus": {
+									"_value": "INVALID"
+								},
+								"lastModifiedBy": "demouser",
+								"lastModifiedDate": "2018-12-16 23:51:45.146",
+								"version": "2018-12-16 23:51:45.146",
+								"originalPlanKey": "455",
+								"isPlan": "false",
+								"isReadOnly": "false",
+								"isDeletable": "true",
+								"centerInitInfo": {
+									"percentCenterInitInfo": {
+										"centerInitSlot": [
+											{
+												"slotNum": "1",
+												"slotPlannedDate": "2017-07-28"
+											},
+											{
+												"slotNum": "2",
+												"slotPlannedDate": "2017-08-01"
+											},
+											{
+												"slotNum": "3",
+												"slotPlannedDate": "2017-08-06"
+											}
+										]
+									}
+								},
+								"costParams": {
+									"costAlert": "false",
+									"screeningCost": "0.0",
+									"treatmentCost": "816008.6074087913",
+									"totalCost": "919228.9014151045",
+									"siteInitCost": "103220.2940063133",
+									"countrySetupCost": "0.0"
+								},
+								"isAutoDeleted": "false",
+								"createdBy": "demouser",
+								"createdDate": "2018-12-16",
+								"lastModifiedTimeLine": "Yesterday",
+								"PLSI": "2014-01-03",
+								"PFSR": "2017-08-04",
+								"lastModifiedUserName": "swapnil kamble",
+								"parentPlankey": "455"
+							},
+							{
+								"key": "468",
+								"name": "BasePlan_PB",
+								"description": "Demo",
+								"screeningPeriod": "7",
+								"enrollmentTarget": "462",
+								"screeningTarget": "577",
+								"planEnrollment": "472",
+								"planScreened": "577",
+								"planLSR": "2017-12-25",
+								"planFSI": "2017-07-25",
+								"planLSS": "2018-01-10",
+								"planCycleTime": "22.0",
+								"planFSS": "2017-07-28",
+								"planCountries": "6",
+								"planSites": "100",
+								"SR": "0.05551045296167248",
+								"SFR": "17.882653861846038",
+								"RR": "0.04558371080139372",
+								"ARC": "82.0",
+								"FSI": "2017-07-25",
+								"LSR": "2018-01-23",
+								"LSS": "2018-01-16",
+								"cycleTime": "26.1",
+								"planStatus": {
+									"_value": "VALID"
+								},
+								"lastModifiedBy": "Test_1",
+								"lastModifiedDate": "2018-12-11 03:46:49.899",
+								"version": "2018-12-11 03:46:49.899",
+								"originalPlanKey": "455",
+								"isPlan": "false",
+								"isReadOnly": "false",
+								"isDeletable": "true",
+								"centerInitInfo": {
+									"percentCenterInitInfo": {
+										"centerInitSlot": [
+											{
+												"slotNum": "1",
+												"slotPlannedDate": "2017-07-28"
+											},
+											{
+												"slotNum": "2",
+												"slotPlannedDate": "2017-08-01"
+											},
+											{
+												"slotNum": "3",
+												"slotPlannedDate": "2017-08-06"
+											}
+										]
+									}
+								},
+								"costParams": {
+									"costAlert": "false",
+									"screeningCost": "0.0",
+									"treatmentCost": "816008.6074087913",
+									"totalCost": "919228.9014151045",
+									"siteInitCost": "103220.2940063133",
+									"countrySetupCost": "0.0"
+								},
+								"isAutoDeleted": "false",
+								"createdBy": "Test_1",
+								"createdDate": "2018-12-11",
+								"lastModifiedTimeLine": "6 days ago",
+								"PLSI": "2014-01-03",
+								"PFSR": "2017-08-04",
+								"lastModifiedUserName": "Test One",
+								"parentPlankey": "455"
+							},
+							{
+								"key": "456",
+								"name": "Adjustment_PB",
+								"description": "Demo",
+								"screeningPeriod": "7",
+								"enrollmentTarget": "700",
+								"screeningTarget": "0",
+								"planEnrollment": "472",
+								"planScreened": "496",
+								"planFSI": "2017-07-25",
+								"planCycleTime": "0.0",
+								"planFSS": "2017-07-28",
+								"planCountries": "7",
+								"planSites": "100",
+								"SR": "0.05551045296167248",
+								"SFR": "17.882653861846038",
+								"RR": "0.04558371080139372",
+								"ARC": "82.0",
+								"FSI": "2017-07-25",
+								"LSR": "2018-01-23",
+								"LSS": "2018-01-16",
+								"cycleTime": "26.1",
+								"planStatus": {
+									"_value": "INVALID"
+								},
+								"lastModifiedBy": "pallavi_borse",
+								"lastModifiedDate": "2018-11-25 00:31:36.151",
+								"version": "2018-11-25 00:31:36.151",
+								"originalPlanKey": "455",
+								"isPlan": "false",
+								"isReadOnly": "false",
+								"isDeletable": "true",
+								"centerInitInfo": {
+									"percentCenterInitInfo": {
+										"centerInitSlot": [
+											{
+												"slotNum": "1",
+												"slotPlannedDate": "2017-07-28"
+											},
+											{
+												"slotNum": "2",
+												"slotPlannedDate": "2017-08-01"
+											},
+											{
+												"slotNum": "3",
+												"slotPlannedDate": "2017-08-10"
+											}
+										]
+									}
+								},
+								"costParams": {
+									"costAlert": "true",
+									"screeningCost": "0.0",
+									"treatmentCost": "816008.6074087913",
+									"totalCost": "919228.9014151045",
+									"siteInitCost": "103220.2940063133",
+									"countrySetupCost": "0.0"
+								},
+								"isAutoDeleted": "false",
+								"createdBy": "pallavi_borse",
+								"createdDate": "2018-11-15",
+								"lastModifiedTimeLine": "25-Nov-2018",
+								"PLSI": "2018-11-28",
+								"PFSR": "2017-08-04",
+								"lastModifiedUserName": "Pallavi Borse",
+								"parentPlankey": "455"
+							}
+						]
+					}
+				},
+				{
+					"key": "434",
+					"name": "Approved",
+					"description": "Approved",
+					"screeningPeriod": "7",
+					"enrollmentTarget": "462",
+					"screeningTarget": "560",
+					"planEnrollment": "472",
+					"planScreened": "560",
+					"planLSR": "2018-10-26",
+					"planFSI": "2017-07-25",
+					"planLSS": "2019-01-22",
+					"planCycleTime": "65.6",
+					"planFSS": "2017-07-28",
+					"planCountries": "6",
+					"planSites": "102",
+					"SR": "0.0482736660929432",
+					"SFR": "17.59457339465898",
+					"RR": "0.03978012048192771",
+					"ARC": "81.37254901960785",
+					"FSI": "2017-07-25",
+					"LSR": "2019-01-31",
+					"LSS": "2019-01-24",
+					"cycleTime": "79.4",
+					"planStatus": {
+						"_value": "PREVAPPROVED"
+					},
+					"lastModifiedBy": "PKolhe",
+					"lastModifiedDate": "2018-10-26 02:55:55.370",
+					"version": "2018-10-26 02:55:55.370",
+					"originalPlanKey": "2",
+					"isPlan": "true",
+					"isReadOnly": "true",
+					"isDeletable": "false",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1",
+									"slotPlannedDate": "2017-07-28"
+								},
+								{
+									"slotNum": "2",
+									"slotPlannedDate": "2017-08-02"
+								},
+								{
+									"slotNum": "3",
+									"slotPlannedDate": "2017-08-11"
+								}
+							]
+						}
+					},
+					"costParams": {
+						"costAlert": "false",
+						"screeningCost": "0.0",
+						"treatmentCost": "0.0",
+						"totalCost": "0.0",
+						"siteInitCost": "0.0",
+						"countrySetupCost": "0.0"
+					},
+					"isAutoDeleted": "false",
+					"createdBy": "PKolhe",
+					"createdDate": "2018-10-26",
+					"lastModifiedTimeLine": "26-Oct-2018",
+					"PLSI": "2018-06-10",
+					"PFSR": "2017-08-04",
+					"lastModifiedUserName": "Priyanka Kolhe",
+					"adjustPlanList": {
+						"adjustPlanThumbnail": [
+							{
+								"key": "436",
+								"name": "Approved_Adj2",
+								"description": "Approved",
+								"screeningPeriod": "7",
+								"enrollmentTarget": "462",
+								"screeningTarget": "560",
+								"planEnrollment": "472",
+								"planScreened": "560",
+								"planLSR": "2018-10-26",
+								"planFSI": "2017-07-25",
+								"planLSS": "2019-01-22",
+								"planCycleTime": "65.6",
+								"planFSS": "2017-07-28",
+								"planCountries": "6",
+								"planSites": "102",
+								"SR": "0.0482736660929432",
+								"SFR": "17.59457339465898",
+								"RR": "0.03978012048192771",
+								"ARC": "81.37254901960785",
+								"FSI": "2017-07-25",
+								"LSR": "2019-01-31",
+								"LSS": "2019-01-24",
+								"cycleTime": "79.4",
+								"planStatus": {
+									"_value": "VALID"
+								},
+								"lastModifiedBy": "PKolhe",
+								"lastModifiedDate": "2018-10-26 04:52:10.535",
+								"version": "2018-10-26 04:52:10.535",
+								"originalPlanKey": "2",
+								"isPlan": "false",
+								"isReadOnly": "true",
+								"isDeletable": "false",
+								"centerInitInfo": {
+									"percentCenterInitInfo": {
+										"centerInitSlot": [
+											{
+												"slotNum": "1",
+												"slotPlannedDate": "2017-07-28"
+											},
+											{
+												"slotNum": "2",
+												"slotPlannedDate": "2017-08-02"
+											},
+											{
+												"slotNum": "3",
+												"slotPlannedDate": "2017-08-11"
+											}
+										]
+									}
+								},
+								"costParams": {
+									"costAlert": "false",
+									"screeningCost": "0.0",
+									"treatmentCost": "0.0",
+									"totalCost": "0.0",
+									"siteInitCost": "0.0",
+									"countrySetupCost": "0.0"
+								},
+								"isAutoDeleted": "false",
+								"createdBy": "PKolhe",
+								"createdDate": "2018-10-26",
+								"lastModifiedTimeLine": "26-Oct-2018",
+								"PLSI": "2018-06-10",
+								"PFSR": "2017-08-04",
+								"lastModifiedUserName": "Priyanka Kolhe",
+								"parentPlankey": "434"
+							},
+							{
+								"key": "435",
+								"name": "Approved_Adj",
+								"description": "Approved",
+								"screeningPeriod": "7",
+								"enrollmentTarget": "462",
+								"screeningTarget": "560",
+								"planEnrollment": "472",
+								"planScreened": "560",
+								"planLSR": "2018-10-26",
+								"planFSI": "2017-07-25",
+								"planLSS": "2019-01-22",
+								"planCycleTime": "65.6",
+								"planFSS": "2017-07-28",
+								"planCountries": "6",
+								"planSites": "102",
+								"SR": "0.0482736660929432",
+								"SFR": "17.59457339465898",
+								"RR": "0.03978012048192771",
+								"ARC": "81.37254901960785",
+								"FSI": "2017-07-25",
+								"LSR": "2019-01-31",
+								"LSS": "2019-01-24",
+								"cycleTime": "79.4",
+								"planStatus": {
+									"_value": "VALID"
+								},
+								"lastModifiedBy": "PKolhe",
+								"lastModifiedDate": "2018-10-26 02:58:59.381",
+								"version": "2018-10-26 02:58:59.381",
+								"originalPlanKey": "2",
+								"isPlan": "false",
+								"isReadOnly": "true",
+								"isDeletable": "false",
+								"centerInitInfo": {
+									"percentCenterInitInfo": {
+										"centerInitSlot": [
+											{
+												"slotNum": "1",
+												"slotPlannedDate": "2017-07-28"
+											},
+											{
+												"slotNum": "2",
+												"slotPlannedDate": "2017-08-02"
+											},
+											{
+												"slotNum": "3",
+												"slotPlannedDate": "2017-08-11"
+											}
+										]
+									}
+								},
+								"costParams": {
+									"costAlert": "false",
+									"screeningCost": "0.0",
+									"treatmentCost": "0.0",
+									"totalCost": "0.0",
+									"siteInitCost": "0.0",
+									"countrySetupCost": "0.0"
+								},
+								"isAutoDeleted": "false",
+								"createdBy": "PKolhe",
+								"createdDate": "2018-10-26",
+								"lastModifiedTimeLine": "26-Oct-2018",
+								"PLSI": "2018-06-10",
+								"PFSR": "2017-08-04",
+								"lastModifiedUserName": "Priyanka Kolhe",
+								"parentPlankey": "434"
+							}
+						]
+					}
+				},
+				{
+					"key": "398",
+					"name": "Adjustment Approved",
+					"description": "test",
+					"screeningPeriod": "7",
+					"enrollmentTarget": "462",
+					"screeningTarget": "560",
+					"planEnrollment": "472",
+					"planScreened": "560",
+					"planLSR": "2018-10-26",
+					"planFSI": "2017-07-25",
+					"planLSS": "2019-01-22",
+					"planCycleTime": "65.6",
+					"planFSS": "2017-07-28",
+					"planCountries": "6",
+					"planSites": "102",
+					"SR": "0.0482736660929432",
+					"SFR": "17.59457339465898",
+					"RR": "0.03978012048192771",
+					"ARC": "81.37254901960785",
+					"FSI": "2017-07-25",
+					"LSR": "2019-01-31",
+					"LSS": "2019-01-24",
+					"cycleTime": "79.4",
+					"planStatus": {
+						"_value": "PREVAPPROVED"
+					},
+					"lastModifiedBy": "suraje",
+					"lastModifiedDate": "2018-04-19 01:42:58.067",
+					"version": "2018-04-19 01:42:58.067",
+					"originalPlanKey": "2",
+					"isPlan": "true",
+					"isReadOnly": "true",
+					"isDeletable": "false",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1",
+									"slotPlannedDate": "2017-07-28"
+								},
+								{
+									"slotNum": "2",
+									"slotPlannedDate": "2017-08-02"
+								},
+								{
+									"slotNum": "3",
+									"slotPlannedDate": "2017-08-11"
+								}
+							]
+						}
+					},
+					"costParams": {
+						"costAlert": "false",
+						"screeningCost": "0.0",
+						"treatmentCost": "0.0",
+						"totalCost": "0.0",
+						"siteInitCost": "0.0",
+						"countrySetupCost": "0.0"
+					},
+					"isAutoDeleted": "false",
+					"createdBy": "suraje",
+					"createdDate": "2018-04-19",
+					"lastModifiedTimeLine": "19-Apr-2018",
+					"PLSI": "2018-06-10",
+					"PFSR": "2017-08-04",
+					"lastModifiedUserName": "Supriya Raje",
+					"adjustPlanList": {
+						"adjustPlanThumbnail": {
+							"key": "433",
+							"name": "Adjustment Approved_1",
+							"description": "test",
+							"screeningPeriod": "7",
+							"enrollmentTarget": "462",
+							"screeningTarget": "560",
+							"planEnrollment": "472",
+							"planScreened": "560",
+							"planLSR": "2018-10-26",
+							"planFSI": "2017-07-25",
+							"planLSS": "2019-01-22",
+							"planCycleTime": "65.6",
+							"planFSS": "2017-07-28",
+							"planCountries": "6",
+							"planSites": "102",
+							"SR": "0.0482736660929432",
+							"SFR": "17.59457339465898",
+							"RR": "0.03978012048192771",
+							"ARC": "81.37254901960785",
+							"FSI": "2017-07-25",
+							"LSR": "2019-01-31",
+							"LSS": "2019-01-24",
+							"cycleTime": "79.4",
+							"planStatus": {
+								"_value": "PREVAPPROVED"
+							},
+							"lastModifiedBy": "PKolhe",
+							"lastModifiedDate": "2018-10-26 02:55:53.990",
+							"version": "2018-10-26 02:55:53.990",
+							"originalPlanKey": "2",
+							"isPlan": "false",
+							"isReadOnly": "true",
+							"isDeletable": "false",
+							"centerInitInfo": {
+								"percentCenterInitInfo": {
+									"centerInitSlot": [
+										{
+											"slotNum": "1",
+											"slotPlannedDate": "2017-07-28"
+										},
+										{
+											"slotNum": "2",
+											"slotPlannedDate": "2017-08-02"
+										},
+										{
+											"slotNum": "3",
+											"slotPlannedDate": "2017-08-11"
+										}
+									]
+								}
+							},
+							"costParams": {
+								"costAlert": "false",
+								"screeningCost": "0.0",
+								"treatmentCost": "0.0",
+								"totalCost": "0.0",
+								"siteInitCost": "0.0",
+								"countrySetupCost": "0.0"
+							},
+							"isAutoDeleted": "false",
+							"createdBy": "PKolhe",
+							"createdDate": "2018-10-26",
+							"lastModifiedTimeLine": "26-Oct-2018",
+							"PLSI": "2018-06-10",
+							"PFSR": "2017-08-04",
+							"lastModifiedUserName": "Priyanka Kolhe",
+							"parentPlankey": "398"
+						}
+					}
+				},
+				{
+					"key": "2",
+					"name": "Baseline",
+					"description": "Demo",
+					"screeningPeriod": "7",
+					"enrollmentTarget": "462",
+					"screeningTarget": "564",
+					"planEnrollment": "472",
+					"planScreened": "577",
+					"planLSR": "2017-12-25",
+					"planFSI": "2017-07-25",
+					"planLSS": "2017-12-18",
+					"planCycleTime": "22.0",
+					"planFSS": "2017-07-28",
+					"planCountries": "6",
+					"planSites": "100",
+					"SR": "0.05551045296167248",
+					"SFR": "17.882653861846038",
+					"RR": "0.04558371080139372",
+					"ARC": "82.0",
+					"FSI": "2017-07-25",
+					"LSR": "2018-01-23",
+					"LSS": "2018-01-16",
+					"cycleTime": "26.1",
+					"planStatus": {
+						"_value": "PREVAPPROVED"
+					},
+					"lastModifiedBy": "LLevin",
+					"lastModifiedDate": "2013-06-19 18:21:18.828",
+					"version": "2013-06-19 18:21:18.828",
+					"originalPlanKey": "2",
+					"isPlan": "true",
+					"isReadOnly": "true",
+					"isDeletable": "false",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1",
+									"slotPlannedDate": "2017-07-28"
+								},
+								{
+									"slotNum": "2",
+									"slotPlannedDate": "2017-08-01"
+								},
+								{
+									"slotNum": "3",
+									"slotPlannedDate": "2017-08-10"
+								}
+							]
+						}
+					},
+					"costParams": {
+						"costAlert": "false",
+						"screeningCost": "0.0",
+						"treatmentCost": "816008.6074087913",
+						"totalCost": "919228.9014151045",
+						"siteInitCost": "103220.2940063133",
+						"countrySetupCost": "0.0"
+					},
+					"isAutoDeleted": "false",
+					"createdBy": "LLevin",
+					"createdDate": "2013-10-16",
+					"lastModifiedTimeLine": "19-Jun-2013",
+					"PLSI": "2014-01-03",
+					"PFSR": "2017-08-04",
+					"lastModifiedUserName": "Lisa Levin",
+					"adjustPlanList": {
+						"adjustPlanThumbnail": {
+							"key": "384",
+							"name": "Adjustment - DO NOT APPROVE",
+							"description": "Demo",
+							"screeningPeriod": "7",
+							"enrollmentTarget": "462",
+							"screeningTarget": "560",
+							"planEnrollment": "472",
+							"planScreened": "560",
+							"planLSR": "2018-10-26",
+							"planFSI": "2017-07-25",
+							"planLSS": "2019-01-22",
+							"planCycleTime": "65.6",
+							"planFSS": "2017-07-28",
+							"planCountries": "6",
+							"planSites": "102",
+							"SR": "0.0482736660929432",
+							"SFR": "17.59457339465898",
+							"RR": "0.03978012048192771",
+							"ARC": "81.37254901960785",
+							"FSI": "2017-07-25",
+							"LSR": "2019-01-31",
+							"LSS": "2019-01-24",
+							"cycleTime": "79.4",
+							"planStatus": {
+								"_value": "PREVAPPROVED"
+							},
+							"lastModifiedBy": "suraje",
+							"lastModifiedDate": "2018-04-19 01:42:57.313",
+							"version": "2018-04-19 01:42:57.313",
+							"originalPlanKey": "2",
+							"isPlan": "false",
+							"isReadOnly": "true",
+							"isDeletable": "false",
+							"centerInitInfo": {
+								"percentCenterInitInfo": {
+									"centerInitSlot": [
+										{
+											"slotNum": "1",
+											"slotPlannedDate": "2017-07-28"
+										},
+										{
+											"slotNum": "2",
+											"slotPlannedDate": "2017-08-02"
+										},
+										{
+											"slotNum": "3",
+											"slotPlannedDate": "2017-08-11"
+										}
+									]
+								}
+							},
+							"costParams": {
+								"costAlert": "false",
+								"screeningCost": "0.0",
+								"treatmentCost": "0.0",
+								"totalCost": "0.0",
+								"siteInitCost": "0.0",
+								"countrySetupCost": "0.0"
+							},
+							"isAutoDeleted": "false",
+							"createdBy": "nbohara",
+							"createdDate": "2018-04-09",
+							"lastModifiedTimeLine": "19-Apr-2018",
+							"PLSI": "2018-06-10",
+							"PFSR": "2017-08-04",
+							"lastModifiedUserName": "Supriya Raje",
+							"parentPlankey": "2"
+						}
+					}
+				},
+				{
+					"key": "493",
+					"name": "Terste343",
+					"screeningPeriod": "11",
+					"enrollmentTarget": "100",
+					"screeningTarget": "0",
+					"planEnrollment": "0",
+					"planScreened": "0",
+					"planCycleTime": "0.0",
+					"planCountries": "0",
+					"planSites": "0",
+					"SR": "0.0",
+					"SFR": "0.0",
+					"RR": "0.0",
+					"ARC": "0.0",
+					"FSI": "2018-12-26",
+					"cycleTime": "0.0",
+					"planStatus": {
+						"_value": "INVALID"
+					},
+					"lastModifiedBy": "demouser",
+					"lastModifiedDate": "2018-12-17 01:33:38.326",
+					"version": "2018-12-17 01:33:38.326",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1"
+								},
+								{
+									"slotNum": "2"
+								},
+								{
+									"slotNum": "3"
+								}
+							]
+						}
+					},
+					"costParams": "",
+					"isAutoDeleted": "false",
+					"createdBy": "demouser",
+					"createdDate": "2018-12-17",
+					"lastModifiedTimeLine": "Today",
+					"lastModifiedUserName": "swapnil kamble"
+				},
+				{
+					"key": "492",
+					"name": "test4567",
+					"screeningPeriod": "89",
+					"enrollmentTarget": "345",
+					"screeningTarget": "0",
+					"planEnrollment": "0",
+					"planScreened": "0",
+					"planCycleTime": "0.0",
+					"planCountries": "0",
+					"planSites": "0",
+					"SR": "0.0",
+					"SFR": "0.0",
+					"RR": "0.0",
+					"ARC": "0.0",
+					"FSI": "2018-12-17",
+					"cycleTime": "0.0",
+					"planStatus": {
+						"_value": "INVALID"
+					},
+					"lastModifiedBy": "demouser",
+					"lastModifiedDate": "2018-12-17 00:24:38.193",
+					"version": "2018-12-17 00:24:38.193",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1"
+								},
+								{
+									"slotNum": "2"
+								},
+								{
+									"slotNum": "3"
+								}
+							]
+						}
+					},
+					"costParams": "",
+					"isAutoDeleted": "false",
+					"createdBy": "demouser",
+					"createdDate": "2018-12-17",
+					"lastModifiedTimeLine": "Today",
+					"lastModifiedUserName": "swapnil kamble"
+				},
+				{
+					"key": "491",
+					"name": "Test23232",
+					"screeningPeriod": "100",
+					"enrollmentTarget": "100",
+					"screeningTarget": "0",
+					"planEnrollment": "0",
+					"planScreened": "0",
+					"planCycleTime": "0.0",
+					"planCountries": "0",
+					"planSites": "0",
+					"SR": "0.0",
+					"SFR": "0.0",
+					"RR": "0.0",
+					"ARC": "0.0",
+					"FSI": "2018-12-27",
+					"cycleTime": "0.0",
+					"planStatus": {
+						"_value": "INVALID"
+					},
+					"lastModifiedBy": "demouser",
+					"lastModifiedDate": "2018-12-17 00:08:20.641",
+					"version": "2018-12-17 00:08:20.641",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1"
+								},
+								{
+									"slotNum": "2"
+								},
+								{
+									"slotNum": "3"
+								}
+							]
+						}
+					},
+					"costParams": "",
+					"isAutoDeleted": "false",
+					"createdBy": "demouser",
+					"createdDate": "2018-12-17",
+					"lastModifiedTimeLine": "Today",
+					"lastModifiedUserName": "swapnil kamble"
+				},
+				{
+					"key": "490",
+					"name": "Test4556",
+					"screeningPeriod": "100",
+					"enrollmentTarget": "199",
+					"screeningTarget": "0",
+					"planEnrollment": "0",
+					"planScreened": "0",
+					"planCycleTime": "0.0",
+					"planCountries": "0",
+					"planSites": "0",
+					"SR": "0.0",
+					"SFR": "0.0",
+					"RR": "0.0",
+					"ARC": "0.0",
+					"FSI": "2018-12-26",
+					"cycleTime": "0.0",
+					"planStatus": {
+						"_value": "INVALID"
+					},
+					"lastModifiedBy": "demouser",
+					"lastModifiedDate": "2018-12-17 00:07:02.910",
+					"version": "2018-12-17 00:07:02.910",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1"
+								},
+								{
+									"slotNum": "2"
+								},
+								{
+									"slotNum": "3"
+								}
+							]
+						}
+					},
+					"costParams": "",
+					"isAutoDeleted": "false",
+					"createdBy": "demouser",
+					"createdDate": "2018-12-16",
+					"lastModifiedTimeLine": "Today",
+					"lastModifiedUserName": "swapnil kamble"
+				},
+				{
+					"key": "489",
+					"name": "TestNewPlan",
+					"screeningPeriod": "10",
+					"enrollmentTarget": "400",
+					"screeningTarget": "0",
+					"planEnrollment": "0",
+					"planScreened": "0",
+					"planCycleTime": "0.0",
+					"planCountries": "0",
+					"planSites": "0",
+					"SR": "0.0",
+					"SFR": "0.0",
+					"RR": "0.0",
+					"ARC": "0.0",
+					"FSI": "2018-12-18",
+					"cycleTime": "0.0",
+					"planStatus": {
+						"_value": "INVALID"
+					},
+					"lastModifiedBy": "demouser",
+					"lastModifiedDate": "2018-12-16 23:54:28.429",
+					"version": "2018-12-16 23:54:28.429",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1"
+								},
+								{
+									"slotNum": "2"
+								},
+								{
+									"slotNum": "3"
+								}
+							]
+						}
+					},
+					"costParams": "",
+					"isAutoDeleted": "false",
+					"createdBy": "demouser",
+					"createdDate": "2018-12-16",
+					"lastModifiedTimeLine": "Yesterday",
+					"lastModifiedUserName": "swapnil kamble"
+				},
+				{
+					"key": "487",
+					"name": "01_Test",
+					"description": "Copied from 01_Test",
+					"screeningPeriod": "7",
+					"enrollmentTarget": "462",
+					"screeningTarget": "577",
+					"planEnrollment": "472",
+					"planScreened": "577",
+					"planLSR": "2019-04-02",
+					"planFSI": "2018-09-01",
+					"planLSS": "2019-04-28",
+					"planCycleTime": "30.6",
+					"planFSS": "2018-09-04",
+					"planCountries": "6",
+					"planSites": "100",
+					"SR": "0.05551045296167248",
+					"SFR": "17.882653861846038",
+					"RR": "0.04558371080139372",
+					"ARC": "82.0",
+					"FSI": "2018-09-01",
+					"LSR": "2019-03-02",
+					"LSS": "2019-02-23",
+					"cycleTime": "26.1",
+					"planStatus": {
+						"_value": "INVALID"
+					},
+					"lastModifiedBy": "qatest",
+					"lastModifiedDate": "2018-12-16 19:15:45.584",
+					"version": "2018-12-16 19:15:45.584",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1",
+									"slotPlannedDate": "2018-09-04"
+								},
+								{
+									"slotNum": "2",
+									"slotPlannedDate": "2018-09-08"
+								},
+								{
+									"slotNum": "3",
+									"slotPlannedDate": "2018-09-13"
+								}
+							]
+						}
+					},
+					"costParams": {
+						"costAlert": "true",
+						"screeningCost": "0.0",
+						"treatmentCost": "816008.6074087913",
+						"totalCost": "919228.9014151045",
+						"siteInitCost": "103220.2940063133",
+						"countrySetupCost": "0.0"
+					},
+					"isAutoDeleted": "false",
+					"createdBy": "qatest",
+					"createdDate": "2018-12-15",
+					"lastModifiedTimeLine": "Yesterday",
+					"PLSI": "2018-09-22",
+					"PFSR": "2018-09-11",
+					"lastModifiedUserName": "qatest qatest"
+				},
+				{
+					"key": "482",
+					"name": "demo3",
+					"screeningPeriod": "2",
+					"enrollmentTarget": "100",
+					"screeningTarget": "0",
+					"planEnrollment": "10",
+					"planScreened": "100",
+					"planFSI": "2018-12-29",
+					"planCycleTime": "0.0",
+					"planFSS": "2019-01-16",
+					"planCountries": "1",
+					"planSites": "2",
+					"SR": "0.028571428571428577",
+					"SFR": "90.0",
+					"RR": "0.002857142857142857",
+					"ARC": "100.0",
+					"FPA": "2018-12-26",
+					"FPAtoFSI": "2",
+					"FSI": "2018-12-28",
+					"LSR": "2019-01-04",
+					"LSS": "2019-01-02",
+					"cycleTime": "1.1",
+					"planStatus": {
+						"_value": "INVALID"
+					},
+					"lastModifiedBy": "qatest",
+					"lastModifiedDate": "2018-12-16 18:47:11.444",
+					"version": "2018-12-16 18:47:11.444",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1",
+									"slotPlannedDate": "2018-12-29"
+								},
+								{
+									"slotNum": "2",
+									"slotPlannedDate": "2018-12-29"
+								},
+								{
+									"slotNum": "3",
+									"slotPlannedDate": "2018-12-29"
+								}
+							]
+						}
+					},
+					"costParams": "",
+					"isAutoDeleted": "false",
+					"createdBy": "demouser",
+					"createdDate": "2018-12-14",
+					"lastModifiedTimeLine": "Yesterday",
+					"PLSI": "2018-12-31",
+					"PFSR": "2019-03-12",
+					"lastModifiedUserName": "qatest qatest"
+				},
+				{
+					"key": "477",
+					"name": "Test_PB",
+					"description": "Demo",
+					"screeningPeriod": "7",
+					"enrollmentTarget": "462",
+					"screeningTarget": "577",
+					"planEnrollment": "472",
+					"planScreened": "577",
+					"planLSR": "2018-01-02",
+					"planFSI": "2017-07-25",
+					"planLSS": "2018-01-31",
+					"planCycleTime": "23.1",
+					"planFSS": "2017-07-28",
+					"planCountries": "6",
+					"planSites": "100",
+					"SR": "0.05551045296167248",
+					"SFR": "17.882653861846038",
+					"RR": "0.04558371080139372",
+					"ARC": "82.0",
+					"FSI": "2017-07-25",
+					"LSR": "2018-01-23",
+					"LSS": "2018-01-16",
+					"cycleTime": "26.1",
+					"planStatus": {
+						"_value": "VALID"
+					},
+					"lastModifiedBy": "Test_2",
+					"lastModifiedDate": "2018-12-14 08:30:28.382",
+					"version": "2018-12-14 08:30:28.382",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1",
+									"slotPlannedDate": "2017-07-28"
+								},
+								{
+									"slotNum": "2",
+									"slotPlannedDate": "2017-08-01"
+								},
+								{
+									"slotNum": "3",
+									"slotPlannedDate": "2017-08-06"
+								}
+							]
+						}
+					},
+					"costParams": {
+						"costAlert": "true",
+						"screeningCost": "0.0",
+						"treatmentCost": "816008.6074087913",
+						"totalCost": "919228.9014151045",
+						"siteInitCost": "103220.2940063133",
+						"countrySetupCost": "0.0"
+					},
+					"isAutoDeleted": "false",
+					"createdBy": "Test_2",
+					"createdDate": "2018-12-13",
+					"lastModifiedTimeLine": "3 days ago",
+					"PLSI": "2017-08-15",
+					"PFSR": "2017-08-04",
+					"lastModifiedUserName": "Test Two"
+				},
+				{
+					"key": "481",
+					"name": "DemoPlan",
+					"screeningPeriod": "10",
+					"enrollmentTarget": "100",
+					"screeningTarget": "0",
+					"planEnrollment": "0",
+					"planScreened": "0",
+					"planCycleTime": "0.0",
+					"planCountries": "0",
+					"planSites": "0",
+					"SR": "0.0",
+					"SFR": "0.0",
+					"RR": "0.0",
+					"ARC": "0.0",
+					"FSI": "2018-12-29",
+					"cycleTime": "0.0",
+					"planStatus": {
+						"_value": "INVALID"
+					},
+					"lastModifiedBy": "demouser",
+					"lastModifiedDate": "2018-12-14 01:55:33.453",
+					"version": "2018-12-14 01:55:33.453",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1"
+								},
+								{
+									"slotNum": "2"
+								},
+								{
+									"slotNum": "3"
+								}
+							]
+						}
+					},
+					"costParams": "",
+					"isAutoDeleted": "false",
+					"createdBy": "demouser",
+					"createdDate": "2018-12-14",
+					"lastModifiedTimeLine": "3 days ago",
+					"lastModifiedUserName": "swapnil kamble"
+				},
+				{
+					"key": "478",
+					"name": "Test_PB111",
+					"screeningPeriod": "2",
+					"enrollmentTarget": "500",
+					"screeningTarget": "0",
+					"planEnrollment": "0",
+					"planScreened": "0",
+					"planCycleTime": "0.0",
+					"planCountries": "14",
+					"planSites": "0",
+					"SR": "0.0",
+					"SFR": "0.0",
+					"RR": "0.0",
+					"ARC": "0.0",
+					"FSI": "2019-01-14",
+					"LSR": "2019-10-14",
+					"LSS": "2019-10-12",
+					"cycleTime": "39.1",
+					"planStatus": {
+						"_value": "INVALID"
+					},
+					"lastModifiedBy": "Test_2",
+					"lastModifiedDate": "2018-12-13 02:46:34.912",
+					"version": "2018-12-13 02:46:34.912",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1"
+								},
+								{
+									"slotNum": "2"
+								},
+								{
+									"slotNum": "3"
+								}
+							]
+						}
+					},
+					"costParams": "",
+					"isAutoDeleted": "false",
+					"createdBy": "Test_2",
+					"createdDate": "2018-12-13",
+					"lastModifiedTimeLine": "4 days ago",
+					"lastModifiedUserName": "Test Two"
+				},
+				{
+					"key": "461",
+					"name": "Test_Ab1",
+					"screeningPeriod": "10",
+					"enrollmentTarget": "462",
+					"screeningTarget": "0",
+					"planEnrollment": "0",
+					"planScreened": "0",
+					"planCycleTime": "0.0",
+					"planCountries": "0",
+					"planSites": "0",
+					"SR": "0.0",
+					"SFR": "0.0",
+					"RR": "0.0",
+					"ARC": "0.0",
+					"FSI": "2018-09-25",
+					"LSR": "2019-03-26",
+					"LSS": "2019-03-16",
+					"cycleTime": "26.1",
+					"planStatus": {
+						"_value": "INVALID"
+					},
+					"lastModifiedBy": "Test_1",
+					"lastModifiedDate": "2018-12-10 05:06:33.512",
+					"version": "2018-12-10 05:06:33.512",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1"
+								},
+								{
+									"slotNum": "2"
+								},
+								{
+									"slotNum": "3"
+								}
+							]
+						}
+					},
+					"costParams": "",
+					"isAutoDeleted": "false",
+					"createdBy": "Test_1",
+					"createdDate": "2018-12-10",
+					"lastModifiedTimeLine": "7 days ago",
+					"lastModifiedUserName": "Test One"
+				},
+				{
+					"key": "457",
+					"name": "BasePlan_PB1",
+					"description": "Demo",
+					"screeningPeriod": "7",
+					"enrollmentTarget": "462",
+					"screeningTarget": "577",
+					"planEnrollment": "472",
+					"planScreened": "577",
+					"planLSR": "2017-12-25",
+					"planFSI": "2017-07-25",
+					"planLSS": "2018-01-10",
+					"planCycleTime": "22.0",
+					"planFSS": "2017-07-28",
+					"planCountries": "6",
+					"planSites": "100",
+					"SR": "0.05551045296167248",
+					"SFR": "17.882653861846038",
+					"RR": "0.04558371080139372",
+					"ARC": "82.0",
+					"FSI": "2017-07-25",
+					"LSR": "2018-01-23",
+					"LSS": "2018-01-16",
+					"cycleTime": "26.1",
+					"planStatus": {
+						"_value": "VALID"
+					},
+					"lastModifiedBy": "pallavi_borse",
+					"lastModifiedDate": "2018-11-15 22:18:44.546",
+					"version": "2018-11-15 22:18:44.546",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1",
+									"slotPlannedDate": "2017-07-28"
+								},
+								{
+									"slotNum": "2",
+									"slotPlannedDate": "2017-08-01"
+								},
+								{
+									"slotNum": "3",
+									"slotPlannedDate": "2017-08-10"
+								}
+							]
+						}
+					},
+					"costParams": {
+						"costAlert": "false",
+						"screeningCost": "0.0",
+						"treatmentCost": "816008.6074087913",
+						"totalCost": "919228.9014151045",
+						"siteInitCost": "103220.2940063133",
+						"countrySetupCost": "0.0"
+					},
+					"isAutoDeleted": "false",
+					"createdBy": "pallavi_borse",
+					"createdDate": "2018-11-15",
+					"lastModifiedTimeLine": "15-Nov-2018",
+					"PLSI": "2014-01-03",
+					"PFSR": "2017-08-04",
+					"lastModifiedUserName": "Pallavi Borse"
+				},
+				{
+					"key": "432",
+					"name": "test13",
+					"screeningPeriod": "30",
+					"enrollmentTarget": "462",
+					"screeningTarget": "0",
+					"planEnrollment": "398",
+					"planScreened": "0",
+					"planCycleTime": "0.0",
+					"planCountries": "14",
+					"planSites": "0",
+					"SR": "0.0",
+					"SFR": "0.0",
+					"RR": "0.0",
+					"ARC": "0.0",
+					"FSI": "2018-01-17",
+					"LSR": "2022-07-18",
+					"LSS": "2022-06-18",
+					"cycleTime": "234.9",
+					"planStatus": {
+						"_value": "INVALID"
+					},
+					"lastModifiedBy": "nbohara",
+					"lastModifiedDate": "2018-10-25 05:02:53.233",
+					"version": "2018-10-25 05:02:53.233",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1"
+								},
+								{
+									"slotNum": "2"
+								},
+								{
+									"slotNum": "3"
+								}
+							]
+						}
+					},
+					"costParams": {
+						"costAlert": "false",
+						"screeningCost": "0.0",
+						"treatmentCost": "0.0",
+						"totalCost": "3000.0",
+						"siteInitCost": "0.0",
+						"countrySetupCost": "3000.0"
+					},
+					"isAutoDeleted": "false",
+					"createdBy": "nbohara",
+					"createdDate": "2018-10-25",
+					"lastModifiedTimeLine": "25-Oct-2018",
+					"lastModifiedUserName": "Nidhi Bohara"
+				},
+				{
+					"key": "431",
+					"name": "test12",
+					"screeningPeriod": "30",
+					"enrollmentTarget": "462",
+					"screeningTarget": "0",
+					"planEnrollment": "0",
+					"planScreened": "0",
+					"planCycleTime": "0.0",
+					"planCountries": "0",
+					"planSites": "0",
+					"SR": "0.0",
+					"SFR": "0.0",
+					"RR": "0.0",
+					"ARC": "0.0",
+					"FSI": "2018-01-17",
+					"LSR": "2018-07-18",
+					"LSS": "2018-06-18",
+					"cycleTime": "26.1",
+					"planStatus": {
+						"_value": "INVALID"
+					},
+					"lastModifiedBy": "nbohara",
+					"lastModifiedDate": "2018-10-25 02:44:14.777",
+					"version": "2018-10-25 02:44:14.777",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1"
+								},
+								{
+									"slotNum": "2"
+								},
+								{
+									"slotNum": "3"
+								}
+							]
+						}
+					},
+					"costParams": "",
+					"isAutoDeleted": "false",
+					"createdBy": "nbohara",
+					"createdDate": "2018-10-25",
+					"lastModifiedTimeLine": "25-Oct-2018",
+					"lastModifiedUserName": "Nidhi Bohara"
+				},
+				{
+					"key": "430",
+					"name": "tettt",
+					"screeningPeriod": "30",
+					"enrollmentTarget": "462",
+					"screeningTarget": "0",
+					"planEnrollment": "0",
+					"planScreened": "0",
+					"planCycleTime": "0.0",
+					"planCountries": "0",
+					"planSites": "0",
+					"SR": "0.0",
+					"SFR": "0.0",
+					"RR": "0.0",
+					"ARC": "0.0",
+					"FSI": "2018-01-17",
+					"LSR": "2022-07-18",
+					"LSS": "2022-06-18",
+					"cycleTime": "234.9",
+					"planStatus": {
+						"_value": "INVALID"
+					},
+					"lastModifiedBy": "nbohara",
+					"lastModifiedDate": "2018-10-22 06:16:14.555",
+					"version": "2018-10-22 06:16:14.555",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1"
+								},
+								{
+									"slotNum": "2"
+								},
+								{
+									"slotNum": "3"
+								}
+							]
+						}
+					},
+					"costParams": "",
+					"isAutoDeleted": "false",
+					"createdBy": "nbohara",
+					"createdDate": "2018-10-22",
+					"lastModifiedTimeLine": "22-Oct-2018",
+					"lastModifiedUserName": "Nidhi Bohara"
+				},
+				{
+					"key": "212",
+					"name": "Baseplan Copy",
+					"description": "Demo",
+					"screeningPeriod": "7",
+					"enrollmentTarget": "462",
+					"screeningTarget": "578",
+					"planEnrollment": "472",
+					"planScreened": "578",
+					"planLSR": "2018-01-16",
+					"planFSI": "2017-07-25",
+					"planLSS": "2018-02-13",
+					"planCycleTime": "25.1",
+					"planFSS": "2017-07-28",
+					"planCountries": "6",
+					"planSites": "100",
+					"SR": "0.05551045296167248",
+					"SFR": "17.882653861846038",
+					"RR": "0.04558371080139372",
+					"ARC": "82.0",
+					"FSI": "2017-07-25",
+					"LSR": "2018-01-23",
+					"LSS": "2018-01-16",
+					"cycleTime": "26.1",
+					"planStatus": {
+						"_value": "VALID"
+					},
+					"lastModifiedBy": "suraje",
+					"lastModifiedDate": "2018-04-27 06:02:52.717",
+					"version": "2018-04-27 06:02:52.717",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1",
+									"slotPlannedDate": "2017-07-28"
+								},
+								{
+									"slotNum": "2",
+									"slotPlannedDate": "2017-08-01"
+								},
+								{
+									"slotNum": "3",
+									"slotPlannedDate": "2017-08-10"
+								}
+							]
+						}
+					},
+					"costParams": {
+						"costAlert": "true",
+						"screeningCost": "0.0",
+						"treatmentCost": "0.0",
+						"totalCost": "0.0",
+						"siteInitCost": "0.0",
+						"countrySetupCost": "0.0"
+					},
+					"isAutoDeleted": "false",
+					"createdBy": "vdubal",
+					"createdDate": "2016-12-14",
+					"lastModifiedTimeLine": "27-Apr-2018",
+					"PLSI": "2017-08-15",
+					"PFSR": "2017-08-04",
+					"lastModifiedUserName": "Supriya Raje"
+				},
+				{
+					"key": "310",
+					"name": "test1",
+					"screeningPeriod": "10",
+					"enrollmentTarget": "100",
+					"screeningTarget": "112",
+					"planEnrollment": "100",
+					"planScreened": "112",
+					"planLSR": "2018-01-17",
+					"planFSI": "2017-11-19",
+					"planLSS": "2018-01-07",
+					"planCycleTime": "8.6",
+					"planFSS": "2017-11-25",
+					"planCountries": "5",
+					"planSites": "25",
+					"SR": "0.15873015873015872",
+					"SFR": "10.0",
+					"RR": "0.14285714285714285",
+					"ARC": "83.33333333333334",
+					"FPA": "2017-11-04",
+					"FPAtoFSI": "15",
+					"FSI": "2017-11-19",
+					"LSR": "2018-01-29",
+					"LSS": "2018-01-19",
+					"cycleTime": "10.3",
+					"planStatus": {
+						"_value": "INVALID"
+					},
+					"lastModifiedBy": "msheshala",
+					"lastModifiedDate": "2018-04-20 19:44:44.270",
+					"version": "2018-04-20 19:44:44.270",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1",
+									"slotPlannedDate": "2017-11-30"
+								},
+								{
+									"slotNum": "2",
+									"slotPlannedDate": "2017-12-05"
+								},
+								{
+									"slotNum": "3",
+									"slotPlannedDate": "2017-12-15"
+								}
+							]
+						}
+					},
+					"costParams": "",
+					"isAutoDeleted": "false",
+					"createdBy": "msheshala",
+					"createdDate": "2017-05-24",
+					"lastModifiedTimeLine": "20-Apr-2018",
+					"PLSI": "2017-12-18",
+					"PFSR": "2017-12-05",
+					"lastModifiedUserName": "Madhu Sheshala"
+				},
+				{
+					"key": "382",
+					"name": "Test_14676",
+					"screeningPeriod": "30",
+					"enrollmentTarget": "200",
+					"screeningTarget": "0",
+					"planEnrollment": "0",
+					"planScreened": "0",
+					"planCycleTime": "0.0",
+					"planCountries": "0",
+					"planSites": "0",
+					"SR": "0.0",
+					"SFR": "0.0",
+					"RR": "0.0",
+					"ARC": "0.0",
+					"FSI": "2018-01-17",
+					"LSR": "2022-07-18",
+					"LSS": "2022-06-18",
+					"cycleTime": "234.9",
+					"planStatus": {
+						"_value": "INVALID"
+					},
+					"lastModifiedBy": "nbohara",
+					"lastModifiedDate": "2018-04-09 05:25:14.512",
+					"version": "2018-04-09 05:25:14.512",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1"
+								},
+								{
+									"slotNum": "2"
+								},
+								{
+									"slotNum": "3"
+								}
+							]
+						}
+					},
+					"costParams": "",
+					"isAutoDeleted": "false",
+					"createdBy": "nbohara",
+					"createdDate": "2018-04-09",
+					"lastModifiedTimeLine": "09-Apr-2018",
+					"lastModifiedUserName": "Nidhi Bohara"
+				},
+				{
+					"key": "297",
+					"name": "Test2",
+					"screeningPeriod": "20",
+					"enrollmentTarget": "462",
+					"screeningTarget": "0",
+					"planEnrollment": "0",
+					"planScreened": "0",
+					"planCycleTime": "0.0",
+					"planCountries": "0",
+					"planSites": "0",
+					"SR": "0.0",
+					"SFR": "0.0",
+					"RR": "0.0",
+					"ARC": "0.0",
+					"FSI": "2017-08-09",
+					"LSR": "2018-02-07",
+					"LSS": "2018-01-18",
+					"cycleTime": "26.1",
+					"planStatus": {
+						"_value": "INVALID"
+					},
+					"lastModifiedBy": "vdubal",
+					"lastModifiedDate": "2017-05-05 14:46:16.224",
+					"version": "2017-05-05 14:46:16.224",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1"
+								},
+								{
+									"slotNum": "2"
+								},
+								{
+									"slotNum": "3"
+								}
+							]
+						}
+					},
+					"costParams": "",
+					"isAutoDeleted": "false",
+					"createdBy": "vdubal",
+					"createdDate": "2017-05-05",
+					"lastModifiedTimeLine": "05-May-2017",
+					"lastModifiedUserName": "Vladimir Dubal"
+				},
+				{
+					"key": "198",
+					"name": "Test",
+					"screeningPeriod": "12",
+					"enrollmentTarget": "462",
+					"screeningTarget": "0",
+					"planEnrollment": "595",
+					"planScreened": "0",
+					"planCycleTime": "0.0",
+					"planCountries": "21",
+					"planSites": "0",
+					"SR": "0.0",
+					"SFR": "0.0",
+					"RR": "0.0",
+					"ARC": "85.67335243553008",
+					"FSI": "2017-08-09",
+					"LSR": "2018-02-07",
+					"LSS": "2018-01-26",
+					"cycleTime": "26.1",
+					"planStatus": {
+						"_value": "INVALID"
+					},
+					"lastModifiedBy": "DemoUser1",
+					"lastModifiedDate": "2017-02-27 07:42:26.529",
+					"version": "2017-02-27 07:42:26.529",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1"
+								},
+								{
+									"slotNum": "2"
+								},
+								{
+									"slotNum": "3"
+								}
+							]
+						}
+					},
+					"costParams": "",
+					"isAutoDeleted": "false",
+					"createdBy": "pborole",
+					"createdDate": "2016-11-22",
+					"lastModifiedTimeLine": "27-Feb-2017",
+					"lastModifiedUserName": "DemoUser1 DemoUser1"
+				},
+				{
+					"key": "235",
+					"name": "test22feb",
+					"screeningPeriod": "20",
+					"enrollmentTarget": "462",
+					"screeningTarget": "473",
+					"planEnrollment": "462",
+					"planScreened": "473",
+					"planLSR": "2018-02-07",
+					"planFSI": "2017-08-09",
+					"planLSS": "2018-01-18",
+					"planCycleTime": "26.1",
+					"planFSS": "2017-08-19",
+					"planCountries": "2",
+					"planSites": "30",
+					"SR": "0.1449256559766764",
+					"SFR": "2.000000000000014",
+					"RR": "0.14202714285714285",
+					"ARC": "100.0",
+					"FSI": "2017-08-09",
+					"LSR": "2018-02-07",
+					"LSS": "2018-01-18",
+					"cycleTime": "26.1",
+					"planStatus": {
+						"_value": "VALID"
+					},
+					"lastModifiedBy": "pborole",
+					"lastModifiedDate": "2017-02-22 04:26:16.819",
+					"version": "2017-02-22 04:26:16.819",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1",
+									"slotPlannedDate": "2017-08-19"
+								},
+								{
+									"slotNum": "2",
+									"slotPlannedDate": "2017-08-29"
+								},
+								{
+									"slotNum": "3",
+									"slotPlannedDate": "2017-09-10"
+								}
+							]
+						}
+					},
+					"costParams": "",
+					"isAutoDeleted": "false",
+					"createdBy": "pborole",
+					"createdDate": "2017-02-22",
+					"lastModifiedTimeLine": "22-Feb-2017",
+					"PLSI": "2014-01-31",
+					"PFSR": "2017-09-08",
+					"lastModifiedUserName": "pankaj borole"
+				},
+				{
+					"key": "40",
+					"name": "Plan for May 9th 2014",
+					"description": "Demo",
+					"screeningPeriod": "7",
+					"enrollmentTarget": "462",
+					"screeningTarget": "563",
+					"planEnrollment": "472",
+					"planScreened": "576",
+					"planLSR": "2017-12-25",
+					"planFSI": "2017-07-25",
+					"planLSS": "2017-12-18",
+					"planCycleTime": "22.0",
+					"planFSS": "2017-07-28",
+					"planCountries": "6",
+					"planSites": "100",
+					"SR": "0.055524390243902294",
+					"SFR": "17.56271770575134",
+					"RR": "0.045772798327525996",
+					"ARC": "82.0",
+					"FSI": "2017-07-25",
+					"LSR": "2018-01-23",
+					"LSS": "2018-01-16",
+					"cycleTime": "26.1",
+					"planStatus": {
+						"_value": "VALID"
+					},
+					"lastModifiedBy": "vdubal",
+					"lastModifiedDate": "2014-10-15 12:20:33.141",
+					"version": "2014-10-15 12:20:33.141",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1",
+									"slotPlannedDate": "2017-07-28"
+								},
+								{
+									"slotNum": "2",
+									"slotPlannedDate": "2017-08-01"
+								},
+								{
+									"slotNum": "3",
+									"slotPlannedDate": "2017-08-10"
+								}
+							]
+						}
+					},
+					"costParams": {
+						"costAlert": "false",
+						"screeningCost": "1483289.35",
+						"treatmentCost": "8094625.7",
+						"totalCost": "9889125.05",
+						"siteInitCost": "281750.0",
+						"countrySetupCost": "29460.0"
+					},
+					"isAutoDeleted": "false",
+					"createdBy": "april.lewis",
+					"createdDate": "2014-05-07",
+					"lastModifiedTimeLine": "15-Oct-2014",
+					"PLSI": "2014-01-03",
+					"PFSR": "2017-08-04",
+					"lastModifiedUserName": "Vladimir Dubal"
+				},
+				{
+					"key": "17",
+					"name": "copied plan",
+					"description": "Demo",
+					"screeningPeriod": "7",
+					"enrollmentTarget": "462",
+					"screeningTarget": "564",
+					"planEnrollment": "472",
+					"planScreened": "577",
+					"planLSR": "2017-12-25",
+					"planFSI": "2017-07-25",
+					"planLSS": "2017-12-18",
+					"planCycleTime": "22.0",
+					"planFSS": "2017-07-28",
+					"planCountries": "6",
+					"planSites": "100",
+					"SR": "0.05551045296167248",
+					"SFR": "17.882653861846038",
+					"RR": "0.04558371080139372",
+					"ARC": "82.0",
+					"FSI": "2017-07-25",
+					"LSR": "2018-01-23",
+					"LSS": "2018-01-16",
+					"cycleTime": "26.1",
+					"planStatus": {
+						"_value": "VALID"
+					},
+					"lastModifiedBy": "adminrobin",
+					"lastModifiedDate": "2013-11-25 13:24:08.887",
+					"version": "2013-11-25 13:24:08.887",
+					"isPlan": "true",
+					"isReadOnly": "false",
+					"isDeletable": "true",
+					"centerInitInfo": {
+						"percentCenterInitInfo": {
+							"centerInitSlot": [
+								{
+									"slotNum": "1",
+									"slotPlannedDate": "2017-07-28"
+								},
+								{
+									"slotNum": "2",
+									"slotPlannedDate": "2017-08-01"
+								},
+								{
+									"slotNum": "3",
+									"slotPlannedDate": "2017-08-10"
+								}
+							]
+						}
+					},
+					"costParams": "",
+					"isAutoDeleted": "false",
+					"createdBy": "adminrobin",
+					"createdDate": "2013-11-25",
+					"lastModifiedTimeLine": "25-Nov-2013",
+					"PLSI": "2014-01-03",
+					"lastModifiedUserName": "admin9 admin9"
+				}
+			]
+		},
+		"result": "OK"
+	}
+}

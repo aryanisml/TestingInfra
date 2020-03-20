@@ -1,0 +1,355 @@
+{
+    "serviceResponse": {
+        "result": "OK",
+        "briefPlanList": {
+            "briefPlanThumbnail": [
+                {
+                    "description": "test",
+                    "planStatus": {
+                        "value": "APPROVED"
+                    },
+                    "originalPlanKey": 2,
+                    "isDeletable": false,
+                    "isReadOnly": true,
+                    "isPlan": true,
+                    "isAutoDeleted": false,
+                    "key": 398,
+                    "enrollmentTarget": 462,
+                    "lastModifiedDate": "2018-04-19 01:42:58.067",
+                    "name": "Adjustment Approved",
+                    "planType": "ABCD"
+                },
+                {
+                    "description": "Demo",
+                    "planStatus": {
+                        "value": "PREVAPPROVED"
+                    },
+                    "originalPlanKey": 2,
+                    "isDeletable": false,
+                    "isReadOnly": true,
+                    "isPlan": true,
+                    "isAutoDeleted": false,
+                    "briefAdjustPlanList": {
+                        "briefAdjustPlanThumbnail": {
+                            "description": "Demo",
+                            "planStatus": {
+                                "value": "PREVAPPROVED"
+                            },
+                            "originalPlanKey": 2,
+                            "isDeletable": false,
+                            "isReadOnly": true,
+                            "isPlan": false,
+                            "isAutoDeleted": false,
+                            "key": 384,
+                            "parentPlankey": 2,
+                            "enrollmentTarget": 462,
+                            "lastModifiedDate": "2018-04-19 01:42:57.313",
+                            "name": "Adjustment - DO NOT APPROVE sdfgsjkdhfsfgskjghdfkjsghdfkjshkdfjhskjdfhksjhdfkjshdkfjhskdjfhksjdhfkshdkfjhskdjfhksjdhf"
+                        }
+                    },
+                    "key": 2,
+                    "enrollmentTarget": 462,
+                    "lastModifiedDate": "2013-06-19 18:21:18.828",
+                    "name": "Baseline"
+                },
+                {
+                    "planStatus": {
+                        "value": "VALID"
+                    },
+                    "isDeletable": true,
+                    "isReadOnly": false,
+                    "isPlan": true,
+                    "isAutoDeleted": false,
+                    "key": 430,
+                    "enrollmentTarget": 462,
+                    "lastModifiedDate": "2018-07-20 06:06:51.882",
+                    "name": "TLSR NULL"
+                },
+                {
+                    "description": "Demo",
+                    "planStatus": {
+                        "value": "VALID"
+                    },
+                    "isDeletable": true,
+                    "isReadOnly": false,
+                    "isPlan": true,
+                    "isAutoDeleted": false,
+                    "key": 212,
+                    "enrollmentTarget": 462,
+                    "lastModifiedDate": "2018-04-27 06:02:52.717",
+                    "name": "Baseplan Copy"
+                },
+                {
+                    "planStatus": {
+                        "value": "VALID"
+                    },
+                    "isDeletable": true,
+                    "isReadOnly": false,
+                    "isPlan": true,
+                    "isAutoDeleted": false,
+                    "key": 310,
+                    "enrollmentTarget": 100,
+                    "lastModifiedDate": "2018-04-20 19:44:44.270",
+                    "name": "test1"
+                },
+                {
+                    "planStatus": {
+                        "value": "VALID"
+                    },
+                    "isDeletable": true,
+                    "isReadOnly": false,
+                    "isPlan": true,
+                    "isAutoDeleted": false,
+                    "key": 382,
+                    "enrollmentTarget": 200,
+                    "lastModifiedDate": "2018-04-09 05:25:14.512",
+                    "name": "Test_14676"
+                },
+                {
+                    "planStatus": {
+                        "value": "VALID"
+                    },
+                    "isDeletable": true,
+                    "isReadOnly": false,
+                    "isPlan": true,
+                    "isAutoDeleted": false,
+                    "key": 297,
+                    "enrollmentTarget": 462,
+                    "lastModifiedDate": "2017-05-05 14:46:16.224",
+                    "name": "Test2"
+                },
+                {
+                    "planStatus": {
+                        "value": "VALID"
+                    },
+                    "isDeletable": true,
+                    "isReadOnly": false,
+                    "isPlan": true,
+                    "isAutoDeleted": false,
+                    "key": 198,
+                    "enrollmentTarget": 462,
+                    "lastModifiedDate": "2017-02-27 07:42:26.529",
+                    "name": "Test"
+                },
+                {
+                    "planStatus": {
+                        "value": "VALID"
+                    },
+                    "isDeletable": true,
+                    "isReadOnly": false,
+                    "isPlan": true,
+                    "isAutoDeleted": false,
+                    "key": 235,
+                    "enrollmentTarget": 462,
+                    "lastModifiedDate": "2017-02-22 04:26:16.819",
+                    "name": "test22feb"
+                },
+                {
+                    "description": "Demo",
+                    "planStatus": {
+                        "value": "VALID"
+                    },
+                    "isDeletable": true,
+                    "isReadOnly": false,
+                    "isPlan": true,
+                    "isAutoDeleted": false,
+                    "key": 159,
+                    "enrollmentTarget": 462,
+                    "lastModifiedDate": "2015-08-03 03:10:03.135",
+                    "name": "P1"
+                },
+                {
+                    "description": "Demo",
+                    "planStatus": {
+                        "value": "VALID"
+                    },
+                    "isDeletable": true,
+                    "isReadOnly": false,
+                    "isPlan": true,
+                    "isAutoDeleted": false,
+                    "key": 40,
+                    "enrollmentTarget": 462,
+                    "lastModifiedDate": "2014-10-15 12:20:33.141",
+                    "name": "Plan for May 9th 2014"
+                },
+                {
+                    "description": "Demo",
+                    "planStatus": {
+                        "value": "VALID"
+                    },
+                    "isDeletable": true,
+                    "isReadOnly": false,
+                    "isPlan": true,
+                    "isAutoDeleted": false,
+                    "key": 17,
+                    "enrollmentTarget": 462,
+                    "lastModifiedDate": "2013-11-25 13:24:08.887",
+                    "name": "copied plan"
+                },
+                {
+                    "isDeletable": false,
+                    "isReadOnly": true,
+                    "isPlan": true,
+                    "isAutoDeleted": false,
+                    "enrollmentTarget": 120,
+                    "name": "TEIID - 1",
+                    "key": 431,
+                    "planStatus": {
+                        "value": "VALID"
+                    },
+                    "briefAdjustPlanList": {
+                        "briefAdjustPlanThumbnail": [
+                            {
+                                "isDeletable": false,
+                                "parentPlankey": 431,
+                                "isReadOnly": true,
+                                "planType": "CEP",
+                                "isPlan": false,
+                                "isAutoDeleted": false,
+                                "enrollmentTarget": 120,
+                                "name": "SSV FSI Test",
+                                "key": 576,
+                                "planStatus": {
+                                    "value": "VALID"
+                                }
+                            },
+                            {
+                                "isDeletable": false,
+                                "parentPlankey": 431,
+                                "isReadOnly": true,
+                                "planType": "CEP",
+                                "isPlan": false,
+                                "isAutoDeleted": false,
+                                "enrollmentTarget": 120,
+                                "name": "TEIID _1_Direct_CT_PCT",
+                                "key": 433,
+                                "planStatus": {
+                                    "value": "VALID"
+                                }
+                            },
+                            {
+                                "isDeletable": false,
+                                "parentPlankey": 431,
+                                "isReadOnly": true,
+                                "isPlan": false,
+                                "isAutoDeleted": false,
+                                "enrollmentTarget": 120,
+                                "name": "TEIID - PLANSTATUS_6",
+                                "key": 467,
+                                "planStatus": {
+                                    "value": "VALID"
+                                }
+                            },
+                            {
+                                "isDeletable": false,
+                                "parentPlankey": 431,
+                                "isReadOnly": true,
+                                "isPlan": false,
+                                "isAutoDeleted": false,
+                                "enrollmentTarget": 120,
+                                "name": "TEIID_PLANSTATUS_5",
+                                "key": 463,
+                                "planStatus": {
+                                    "value": "VALID"
+                                }
+                            },
+                            {
+                                "isDeletable": false,
+                                "parentPlankey": 431,
+                                "isReadOnly": true,
+                                "isPlan": false,
+                                "isAutoDeleted": false,
+                                "enrollmentTarget": 200,
+                                "name": "TEIID _PLANSTATUS_2",
+                                "key": 461,
+                                "planStatus": {
+                                    "value": "VALID"
+                                }
+                            },
+                            {
+                                "isDeletable": false,
+                                "parentPlankey": 431,
+                                "isReadOnly": true,
+                                "isPlan": false,
+                                "isAutoDeleted": false,
+                                "enrollmentTarget": 120,
+                                "name": "TEIID_PLANSTATUS_3",
+                                "key": 462,
+                                "planStatus": {
+                                    "value": "VALID"
+                                }
+                            },
+                            {
+                                "isDeletable": false,
+                                "parentPlankey": 431,
+                                "isReadOnly": true,
+                                "isPlan": false,
+                                "isAutoDeleted": false,
+                                "enrollmentTarget": 120,
+                                "name": "TEIID - 2_TLSR",
+                                "key": 442,
+                                "planStatus": {
+                                    "value": "VALID"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "sourceTargets": {
+            "cycleTime": 187.3,
+            "enrollmentTarget": 80,
+            "FPA": "2015-08-16",
+            "LSR": "2019-10-24",
+            "studyGeoList": {
+                "geography": [
+                    {
+                        "geographyKey": 0,
+                        "isInPlan": "N",
+                        "geographyLevel": "WW",
+                        "geographyName": "Worldwide",
+                        "isInSource": "N"
+                    },
+                    {
+                        "geographyKey": 12,
+                        "isInPlan": "Y",
+                        "geographyLevel": "Region",
+                        "geographyName": "Northern America",
+                        "isInSource": "Y"
+                    },
+                    {
+                        "geographyKey": 115,
+                        "isInPlan": "Y",
+                        "geographyLevel": "Country",
+                        "geographyName": "Canada",
+                        "isInSource": "Y"
+                    },
+                    {
+                        "geographyKey": 102,
+                        "isInPlan": "Y",
+                        "geographyLevel": "Country",
+                        "geographyName": "United States",
+                        "isInSource": "Y"
+                    },
+                    {
+                        "geographyKey": 21,
+                        "isInPlan": "N",
+                        "geographyLevel": "Region",
+                        "geographyName": "Northern Europe",
+                        "isInSource": "Y"
+                    },
+                    {
+                        "geographyKey": 229,
+                        "isInPlan": "N",
+                        "geographyLevel": "Country",
+                        "geographyName": "United Kingdom",
+                        "isInSource": "Y"
+                    }
+                ]
+            },
+            "FSI": "2016-03-23",
+            "LSS": "2019-10-24"
+        }
+    }
+}

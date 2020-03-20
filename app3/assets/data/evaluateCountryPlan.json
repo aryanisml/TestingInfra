@@ -1,0 +1,18 @@
+{
+    "serviceResponse": {
+      "result": "OK",
+      "multiCountryPlanSolver": {
+        "countryPlanSolver": {
+          "countryKey": 102,
+          "minScreenRate": 0,
+          "optimumRT": 600,
+          "isMinRTAchieved": true,
+          "LSR": "2019-10-29",
+          "countryName": "United States",
+          "seedNumber": 1551344918026,
+          "solveFor": "Optimum Randomization Target"
+        },
+        "WWPLSR": "2019-09-30"
+      }
+    }
+  }

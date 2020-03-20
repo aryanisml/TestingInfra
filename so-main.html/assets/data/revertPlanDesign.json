@@ -1,0 +1,22 @@
+{
+    "serviceResponse": {
+      "cohortNodeArray": {
+        "element": [
+          {
+            "loc": "175 100",
+            "key": "1",
+            "cohortKey": "2",
+            "studyCohortKey": "21",
+            "cohortName": "Alpha"
+          },
+          {
+            "loc": "275 600",
+            "key": "1",
+            "cohortKey": "5",
+            "studyCohortKey": "21",
+            "cohortName": "Alpha"
+          }
+        ]
+      }
+    }
+}

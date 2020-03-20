@@ -1,0 +1,45 @@
+{
+    "serviceResponse": {
+        "result": "OK",
+        "interimAnalysisList": {
+        "interimAnalysis": [
+            {
+                "key": "80",
+                "name": "IA-1",
+                "cohKey": "1",
+                "cohName": "COHORT 1",
+                "description": "IA-2 description",
+                "interimTargetType": "Randomization",
+                "interimTarget": "15",
+                "duration": "20",
+                "rstrtScrngType": "ScreeningPeriod",
+                "rstrtScrngDt": "2018-10-20",
+                "rstrtScrngBfrEPDays": "0",
+                "startDate": "2018-09-30",
+                "endDate": "2018-10-19",
+                "srPercChange": "0.0",
+                "sfrPercChange": "0.0"
+            },
+            {
+                "key": 90,
+                "name": "IA-2",
+                "cohKey": "1",
+                "cohName": "COHORT 1",
+                "description": "IA-2 description",
+                "interimTargetType": "Randomization",
+                "interimTarget": "20",
+                "duration": "20",
+                "rstrtScrngType": "ScreeningPeriod",
+                "rstrtScrngDt": "2018-10-20",
+                "rstrtScrngBfrEPDays": "0",
+                "startDate": "2018-09-30",
+                "endDate": "2018-10-19",
+                "srPercChange": "0.0",
+                "sfrPercChange": "0.0"
+            }
+        ]
+        }
+    }
+}
+ 
+ 

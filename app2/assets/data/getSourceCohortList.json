@@ -1,0 +1,30 @@
+{
+   "serviceResponse": {
+    "result": "OK",
+    "cohortThumbnailList": {
+       "cohortReadinessTypeCode": "SiteInitiation",
+       "cohortThumbnail": [
+          {
+             "studyCohortKey": "5",
+             "cohortID": "Unmapped",
+             "isMapped": false
+          },
+          {
+             "studyCohortKey": "62",
+             "cohortID": "c_gdp004_2",
+             "isMapped": false
+          },
+          {
+             "studyCohortKey": "61",
+             "cohortID": "c_gdp004_1",
+             "isMapped": false
+          },
+          {
+             "studyCohortKey": "63",
+             "cohortID": "c_gdp004_3",
+             "isMapped": false
+          }
+       ]
+    }
+  }
+ }

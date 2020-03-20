@@ -1,0 +1,2192 @@
+{
+  "serviceResponse": {
+    "result": "OK",
+    "studyPlanDetails": {
+      "geoList": {
+        "geography": [
+          {
+            "planParamsDetails": {
+              "planStatus": {
+                "value": "INVALID"
+              },
+              "noteList": "",
+              "isAdjustable": false,
+              "isDeletable": true,
+              "parentPlan": {
+                "RR": 0.12602685061563568,
+                "RT": 200,
+                "ARC": 90,
+                "FSS": "2017-06-05",
+                "LSR": "2019-06-07",
+                "numSites": 20,
+                "FSI": "2017-05-20",
+                "LSS": "2019-02-07",
+                "SFR": 0,
+                "SR": 0.12602685061563568,
+                "FSR" : "2019-12-05"
+              },
+              "numSites": 20,
+              "seedNumber": 1571119389149,
+              "FSI": "2017-05-20",
+              "isCopyToCountryAllowed": true,
+              "cycleTime": 137.6,
+              "enrollmentTarget": 200,
+              "regionKey": 9,
+              "siteInitiationMethod": "percent",
+              "LSR": "2019-06-12",
+              "creationDate": "2019-10-15",
+              "algorithmSiteCompId": "Random",
+              "LSS": "2019-02-12",
+              "isCountryLocked": false,
+              "version": "2019-10-15 11:38:32.899",
+              "isOverRecruitmentEnabled": false,
+              "ARC": 90,
+              "approvedPlan": "",
+              "RR": 0.12604557517018578,
+              "ARTB": "2019-06-12",
+              "screeningTarget": 200,
+              "maximumEnrollment": 200,
+              "avgDaysToSiteInit": 3.4285714285714284,
+              "isCountryAdjusted": true,
+              "overRecruitmentPercent": 0,
+              "algorithmCode": "simpleFrcst",
+              "rateAdjustmentsTable": "",
+              "minScreeningRate": 0,
+              "countryCalcQuantity": {
+                "effectiveSFR": 0,
+                "effectiveSR": 0,
+                "effectiveSAS": 0,
+                "effectiveRR": 0
+              },
+              "logList": "",
+              "isFromBasePlan": true,
+              "isCountryEmpty": false,
+              "SFR": 0,
+              "SR": 0.12604557517018578,
+              "isSitesAdjusted": false,
+              "lastModifiedDate": "2019-10-15",
+              "centerInitInfo": {
+                "percentCenterInitInfo": {
+                  "centerInitSlot": [
+                    {
+                      "slotNum": 1,
+                      "percOfCenterInit": 25,
+                      "noOfCenters": 5,
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-25",
+                      "noOfPeriods": 5,
+                      "slotStartDate": "2017-05-20",
+                      "slotPlannedDate": "2017-05-22"
+                    },
+                    {
+                      "slotNum": 2,
+                      "percOfCenterInit": 50,
+                      "noOfCenters": 10,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-01",
+                      "noOfPeriods": 12,
+                      "slotStartDate": "2017-05-25",
+                      "slotPlannedDate": "2017-05-31"
+                    },
+                    {
+                      "slotNum": 3,
+                      "percOfCenterInit": 90,
+                      "noOfCenters": 18,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-08",
+                      "noOfPeriods": 19,
+                      "slotStartDate": "2017-06-01",
+                      "slotPlannedDate": "2017-06-07"
+                    }
+                  ]
+                },
+                "granularCenterInitInfo": {
+                  "centerInitSlot": [
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 1,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-20",
+                      "slotStartDate": "2017-05-20",
+                      "slotPlannedDate": "2017-05-20"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 2,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-21",
+                      "slotStartDate": "2017-05-21",
+                      "slotPlannedDate": "2017-05-21"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 3,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-21",
+                      "slotStartDate": "2017-05-21",
+                      "slotPlannedDate": "2017-05-21"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 4,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-22",
+                      "slotStartDate": "2017-05-22",
+                      "slotPlannedDate": "2017-05-22"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 5,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-22",
+                      "slotStartDate": "2017-05-22",
+                      "slotPlannedDate": "2017-05-22"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 6,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-25",
+                      "slotStartDate": "2017-05-25",
+                      "slotPlannedDate": "2017-05-25"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 7,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-26",
+                      "slotStartDate": "2017-05-26",
+                      "slotPlannedDate": "2017-05-26"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 8,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-28",
+                      "slotStartDate": "2017-05-28",
+                      "slotPlannedDate": "2017-05-28"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 9,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-31",
+                      "slotStartDate": "2017-05-31",
+                      "slotPlannedDate": "2017-05-31"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 10,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-31",
+                      "slotStartDate": "2017-05-31",
+                      "slotPlannedDate": "2017-05-31"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 11,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-01",
+                      "slotStartDate": "2017-06-01",
+                      "slotPlannedDate": "2017-06-01"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 12,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-02",
+                      "slotStartDate": "2017-06-02",
+                      "slotPlannedDate": "2017-06-02"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 13,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-03",
+                      "slotStartDate": "2017-06-03",
+                      "slotPlannedDate": "2017-06-03"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 14,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-04",
+                      "slotStartDate": "2017-06-04",
+                      "slotPlannedDate": "2017-06-04"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 15,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-05",
+                      "slotStartDate": "2017-06-05",
+                      "slotPlannedDate": "2017-06-05"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 16,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-06",
+                      "slotStartDate": "2017-06-06",
+                      "slotPlannedDate": "2017-06-06"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 17,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-07",
+                      "slotStartDate": "2017-06-07",
+                      "slotPlannedDate": "2017-06-07"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 18,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-07",
+                      "slotStartDate": "2017-06-07",
+                      "slotPlannedDate": "2017-06-07"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 19,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-11",
+                      "slotStartDate": "2017-06-11",
+                      "slotPlannedDate": "2017-06-11"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 20,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-12",
+                      "slotStartDate": "2017-06-12",
+                      "slotPlannedDate": "2017-06-12"
+                    }
+                  ]
+                }
+              },
+              "isTargetAdjusted": false,
+              "lastModifiedBy": "vishalb",
+              "PFSI": "2017-05-20",
+              "PFSR": "2017-10-03",
+              "isSSV": false,
+              "PFSS": "2017-06-05",
+              "createdBy": "vishalb",
+              "PLSS": "2019-09-09",
+              "siteInitPercDates": {
+                "percDate": [
+                  {
+                    "perc": 25,
+                    "content": "2017-05-22"
+                  },
+                  {
+                    "perc": 50,
+                    "content": "2017-05-31"
+                  },
+                  {
+                    "perc": 75,
+                    "content": "2017-06-05"
+                  },
+                  {
+                    "perc": 90,
+                    "content": "2017-06-07"
+                  },
+                  {
+                    "perc": 100,
+                    "content": "2017-06-12"
+                  }
+                ]
+              },
+              "PLSR": "2020-01-07",
+              "maximumScreening": 200,
+              "algorithmId": 1
+            },
+            "geographyKey": 7,
+            "isCohortCountry": false,
+            "geographyLevel": "Country",
+            "geographyName": "Anguilla"
+          },
+          {
+            "cohortName": "C10",
+            "sourceCohorts": "",
+            "planParamsDetails": {
+              "planStatus": {
+                "value": "INVALID"
+              },
+              "noteList": "",
+              "isAdjustable": false,
+              "isDeletable": true,
+              "parentPlan": {
+                "RR": 0.063,
+                "RT": 100,
+                "ARC": 90,
+                "FSS": "2017-06-05",
+                "LSR": "2019-06-07",
+                "numSites": 20,
+                "FSI": "2017-05-20",
+                "LSS": "2019-02-07",
+                "SFR": 0,
+                "SR": 0.063
+              },
+              "numSites": 20,
+              "seedNumber": 1571119389149,
+              "FSI": "2017-05-20",
+              "isCopyToCountryAllowed": true,
+              "cycleTime": 137.6,
+              "enrollmentTarget": 100,
+              "regionKey": 9,
+              "siteInitiationMethod": "percent",
+              "LSR": "2019-06-12",
+              "creationDate": "2019-10-15",
+              "algorithmSiteCompId": "Random",
+              "LSS": "2019-02-12",
+              "isCountryLocked": false,
+              "version": "2019-10-15 11:38:16.432",
+              "isOverRecruitmentEnabled": false,
+              "ARC": 90,
+              "approvedPlan": "",
+              "RR": 0.063,
+              "ARTB": "2019-06-12",
+              "screeningTarget": 100,
+              "maximumEnrollment": 100,
+              "avgDaysToSiteInit": 3.4285714285714284,
+              "isCountryAdjusted": true,
+              "overRecruitmentPercent": 0,
+              "algorithmCode": "simpleFrcst",
+              "minScreeningRate": 0,
+              "countryCalcQuantity": {
+                "effectiveSFR": 0,
+                "effectiveSR": 0,
+                "effectiveSAS": 0,
+                "effectiveRR": 0
+              },
+              "logList": "",
+              "isFromBasePlan": true,
+              "isCountryEmpty": false,
+              "SFR": 0,
+              "SR": 0.063,
+              "isSitesAdjusted": false,
+              "lastModifiedDate": "2019-10-15",
+              "centerInitInfo": {
+                "percentCenterInitInfo": {
+                  "centerInitSlot": [
+                    {
+                      "slotNum": 1,
+                      "percOfCenterInit": 25,
+                      "noOfCenters": 5,
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-25",
+                      "noOfPeriods": 5,
+                      "slotStartDate": "2017-05-20",
+                      "slotPlannedDate": "2017-05-22"
+                    },
+                    {
+                      "slotNum": 2,
+                      "percOfCenterInit": 50,
+                      "noOfCenters": 10,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-01",
+                      "noOfPeriods": 12,
+                      "slotStartDate": "2017-05-25",
+                      "slotPlannedDate": "2017-05-31"
+                    },
+                    {
+                      "slotNum": 3,
+                      "percOfCenterInit": 90,
+                      "noOfCenters": 18,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-08",
+                      "noOfPeriods": 19,
+                      "slotStartDate": "2017-06-01",
+                      "slotPlannedDate": "2017-06-07"
+                    }
+                  ]
+                },
+                "granularCenterInitInfo": {
+                  "centerInitSlot": [
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 1,
+                      "percOfCenterInit": 25,
+                      "noOfCenters": 5,
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-22",
+                      "actualSites": "",
+                      "noOfPeriods": 2,
+                      "slotStartDate": "2017-05-20",
+                      "slotPlannedDate": "2017-05-22"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 2,
+                      "percOfCenterInit": 50,
+                      "noOfCenters": 10,
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-31",
+                      "actualSites": "",
+                      "noOfPeriods": 11,
+                      "slotStartDate": "2017-05-23",
+                      "slotPlannedDate": "2017-05-31"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 3,
+                      "percOfCenterInit": 90,
+                      "noOfCenters": 18,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-07",
+                      "actualSites": "",
+                      "noOfPeriods": 18,
+                      "slotStartDate": "2017-06-01",
+                      "slotPlannedDate": "2017-06-07"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 4,
+                      "percOfCenterInit": 100,
+                      "noOfCenters": 20,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-12",
+                      "actualSites": "",
+                      "noOfPeriods": 23,
+                      "slotStartDate": "2017-06-08",
+                      "slotPlannedDate": "2017-06-12"
+                    }
+                  ]
+                }
+              },
+              "isTargetAdjusted": false,
+              "lastModifiedBy": "vishalb",
+              "PFSI": "2017-05-20",
+              "PFSR": "2017-10-03",
+              "isSSV": false,
+              "PFSS": "2017-06-05",
+              "createdBy": "vishalb",
+              "PLSS": "2019-09-09",
+              "siteInitPercDates": {
+                "percDate": [
+                  {
+                    "perc": 25,
+                    "content": "2017-05-22"
+                  },
+                  {
+                    "perc": 50,
+                    "content": "2017-05-31"
+                  },
+                  {
+                    "perc": 75,
+                    "content": "2017-06-05"
+                  },
+                  {
+                    "perc": 90,
+                    "content": "2017-06-07"
+                  },
+                  {
+                    "perc": 100,
+                    "content": "2017-06-12"
+                  }
+                ]
+              },
+              "PLSR": "2020-01-07",
+              "maximumScreening": 100,
+              "algorithmId": 1
+            },
+            "geographyKey": 7,
+            "isCohortCountry": true,
+            "isParallelCohort": true,
+            "geographyLevel": "Country",
+            "isReCalRequired": false,
+            "geographyName": "Anguilla",
+            "hasDependencies": false,
+            "isCohortExcluded": false,
+            "cohortKey": 180
+          },
+          {
+            "cohortName": "C11",
+            "sourceCohorts": "",
+            "planParamsDetails": {
+              "planStatus": {
+                "value": "INVALID"
+              },
+              "noteList": "",
+              "isAdjustable": false,
+              "isDeletable": true,
+              "parentPlan": {
+                "RR": 0.07100000000000001,
+                "RT": 100,
+                "ARC": 80,
+                "FSS": "2017-06-05",
+                "LSR": "2019-06-06",
+                "numSites": 20,
+                "FSI": "2017-05-20",
+                "LSS": "2019-02-06",
+                "SFR": 0,
+                "SR": 0.07100000000000001
+              },
+              "numSites": 20,
+              "seedNumber": 1571119389149,
+              "FSI": "2017-05-20",
+              "isCopyToCountryAllowed": true,
+              "cycleTime": 137.4,
+              "enrollmentTarget": 100,
+              "regionKey": 9,
+              "siteInitiationMethod": "percent",
+              "LSR": "2019-06-12",
+              "creationDate": "2019-10-15",
+              "algorithmSiteCompId": "Random",
+              "LSS": "2019-02-12",
+              "isCountryLocked": false,
+              "version": "2019-10-15 11:38:17.009",
+              "isOverRecruitmentEnabled": false,
+              "ARC": 80,
+              "approvedPlan": "",
+              "RR": 0.07100000000000001,
+              "ARTB": "2019-06-12",
+              "screeningTarget": 100,
+              "maximumEnrollment": 100,
+              "avgDaysToSiteInit": 3.4285714285714284,
+              "isCountryAdjusted": true,
+              "overRecruitmentPercent": 0,
+              "algorithmCode": "simpleFrcst",
+              "minScreeningRate": 0,
+              "countryCalcQuantity": {
+                "effectiveSFR": 0,
+                "effectiveSR": 0,
+                "effectiveSAS": 0,
+                "effectiveRR": 0
+              },
+              "logList": "",
+              "isFromBasePlan": true,
+              "isCountryEmpty": false,
+              "SFR": 0,
+              "SR": 0.07100000000000001,
+              "isSitesAdjusted": false,
+              "lastModifiedDate": "2019-10-15",
+              "centerInitInfo": {
+                "percentCenterInitInfo": {
+                  "centerInitSlot": [
+                    {
+                      "slotNum": 1,
+                      "percOfCenterInit": 25,
+                      "noOfCenters": 5,
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-25",
+                      "noOfPeriods": 5,
+                      "slotStartDate": "2017-05-20",
+                      "slotPlannedDate": "2017-05-22"
+                    },
+                    {
+                      "slotNum": 2,
+                      "percOfCenterInit": 50,
+                      "noOfCenters": 10,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-01",
+                      "noOfPeriods": 12,
+                      "slotStartDate": "2017-05-25",
+                      "slotPlannedDate": "2017-05-31"
+                    },
+                    {
+                      "slotNum": 3,
+                      "percOfCenterInit": 90,
+                      "noOfCenters": 18,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-08",
+                      "noOfPeriods": 19,
+                      "slotStartDate": "2017-06-01",
+                      "slotPlannedDate": "2017-06-07"
+                    }
+                  ]
+                },
+                "granularCenterInitInfo": {
+                  "centerInitSlot": [
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 1,
+                      "percOfCenterInit": 25,
+                      "noOfCenters": 5,
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-22",
+                      "actualSites": "",
+                      "noOfPeriods": 2,
+                      "slotStartDate": "2017-05-20",
+                      "slotPlannedDate": "2017-05-22"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 2,
+                      "percOfCenterInit": 50,
+                      "noOfCenters": 10,
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-31",
+                      "actualSites": "",
+                      "noOfPeriods": 11,
+                      "slotStartDate": "2017-05-23",
+                      "slotPlannedDate": "2017-05-31"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 3,
+                      "percOfCenterInit": 90,
+                      "noOfCenters": 18,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-07",
+                      "actualSites": "",
+                      "noOfPeriods": 18,
+                      "slotStartDate": "2017-06-01",
+                      "slotPlannedDate": "2017-06-07"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 4,
+                      "percOfCenterInit": 100,
+                      "noOfCenters": 20,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-12",
+                      "actualSites": "",
+                      "noOfPeriods": 23,
+                      "slotStartDate": "2017-06-08",
+                      "slotPlannedDate": "2017-06-12"
+                    }
+                  ]
+                }
+              },
+              "isTargetAdjusted": false,
+              "lastModifiedBy": "vishalb",
+              "PFSI": "2017-05-20",
+              "PFSR": "2017-10-03",
+              "isSSV": false,
+              "PFSS": "2017-06-05",
+              "createdBy": "vishalb",
+              "PLSS": "2019-09-08",
+              "siteInitPercDates": {
+                "percDate": [
+                  {
+                    "perc": 25,
+                    "content": "2017-05-22"
+                  },
+                  {
+                    "perc": 50,
+                    "content": "2017-05-31"
+                  },
+                  {
+                    "perc": 75,
+                    "content": "2017-06-05"
+                  },
+                  {
+                    "perc": 90,
+                    "content": "2017-06-07"
+                  },
+                  {
+                    "perc": 100,
+                    "content": "2017-06-12"
+                  }
+                ]
+              },
+              "PLSR": "2020-01-06",
+              "maximumScreening": 100,
+              "algorithmId": 1
+            },
+            "geographyKey": 7,
+            "isCohortCountry": true,
+            "isParallelCohort": true,
+            "geographyLevel": "Country",
+            "isReCalRequired": false,
+            "geographyName": "Anguilla",
+            "hasDependencies": false,
+            "isCohortExcluded": false,
+            "cohortKey": 2814
+          },
+          {
+            "planParamsDetails": {
+              "planStatus": {
+                "value": "INVALID"
+              },
+              "noteList": "",
+              "isAdjustable": false,
+              "isDeletable": true,
+              "parentPlan": {
+                "RR": 0.07544801061007958,
+                "RT": 200,
+                "ARC": 100,
+                "FSS": "2017-06-06",
+                "LSR": "2019-06-12",
+                "numSites": 30,
+                "FSI": "2017-05-20",
+                "LSS": "2019-02-12",
+                "SFR": 0,
+                "SR": 0.07544801061007958
+              },
+              "numSites": 30,
+              "seedNumber": 1571119463762,
+              "FSI": "2017-05-20",
+              "isCopyToCountryAllowed": true,
+              "cycleTime": 138.4,
+              "enrollmentTarget": 200,
+              "regionKey": 9,
+              "siteInitiationMethod": "percent",
+              "LSR": "2019-06-12",
+              "creationDate": "2019-10-15",
+              "algorithmSiteCompId": "Random",
+              "LSS": "2019-02-12",
+              "isCountryLocked": false,
+              "version": "2019-10-15 11:38:32.975",
+              "isOverRecruitmentEnabled": false,
+              "ARC": 100,
+              "approvedPlan": "",
+              "RR": 0.07566109391124871,
+              "ARTB": "2019-06-12",
+              "screeningTarget": 200,
+              "maximumEnrollment": 200,
+              "avgDaysToSiteInit": 4.571428571428571,
+              "isCountryAdjusted": true,
+              "overRecruitmentPercent": 0,
+              "algorithmCode": "simpleFrcst",
+              "rateAdjustmentsTable": "",
+              "minScreeningRate": 0,
+              "countryCalcQuantity": {
+                "effectiveSFR": 0,
+                "effectiveSR": 0,
+                "effectiveSAS": 0,
+                "effectiveRR": 0
+              },
+              "logList": "",
+              "isFromBasePlan": true,
+              "isCountryEmpty": false,
+              "SFR": 0,
+              "SR": 0.07566109391124871,
+              "isSitesAdjusted": false,
+              "lastModifiedDate": "2019-10-15",
+              "centerInitInfo": {
+                "percentCenterInitInfo": {
+                  "centerInitSlot": [
+                    {
+                      "slotNum": 1,
+                      "percOfCenterInit": 25,
+                      "noOfCenters": 7,
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-25",
+                      "noOfPeriods": 5,
+                      "slotStartDate": "2017-05-20",
+                      "slotPlannedDate": "2017-05-24"
+                    },
+                    {
+                      "slotNum": 2,
+                      "percOfCenterInit": 50,
+                      "noOfCenters": 15,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-04",
+                      "noOfPeriods": 15,
+                      "slotStartDate": "2017-05-25",
+                      "slotPlannedDate": "2017-06-03"
+                    },
+                    {
+                      "slotNum": 3,
+                      "percOfCenterInit": 90,
+                      "noOfCenters": 27,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-16",
+                      "noOfPeriods": 27,
+                      "slotStartDate": "2017-06-04",
+                      "slotPlannedDate": "2017-06-14"
+                    }
+                  ]
+                },
+                "granularCenterInitInfo": {
+                  "centerInitSlot": [
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 1,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-20",
+                      "slotStartDate": "2017-05-20",
+                      "slotPlannedDate": "2017-05-20"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 2,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-21",
+                      "slotStartDate": "2017-05-21",
+                      "slotPlannedDate": "2017-05-21"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 3,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-22",
+                      "slotStartDate": "2017-05-22",
+                      "slotPlannedDate": "2017-05-22"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 4,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-23",
+                      "slotStartDate": "2017-05-23",
+                      "slotPlannedDate": "2017-05-23"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 5,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-24",
+                      "slotStartDate": "2017-05-24",
+                      "slotPlannedDate": "2017-05-24"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 6,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-24",
+                      "slotStartDate": "2017-05-24",
+                      "slotPlannedDate": "2017-05-24"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 7,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-24",
+                      "slotStartDate": "2017-05-24",
+                      "slotPlannedDate": "2017-05-24"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 8,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-25",
+                      "slotStartDate": "2017-05-25",
+                      "slotPlannedDate": "2017-05-25"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 9,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-26",
+                      "slotStartDate": "2017-05-26",
+                      "slotPlannedDate": "2017-05-26"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 10,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-27",
+                      "slotStartDate": "2017-05-27",
+                      "slotPlannedDate": "2017-05-27"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 11,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-28",
+                      "slotStartDate": "2017-05-28",
+                      "slotPlannedDate": "2017-05-28"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 12,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-29",
+                      "slotStartDate": "2017-05-29",
+                      "slotPlannedDate": "2017-05-29"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 13,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-29",
+                      "slotStartDate": "2017-05-29",
+                      "slotPlannedDate": "2017-05-29"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 14,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-31",
+                      "slotStartDate": "2017-05-31",
+                      "slotPlannedDate": "2017-05-31"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 15,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-03",
+                      "slotStartDate": "2017-06-03",
+                      "slotPlannedDate": "2017-06-03"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 16,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-04",
+                      "slotStartDate": "2017-06-04",
+                      "slotPlannedDate": "2017-06-04"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 17,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-05",
+                      "slotStartDate": "2017-06-05",
+                      "slotPlannedDate": "2017-06-05"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 18,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-06",
+                      "slotStartDate": "2017-06-06",
+                      "slotPlannedDate": "2017-06-06"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 19,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-07",
+                      "slotStartDate": "2017-06-07",
+                      "slotPlannedDate": "2017-06-07"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 20,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-07",
+                      "slotStartDate": "2017-06-07",
+                      "slotPlannedDate": "2017-06-07"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 21,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-09",
+                      "slotStartDate": "2017-06-09",
+                      "slotPlannedDate": "2017-06-09"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 22,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-10",
+                      "slotStartDate": "2017-06-10",
+                      "slotPlannedDate": "2017-06-10"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 23,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-11",
+                      "slotStartDate": "2017-06-11",
+                      "slotPlannedDate": "2017-06-11"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 24,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-12",
+                      "slotStartDate": "2017-06-12",
+                      "slotPlannedDate": "2017-06-12"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 25,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-12",
+                      "slotStartDate": "2017-06-12",
+                      "slotPlannedDate": "2017-06-12"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 26,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-13",
+                      "slotStartDate": "2017-06-13",
+                      "slotPlannedDate": "2017-06-13"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 27,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-14",
+                      "slotStartDate": "2017-06-14",
+                      "slotPlannedDate": "2017-06-14"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 28,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-18",
+                      "slotStartDate": "2017-06-18",
+                      "slotPlannedDate": "2017-06-18"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 29,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-19",
+                      "slotStartDate": "2017-06-19",
+                      "slotPlannedDate": "2017-06-19"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 30,
+                      "noOfCenters": 1,
+                      "slotType": "redistributed",
+                      "hasSubjEvent": "",
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-20",
+                      "slotStartDate": "2017-06-20",
+                      "slotPlannedDate": "2017-06-20"
+                    }
+                  ]
+                }
+              },
+              "isTargetAdjusted": false,
+              "lastModifiedBy": "vishalb",
+              "PFSI": "2017-05-20",
+              "PFSR": "2017-10-04",
+              "isSSV": false,
+              "PFSS": "2017-06-06",
+              "createdBy": "vishalb",
+              "PLSS": "2019-09-15",
+              "siteInitPercDates": {
+                "percDate": [
+                  {
+                    "perc": 25,
+                    "content": "2017-05-24"
+                  },
+                  {
+                    "perc": 50,
+                    "content": "2017-06-03"
+                  },
+                  {
+                    "perc": 75,
+                    "content": "2017-06-10"
+                  },
+                  {
+                    "perc": 90,
+                    "content": "2017-06-14"
+                  },
+                  {
+                    "perc": 100,
+                    "content": "2017-06-20"
+                  }
+                ]
+              },
+              "PLSR": "2020-01-13",
+              "maximumScreening": 200,
+              "algorithmId": 1
+            },
+            "geographyKey": 12,
+            "isCohortCountry": false,
+            "geographyLevel": "Country",
+            "geographyName": "Aruba"
+          },
+          {
+            "cohortName": "C10",
+            "sourceCohorts": "",
+            "planParamsDetails": {
+              "planStatus": {
+                "value": "INVALID"
+              },
+              "noteList": "",
+              "isAdjustable": false,
+              "isDeletable": true,
+              "parentPlan": {
+                "RR": 0.038,
+                "RT": 100,
+                "ARC": 100,
+                "FSS": "2017-06-06",
+                "LSR": "2019-06-07",
+                "numSites": 30,
+                "FSI": "2017-05-20",
+                "LSS": "2019-02-07",
+                "SFR": 0,
+                "SR": 0.038
+              },
+              "numSites": 30,
+              "seedNumber": 1571119463762,
+              "FSI": "2017-05-20",
+              "isCopyToCountryAllowed": true,
+              "cycleTime": 138.4,
+              "enrollmentTarget": 100,
+              "regionKey": 9,
+              "siteInitiationMethod": "percent",
+              "LSR": "2019-06-12",
+              "creationDate": "2019-10-15",
+              "algorithmSiteCompId": "Random",
+              "LSS": "2019-02-12",
+              "isCountryLocked": false,
+              "version": "2019-10-15 11:38:16.754",
+              "isOverRecruitmentEnabled": false,
+              "ARC": 100,
+              "approvedPlan": "",
+              "RR": 0.038,
+              "ARTB": "2019-06-12",
+              "screeningTarget": 100,
+              "maximumEnrollment": 100,
+              "avgDaysToSiteInit": 4.571428571428571,
+              "isCountryAdjusted": true,
+              "overRecruitmentPercent": 0,
+              "algorithmCode": "simpleFrcst",
+              "minScreeningRate": 0,
+              "countryCalcQuantity": {
+                "effectiveSFR": 0,
+                "effectiveSR": 0,
+                "effectiveSAS": 0,
+                "effectiveRR": 0
+              },
+              "logList": "",
+              "isFromBasePlan": true,
+              "isCountryEmpty": false,
+              "SFR": 0,
+              "SR": 0.038,
+              "isSitesAdjusted": false,
+              "lastModifiedDate": "2019-10-15",
+              "centerInitInfo": {
+                "percentCenterInitInfo": {
+                  "centerInitSlot": [
+                    {
+                      "slotNum": 1,
+                      "percOfCenterInit": 25,
+                      "noOfCenters": 7,
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-25",
+                      "noOfPeriods": 5,
+                      "slotStartDate": "2017-05-20",
+                      "slotPlannedDate": "2017-05-24"
+                    },
+                    {
+                      "slotNum": 2,
+                      "percOfCenterInit": 50,
+                      "noOfCenters": 15,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-04",
+                      "noOfPeriods": 15,
+                      "slotStartDate": "2017-05-25",
+                      "slotPlannedDate": "2017-06-03"
+                    },
+                    {
+                      "slotNum": 3,
+                      "percOfCenterInit": 90,
+                      "noOfCenters": 27,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-16",
+                      "noOfPeriods": 27,
+                      "slotStartDate": "2017-06-04",
+                      "slotPlannedDate": "2017-06-14"
+                    }
+                  ]
+                },
+                "granularCenterInitInfo": {
+                  "centerInitSlot": [
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 1,
+                      "percOfCenterInit": 25,
+                      "noOfCenters": 7,
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-24",
+                      "actualSites": "",
+                      "noOfPeriods": 4,
+                      "slotStartDate": "2017-05-20",
+                      "slotPlannedDate": "2017-05-24"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 2,
+                      "percOfCenterInit": 50,
+                      "noOfCenters": 15,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-03",
+                      "actualSites": "",
+                      "noOfPeriods": 14,
+                      "slotStartDate": "2017-05-25",
+                      "slotPlannedDate": "2017-06-03"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 3,
+                      "percOfCenterInit": 90,
+                      "noOfCenters": 27,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-14",
+                      "actualSites": "",
+                      "noOfPeriods": 25,
+                      "slotStartDate": "2017-06-04",
+                      "slotPlannedDate": "2017-06-14"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 4,
+                      "percOfCenterInit": 100,
+                      "noOfCenters": 30,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-20",
+                      "actualSites": "",
+                      "noOfPeriods": 31,
+                      "slotStartDate": "2017-06-15",
+                      "slotPlannedDate": "2017-06-20"
+                    }
+                  ]
+                }
+              },
+              "isTargetAdjusted": false,
+              "lastModifiedBy": "vishalb",
+              "PFSI": "2017-05-20",
+              "PFSR": "2017-10-04",
+              "isSSV": false,
+              "PFSS": "2017-06-06",
+              "createdBy": "vishalb",
+              "PLSS": "2019-09-15",
+              "siteInitPercDates": {
+                "percDate": [
+                  {
+                    "perc": 25,
+                    "content": "2017-05-24"
+                  },
+                  {
+                    "perc": 50,
+                    "content": "2017-06-03"
+                  },
+                  {
+                    "perc": 75,
+                    "content": "2017-06-10"
+                  },
+                  {
+                    "perc": 90,
+                    "content": "2017-06-14"
+                  },
+                  {
+                    "perc": 100,
+                    "content": "2017-06-20"
+                  }
+                ]
+              },
+              "PLSR": "2020-01-13",
+              "maximumScreening": 100,
+              "algorithmId": 1
+            },
+            "geographyKey": 12,
+            "isCohortCountry": true,
+            "isParallelCohort": true,
+            "geographyLevel": "Country",
+            "isReCalRequired": false,
+            "geographyName": "Aruba",
+            "hasDependencies": false,
+            "isCohortExcluded": false,
+            "cohortKey": 180
+          },
+          {
+            "cohortName": "C11",
+            "sourceCohorts": "",
+            "planParamsDetails": {
+              "planStatus": {
+                "value": "INVALID"
+              },
+              "noteList": "",
+              "isAdjustable": false,
+              "isDeletable": true,
+              "parentPlan": {
+                "RR": 0.039,
+                "RT": 100,
+                "ARC": 97,
+                "FSS": "2017-06-07",
+                "LSR": "2019-06-12",
+                "numSites": 30,
+                "FSI": "2017-05-20",
+                "LSS": "2019-02-12",
+                "SFR": 0,
+                "SR": 0.039
+              },
+              "numSites": 30,
+              "seedNumber": 1571119463762,
+              "FSI": "2017-05-20",
+              "isCopyToCountryAllowed": true,
+              "cycleTime": 138.3,
+              "enrollmentTarget": 100,
+              "regionKey": 9,
+              "siteInitiationMethod": "percent",
+              "LSR": "2019-06-12",
+              "creationDate": "2019-10-15",
+              "algorithmSiteCompId": "Random",
+              "LSS": "2019-02-12",
+              "isCountryLocked": false,
+              "version": "2019-10-15 11:38:17.261",
+              "isOverRecruitmentEnabled": false,
+              "ARC": 97,
+              "approvedPlan": "",
+              "RR": 0.039,
+              "ARTB": "2019-06-12",
+              "screeningTarget": 100,
+              "maximumEnrollment": 100,
+              "avgDaysToSiteInit": 4.571428571428571,
+              "isCountryAdjusted": true,
+              "overRecruitmentPercent": 0,
+              "algorithmCode": "simpleFrcst",
+              "minScreeningRate": 0,
+              "countryCalcQuantity": {
+                "effectiveSFR": 0,
+                "effectiveSR": 0,
+                "effectiveSAS": 0,
+                "effectiveRR": 0
+              },
+              "logList": "",
+              "isFromBasePlan": true,
+              "isCountryEmpty": false,
+              "SFR": 0,
+              "SR": 0.039,
+              "isSitesAdjusted": false,
+              "lastModifiedDate": "2019-10-15",
+              "centerInitInfo": {
+                "percentCenterInitInfo": {
+                  "centerInitSlot": [
+                    {
+                      "slotNum": 1,
+                      "percOfCenterInit": 25,
+                      "noOfCenters": 7,
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-25",
+                      "noOfPeriods": 5,
+                      "slotStartDate": "2017-05-20",
+                      "slotPlannedDate": "2017-05-24"
+                    },
+                    {
+                      "slotNum": 2,
+                      "percOfCenterInit": 50,
+                      "noOfCenters": 15,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-04",
+                      "noOfPeriods": 15,
+                      "slotStartDate": "2017-05-25",
+                      "slotPlannedDate": "2017-06-03"
+                    },
+                    {
+                      "slotNum": 3,
+                      "percOfCenterInit": 90,
+                      "noOfCenters": 27,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-16",
+                      "noOfPeriods": 27,
+                      "slotStartDate": "2017-06-04",
+                      "slotPlannedDate": "2017-06-14"
+                    }
+                  ]
+                },
+                "granularCenterInitInfo": {
+                  "centerInitSlot": [
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 1,
+                      "percOfCenterInit": 25,
+                      "noOfCenters": 7,
+                      "redistributed": false,
+                      "slotEndDate": "2017-05-24",
+                      "actualSites": "",
+                      "noOfPeriods": 4,
+                      "slotStartDate": "2017-05-20",
+                      "slotPlannedDate": "2017-05-24"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 2,
+                      "percOfCenterInit": 50,
+                      "noOfCenters": 15,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-03",
+                      "actualSites": "",
+                      "noOfPeriods": 14,
+                      "slotStartDate": "2017-05-25",
+                      "slotPlannedDate": "2017-06-03"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 3,
+                      "percOfCenterInit": 90,
+                      "noOfCenters": 27,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-14",
+                      "actualSites": "",
+                      "noOfPeriods": 25,
+                      "slotStartDate": "2017-06-04",
+                      "slotPlannedDate": "2017-06-14"
+                    },
+                    {
+                      "usedCohortKeys": "ALL",
+                      "slotNum": 4,
+                      "percOfCenterInit": 100,
+                      "noOfCenters": 30,
+                      "redistributed": false,
+                      "slotEndDate": "2017-06-20",
+                      "actualSites": "",
+                      "noOfPeriods": 31,
+                      "slotStartDate": "2017-06-15",
+                      "slotPlannedDate": "2017-06-20"
+                    }
+                  ]
+                }
+              },
+              "isTargetAdjusted": false,
+              "lastModifiedBy": "vishalb",
+              "PFSI": "2017-05-20",
+              "PFSR": "2017-10-05",
+              "isSSV": false,
+              "PFSS": "2017-06-07",
+              "createdBy": "vishalb",
+              "PLSS": "2019-09-14",
+              "siteInitPercDates": {
+                "percDate": [
+                  {
+                    "perc": 25,
+                    "content": "2017-05-24"
+                  },
+                  {
+                    "perc": 50,
+                    "content": "2017-06-03"
+                  },
+                  {
+                    "perc": 75,
+                    "content": "2017-06-10"
+                  },
+                  {
+                    "perc": 90,
+                    "content": "2017-06-14"
+                  },
+                  {
+                    "perc": 100,
+                    "content": "2017-06-20"
+                  }
+                ]
+              },
+              "PLSR": "2020-01-12",
+              "maximumScreening": 100,
+              "algorithmId": 1
+            },
+            "geographyKey": 12,
+            "isCohortCountry": true,
+            "isParallelCohort": true,
+            "geographyLevel": "Country",
+            "isReCalRequired": false,
+            "geographyName": "Aruba",
+            "hasDependencies": false,
+            "isCohortExcluded": false,
+            "cohortKey": 2814
+          },
+          {
+            "planParamsDetails": {
+              "actuals": {
+                "RR": 0.025580132608464954,
+                "RT": 0,
+                "ARC": 100,
+                "screeningTarget": 31,
+                "FSR": "2017-06-10",
+                "FSS": "2017-06-07",
+                "siteInitPercDates": {
+                  "percDate": [
+                    {
+                      "perc": 25,
+                      "content": "2017-07-19"
+                    },
+                    {
+                      "perc": 50,
+                      "content": "2018-07-08"
+                    },
+                    {
+                      "perc": 75
+                    },
+                    {
+                      "perc": 90
+                    },
+                    {
+                      "perc": 100
+                    }
+                  ]
+                },
+                "overRecruitmentPercent": 0,
+                "numSites": 0,
+                "FSI": "2017-06-07",
+                "SFR": 13.333333333333334,
+                "SR": 0.03111142937869718
+              },
+              "projections": {
+                "RR": 0,
+                "ARC": 0,
+                "screeningTarget": 0,
+                "siteInitPercDates": {
+                  "percDate": [
+                    {
+                      "perc": 25
+                    },
+                    {
+                      "perc": 50
+                    },
+                    {
+                      "perc": 75,
+                      "content": "2019-12-08"
+                    },
+                    {
+                      "perc": 90,
+                      "content": "2019-12-11"
+                    },
+                    {
+                      "perc": 100,
+                      "content": "2019-12-12"
+                    }
+                  ]
+                },
+                "overRecruitmentPercent": 0,
+                "numSites": 0,
+                "SFR": 0,
+                "SR": 0
+              },
+              "RR": 0.09455542655658755,
+              "screeningTarget": 400,
+              "cycleTime": 138.4,
+              "enrollmentTarget": 400,
+              "centerInitInfo": {
+                "percentCenterInitInfo": {
+                  "centerInitSlot": [
+                    {
+                      "slotNum": 1,
+                      "slotPlannedDate": "2017-05-24"
+                    },
+                    {
+                      "slotNum": 2,
+                      "slotPlannedDate": "2017-06-01"
+                    },
+                    {
+                      "slotNum": 3,
+                      "slotPlannedDate": "2017-06-12"
+                    }
+                  ]
+                }
+              },
+              "PFSI": "2017-05-20",
+              "LSR": "2019-06-12",
+              "LSS": "2019-02-12",
+              "PFSR": "2017-10-03",
+              "isOverRecruitmentEnabled": false,
+              "ARC": 96,
+              "PFSS": "2017-06-05",
+              "PLSS": "2019-09-15",
+              "siteInitPercDates": {
+                "percDate": [
+                  {
+                    "perc": 25,
+                    "content": "2017-05-24"
+                  },
+                  {
+                    "perc": 50,
+                    "content": "2017-06-01"
+                  },
+                  {
+                    "perc": 75,
+                    "content": "2017-06-07"
+                  },
+                  {
+                    "perc": 90,
+                    "content": "2017-06-12"
+                  },
+                  {
+                    "perc": 100,
+                    "content": "2017-06-20"
+                  }
+                ]
+              },
+              "parentPlan": {
+                "RR": 0.09429000884173297,
+                "RT": 400,
+                "FSS": "2017-06-05",
+                "LSR": "2019-06-12",
+                "numSites": 50,
+                "FSI": "2017-05-20",
+                "LSS": "2019-02-12",
+                "SFR": 0,
+                "SR": 0.09429000884173297
+              },
+              "approvedPlan": {
+                "RR": 0.0442547928262214,
+                "RT": 200,
+                "ARC": 100,
+                "FSS": "2017-06-12",
+                "LSR": "2021-10-22",
+                "numSites": 20,
+                "FSI": "2017-05-20",
+                "LSS": "2021-10-02",
+                "SFR": 0,
+                "SR": 0.0442547928262214
+              },
+              "numSites": 50,
+              "FSI": "2017-05-20",
+              "PLSR": "2020-01-13",
+              "SFR": 0,
+              "SR": 0.09455542655658755
+            },
+            "geographyKey": 0,
+            "isCohortCountry": false,
+            "geographyLevel": "WW",
+            "geographyName": "Worldwide"
+          },
+          {
+            "cohortName": "C10",
+            "planParamsDetails": {
+              "actuals": {
+                "RR": 0,
+                "RT": 0,
+                "ARC": 0,
+                "screeningTarget": 0,
+                "siteInitPercDates": {
+                  "percDate": [
+                    {
+                      "perc": 25,
+                      "content": "2017-07-19"
+                    },
+                    {
+                      "perc": 50,
+                      "content": "2018-07-08"
+                    },
+                    {
+                      "perc": 75
+                    },
+                    {
+                      "perc": 90
+                    },
+                    {
+                      "perc": 100
+                    }
+                  ]
+                },
+                "overRecruitmentPercent": 0,
+                "numSites": 0,
+                "FSI": "2017-06-07",
+                "SFR": 0,
+                "SR": 0
+              },
+              "projections": {
+                "RR": 0,
+                "ARC": 0,
+                "screeningTarget": 0,
+                "FSR": "2020-01-20",
+                "FSS": "2019-12-31",
+                "siteInitPercDates": {
+                  "percDate": [
+                    {
+                      "perc": 25
+                    },
+                    {
+                      "perc": 50
+                    },
+                    {
+                      "perc": 75,
+                      "content": "2019-12-08"
+                    },
+                    {
+                      "perc": 90,
+                      "content": "2019-12-11"
+                    },
+                    {
+                      "perc": 100,
+                      "content": "2019-12-12"
+                    }
+                  ]
+                },
+                "overRecruitmentPercent": 0,
+                "numSites": 0,
+                "SFR": 0,
+                "SR": 0
+              },
+              "RR": 0.047374999999999994,
+              "screeningTarget": 200,
+              "cycleTime": 138.4,
+              "enrollmentTarget": 200,
+              "maximumEnrollment": 100,
+              "centerInitInfo": {
+                "percentCenterInitInfo": {
+                  "centerInitSlot": [
+                    {
+                      "slotNum": 1,
+                      "slotPlannedDate": "2017-05-24"
+                    },
+                    {
+                      "slotNum": 2,
+                      "slotPlannedDate": "2017-06-01"
+                    },
+                    {
+                      "slotNum": 3,
+                      "slotPlannedDate": "2017-06-12"
+                    }
+                  ]
+                }
+              },
+              "PFSI": "2017-05-20",
+              "LSR": "2019-06-12",
+              "LSS": "2019-02-12",
+              "PFSR": "2017-10-03",
+              "ARC": 96,
+              "PFSS": "2017-06-05",
+              "PLSS": "2019-09-15",
+              "siteInitPercDates": {
+                "percDate": [
+                  {
+                    "perc": 25,
+                    "content": "2017-05-24"
+                  },
+                  {
+                    "perc": 50,
+                    "content": "2017-06-01"
+                  },
+                  {
+                    "perc": 75,
+                    "content": "2017-06-07"
+                  },
+                  {
+                    "perc": 90,
+                    "content": "2017-06-12"
+                  },
+                  {
+                    "perc": 100,
+                    "content": "2017-06-20"
+                  }
+                ]
+              },
+              "parentPlan": {
+                "RR": 0.09441507561216311,
+                "RT": 400,
+                "FSS": "2017-06-05",
+                "LSR": "2019-06-12",
+                "numSites": 50,
+                "FSI": "2017-05-20",
+                "LSS": "2019-02-12",
+                "SFR": 0,
+                "SR": 0.09441507561216311
+              },
+              "approvedPlan": {
+                "RR": 0.038,
+                "RT": 100,
+                "ARC": 100,
+                "FSS": "2017-06-12",
+                "LSR": "2019-12-22",
+                "numSites": 20,
+                "FSI": "2017-05-20",
+                "LSS": "2019-12-02",
+                "SFR": 0,
+                "SR": 0.038
+              },
+              "numSites": 50,
+              "FSI": "2017-05-20",
+              "PLSR": "2020-01-13",
+              "SFR": 0,
+              "maximumScreening": 100,
+              "SR": 0.047374999999999994
+            },
+            "geographyKey": 0,
+            "isCohortCountry": true,
+            "geographyLevel": "WW",
+            "geographyName": "Worldwide",
+            "isCohortExcluded": false,
+            "cohortKey": 180
+          },
+          {
+            "cohortName": "C11",
+            "planParamsDetails": {
+              "actuals": {
+                "RT": 0,
+                "siteInitPercDates": "",
+                "numSites": 0,
+                "FSI": "2017-06-07"
+              },
+              "projections": {
+                "FSR": "2020-01-20",
+                "FSS": "2019-12-31",
+                "siteInitPercDates": ""
+              },
+              "RR": 0.050377777777777785,
+              "screeningTarget": 200,
+              "cycleTime": 138.3,
+              "enrollmentTarget": 200,
+              "maximumEnrollment": 100,
+              "centerInitInfo": {
+                "percentCenterInitInfo": {
+                  "centerInitSlot": [
+                    {
+                      "slotNum": 1,
+                      "slotPlannedDate": "2017-05-24"
+                    },
+                    {
+                      "slotNum": 2,
+                      "slotPlannedDate": "2017-06-01"
+                    },
+                    {
+                      "slotNum": 3,
+                      "slotPlannedDate": "2017-06-12"
+                    }
+                  ]
+                }
+              },
+              "PFSI": "2017-05-20",
+              "LSR": "2019-06-12",
+              "LSS": "2019-02-12",
+              "PFSR": "2017-10-03",
+              "ARC": 90,
+              "PFSS": "2017-06-05",
+              "PLSS": "2019-09-14",
+              "siteInitPercDates": {
+                "percDate": [
+                  {
+                    "perc": 25,
+                    "content": "2017-05-24"
+                  },
+                  {
+                    "perc": 50,
+                    "content": "2017-06-01"
+                  },
+                  {
+                    "perc": 75,
+                    "content": "2017-06-07"
+                  },
+                  {
+                    "perc": 90,
+                    "content": "2017-06-12"
+                  },
+                  {
+                    "perc": 100,
+                    "content": "2017-06-20"
+                  }
+                ]
+              },
+              "parentPlan": {
+                "RR": 0.09441507561216311,
+                "RT": 400,
+                "FSS": "2017-06-05",
+                "LSR": "2019-06-12",
+                "numSites": 50,
+                "FSI": "2017-05-20",
+                "LSS": "2019-02-12",
+                "SFR": 0,
+                "SR": 0.09441507561216311
+              },
+              "numSites": 50,
+              "FSI": "2017-05-20",
+              "PLSR": "2020-01-12",
+              "SFR": 0,
+              "maximumScreening": 100,
+              "SR": 0.050377777777777785
+            },
+            "geographyKey": 0,
+            "isCohortCountry": true,
+            "geographyLevel": "WW",
+            "geographyName": "Worldwide",
+            "isCohortExcluded": false,
+            "cohortKey": 2814
+          }
+        ]
+      },
+      "regionList": {
+        "geography": [
+          {
+            "planParamsDetails": {
+              "RR": 0.09455527438335011,
+              "enrollmentTarget": 400,
+              "PFSI": "2017-05-20",
+              "LSR": "2019-06-12",
+              "LSS": "2019-02-12",
+              "ARC": 96,
+              "PFSS": "2017-06-05",
+              "PLSS": "2019-09-15",
+              "numSites": 50,
+              "FSI": "2017-05-20",
+              "PLSR": "2020-01-13",
+              "SFR": 0,
+              "SR": 0.09455527438335011
+            },
+            "geographyKey": 9,
+            "geographyLevel": "Region",
+            "geographyName": "Caribbean"
+          },
+          {
+            "planParamsDetails": {
+              "RR": 0.09455527438335011,
+              "enrollmentTarget": 400,
+              "PFSI": "2017-05-20",
+              "LSR": "2019-06-12",
+              "LSS": "2019-02-12",
+              "ARC": 96,
+              "PFSS": "2017-06-05",
+              "PLSS": "2019-09-15",
+              "numSites": 50,
+              "FSI": "2017-05-20",
+              "PLSR": "2020-01-13",
+              "SFR": 0,
+              "SR": 0.09455527438335011
+            },
+            "geographyKey": 9,
+            "geographyLevel": "Region",
+            "geographyName": "Caribbean"
+          },
+          {
+            "cohortName": "C10",
+            "planParamsDetails": {
+              "RR": 0.047374999999999994,
+              "ARC": 96,
+              "PFSS": "2017-06-05",
+              "enrollmentTarget": 200,
+              "PFSI": "2017-05-20",
+              "PLSS": "2019-09-15",
+              "LSR": "2019-06-12",
+              "numSites": 50,
+              "LSS": "2019-02-12",
+              "PLSR": "2020-01-13",
+              "SFR": 0,
+              "SR": 0.047374999999999994
+            },
+            "geographyKey": 9,
+            "geographyLevel": "Region",
+            "geographyName": "Caribbean",
+            "cohortKey": 180
+          },
+          {
+            "cohortName": "C11",
+            "planParamsDetails": {
+              "RR": 0.050377777777777785,
+              "ARC": 90,
+              "PFSS": "2017-06-05",
+              "enrollmentTarget": 200,
+              "PFSI": "2017-05-20",
+              "PLSS": "2019-09-14",
+              "LSR": "2019-06-12",
+              "numSites": 50,
+              "LSS": "2019-02-12",
+              "PLSR": "2020-01-12",
+              "SFR": 0,
+              "SR": 0.050377777777777785
+            },
+            "geographyKey": 9,
+            "geographyLevel": "Region",
+            "geographyName": "Caribbean",
+            "cohortKey": 2814
+          }
+        ]
+      },
+      "studyTargets": {
+        "LSR": "2021-12-31",
+        "FSI": "2017-05-20",
+        "LSS": "2021-12-11"
+      },
+      "planProperties": {
+        "screeningTarget": 400,
+        "cohortList": {
+          "cohortPlanParams": [
+            {
+              "cohortName": "C10",
+              "sourceCohorts": "",
+              "enrollmentTarget": 200,
+              "isParallelCohort": true,
+              "isReCalRequired": false,
+              "LSR": "2019-06-12",
+              "cohortKey": 180,
+              "LSS": "2019-02-12"
+            },
+            {
+              "cohortName": "C11",
+              "sourceCohorts": "",
+              "enrollmentTarget": 200,
+              "isParallelCohort": true,
+              "isReCalRequired": false,
+              "LSR": "2019-06-12",
+              "cohortKey": 2814,
+              "LSS": "2019-02-12"
+            }
+          ]
+        },
+        "isPlanApproved": false,
+        "planCountries": 2,
+        "planSites": 50,
+        "planStatus": {
+          "value": "INVALID",
+          "statusCode": [
+            "STUDY_TMILE",
+            "COHORT_TMILE"
+          ]
+        },
+        "originalPlanKey": 15060,
+        "studyKey": 142,
+        "hasLockedCountries": false,
+        "isDeletable": false,
+        "planFSS": "2017-06-05",
+        "isReadOnly": true,
+        "isPlan": false,
+        "isAutoDeleted": false,
+        "isCohortPlan": "Y",
+        "planScreened": 400,
+        "isOverThreshold": false,
+        "screeningPeriod": 120,
+        "planFSI": "2017-05-20",
+        "FSI": "2017-05-20",
+        "SFR": 0,
+        "SR": 0.09455527,
+        "parentPlankey": 15060,
+        "cycleTime": 107.7,
+        "enrollmentTarget": 400,
+        "lastModifiedDate": "2019-10-15 11:38:33.049",
+        "lastModifiedBy": "vishalb",
+        "isPrevApproved": false,
+        "LSR": "2019-06-12",
+        "creationDate": "2019-10-15 11:37:23.554",
+        "planLSS": "2019-09-15",
+        "LSS": "2019-02-12",
+        "planEnrollment": 400,
+        "planLSR": "2020-01-13",
+        "version": "2019-10-15 11:38:33.049",
+        "createdBy": "vishalb",
+        "isDepCohortPlan": "N",
+        "name": "VTest_Plan20076_005_adj1",
+        "planKey": 15061
+      }
+    }
+  }
+}

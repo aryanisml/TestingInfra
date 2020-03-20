@@ -1,0 +1,20 @@
+{
+  "serviceResponse":{
+     "result":"OK",
+     "sourceSummary":{
+        "phase":"IIA",
+        "LSR":"2019-10-24",
+        "sdta":"Infectious Diseases",
+        "studyCohortType":"S Type Cohort",
+        "LSS":"",
+        "medicalCondition":"HIV Infections",
+        "name":"Antiviral Therapy study",
+        "id":"GDP004",
+        "screeningPeriod":0,
+        "cohortIndicator":"Y",
+        "FSI":"2016-03-23",
+        "key":4,
+        "targetEnrollment":80
+     }
+  }
+}

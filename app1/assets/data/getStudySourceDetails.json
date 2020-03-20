@@ -1,0 +1,180 @@
+{
+  "serviceResponse": {
+    "result": "OK",
+    "studySourceDetails": {
+      "actuals": { "FPA": "2017-06-16", "FSI": "2017-09-13" },
+      "sourceTargets": {
+        "cycleTime": 26.1,
+        "enrollmentTarget": 462,
+        "FPA": "2017-06-09",
+        "LSR": "2018-03-16",
+        "studyGeoList": {
+          "geography": [
+            {
+              "geographyKey": 0,
+              "isInPlan": "N",
+              "geographyLevel": "WW",
+              "geographyName": "Worldwide",
+              "isInSource": "N"
+            },
+            {
+              "geographyKey": 17,
+              "isInPlan": "Y",
+              "geographyLevel": "Region",
+              "geographyName": "South-Eastern Asia",
+              "isInSource": "Y"
+            },
+            {
+              "geographyKey": 97,
+              "isInPlan": "Y",
+              "geographyLevel": "Country",
+              "geographyName": "Thailand",
+              "isInSource": "Y"
+            },
+            {
+              "geographyKey": 195,
+              "isInPlan": "Y",
+              "geographyLevel": "Country",
+              "geographyName": "Philippines",
+              "isInSource": "Y"
+            },
+            {
+              "geographyKey": 20,
+              "isInPlan": "Y",
+              "geographyLevel": "Region",
+              "geographyName": "Eastern Europe",
+              "isInSource": "Y"
+            },
+            {
+              "geographyKey": 196,
+              "isInPlan": "Y",
+              "geographyLevel": "Country",
+              "geographyName": "Poland",
+              "isInSource": "Y"
+            },
+            {
+              "geographyKey": 200,
+              "isInPlan": "Y",
+              "geographyLevel": "Country",
+              "geographyName": "Russian Federation",
+              "isInSource": "Y"
+            },
+            {
+              "geographyKey": 126,
+              "isInPlan": "Y",
+              "geographyLevel": "Country",
+              "geographyName": "Czech Republic",
+              "isInSource": "Y"
+            },
+            {
+              "geographyKey": 21,
+              "isInPlan": "Y",
+              "geographyLevel": "Region",
+              "geographyName": "Northern Europe",
+              "isInSource": "Y"
+            },
+            {
+              "geographyKey": 229,
+              "isInPlan": "Y",
+              "geographyLevel": "Country",
+              "geographyName": "United Kingdom",
+              "isInSource": "Y"
+            },
+            {
+              "geographyKey": 155,
+              "isInPlan": "Y",
+              "geographyLevel": "Country",
+              "geographyName": "Ireland",
+              "isInSource": "Y"
+            },
+            {
+              "geographyKey": 12,
+              "isInPlan": "Y",
+              "geographyLevel": "Region",
+              "geographyName": "Northern America",
+              "isInSource": "Y"
+            },
+            {
+              "geographyKey": 102,
+              "isInPlan": "Y",
+              "geographyLevel": "Country",
+              "geographyName": "United States",
+              "isInSource": "Y"
+            },
+            {
+              "geographyKey": 115,
+              "isInPlan": "Y",
+              "geographyLevel": "Country",
+              "geographyName": "Canada",
+              "isInSource": "Y"
+            },
+            {
+              "geographyKey": 23,
+              "isInPlan": "Y",
+              "geographyLevel": "Region",
+              "geographyName": "Western Europe",
+              "isInSource": "Y"
+            },
+            {
+              "geographyKey": 47,
+              "isInPlan": "Y",
+              "geographyLevel": "Country",
+              "geographyName": "Germany",
+              "isInSource": "Y"
+            },
+            {
+              "geographyKey": 21,
+              "isInPlan": "Y",
+              "geographyLevel": "Country",
+              "geographyName": "Belgium",
+              "isInSource": "Y"
+            },
+            {
+              "geographyKey": 15,
+              "isInPlan": "Y",
+              "geographyLevel": "Region",
+              "geographyName": "Eastern Asia",
+              "isInSource": "Y"
+            },
+            {
+              "geographyKey": 53,
+              "isInPlan": "Y",
+              "geographyLevel": "Country",
+              "geographyName": "Hong Kong",
+              "isInSource": "Y"
+            },
+            {
+              "geographyKey": 22,
+              "isInPlan": "Y",
+              "geographyLevel": "Region",
+              "geographyName": "Southern Europe",
+              "isInSource": "Y"
+            },
+            {
+              "geographyKey": 213,
+              "isInPlan": "Y",
+              "geographyLevel": "Country",
+              "geographyName": "Spain",
+              "isInSource": "Y"
+            },
+            {
+              "geographyKey": 16,
+              "isInPlan": "Y",
+              "geographyLevel": "Region",
+              "geographyName": "Southern Asia",
+              "isInSource": "Y"
+            },
+            {
+              "geographyKey": 191,
+              "isInPlan": "Y",
+              "geographyLevel": "Country",
+              "geographyName": "Pakistan",
+              "isInSource": "Y"
+            }
+          ]
+        },
+        "FSI": "2017-09-15"
+      }
+    }
+  }
+}

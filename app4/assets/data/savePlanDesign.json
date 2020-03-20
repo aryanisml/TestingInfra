@@ -1,0 +1,38 @@
+{
+	"serviceResponse": {
+    "result": "OK",
+    "cohortListArray": {
+      "element": [
+        {
+          "key": "1",
+          "text": "DEC",
+          "color": null,
+          "loc": "0 50",
+          "__gohashid": "616"
+        },
+        {
+          "key": "2",
+          "text": "DRC",
+          "color": null,
+          "loc": "500 116.99999999999999",
+          "__gohashid": "617"
+        },
+        {
+          "key": "3",
+          "text": "DRC +",
+          "color": null,
+          "loc": "195 95",
+          "__gohashid": "618"
+        },
+        {
+          "key": "4",
+          "text": "DRC 1",
+          "color": null,
+          "loc": "0 200",
+          "__gohashid": "619"
+        }
+      ]
+    }
+  }
+
+}

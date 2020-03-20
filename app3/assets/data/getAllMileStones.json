@@ -1,0 +1,145 @@
+{
+    "serviceResponse": {
+        "result": "OK",
+        "milestoneData": {
+            "geographies": {
+                "cohortName": "Cohort1",
+                "geographyKey": 0,
+                "geographyLevel": "WW",
+                "geographyName": "Worldwide",
+                "planmilestone": {
+                    "randomization": {
+                        "curves": [
+                            {
+                                "name": "approved",
+                                "id": "AppPSR",
+                                "markers": {
+                                    "date": "2023/02/02",
+                                    "name": "LSR",
+                                    "description": "SR_App",
+                                    "value": 600
+                                }
+                            },
+                            {
+                                "name": "projected",
+                                "id": "CurPrSR",
+                                "markers": [
+                                    {
+                                        "date": "2023/02/09",
+                                        "name": "StudyPrLSR",
+                                        "description": "StudyPrLSR_pr"
+                                    },
+                                    {
+                                        "date": "2023/02/09",
+                                        "name": "LSR",
+                                        "description": "SR_CurPr",
+                                        "value": 600
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "siteinit": {
+                        "curves": [
+                            {
+                                "name": "approved",
+                                "id": "AppPSI",
+                                "markers": [
+                                    {
+                                        "date": "2017/02/18",
+                                        "name": "25%",
+                                        "description": "SI_25_App",
+                                        "value": 33
+                                    },
+                                    {
+                                        "date": "2017/02/24",
+                                        "name": "50%",
+                                        "description": "SI_50_App",
+                                        "value": 67
+                                    },
+                                    {
+                                        "date": "2018/05/09",
+                                        "name": "90%",
+                                        "description": "SI_90_App",
+                                        "value": 120
+                                    },
+                                    {
+                                        "date": "2017/02/16",
+                                        "name": "AppPFSI",
+                                        "description": "First_Site_Initiated_approved",
+                                        "value": 12
+                                    },
+                                    {
+                                        "name": "AppTotSites",
+                                        "description": "Tot_No_Sites_approved",
+                                        "value": 134
+                                    },
+                                    {
+                                        "name": "Planned_Sites",
+                                        "description": "Planned_Sites_App",
+                                        "value": 134
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "actual",
+                                "id": "ActSI",
+                                "markers": [
+                                    {
+                                        "date": "2017/03/10",
+                                        "name": "ActFSI",
+                                        "description": "First_Site_Initiated_actual",
+                                        "value": 1
+                                    },
+                                    {
+                                        "name": "ActTotSites",
+                                        "description": "Tot_No_Sites_actual",
+                                        "value": 596
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "projected",
+                                "id": "CurPrSI",
+                                "markers": [
+                                    {
+                                        "date": "2020/02/14",
+                                        "name": "CurPrFSI",
+                                        "description": "First_Site_Initiated_Prj",
+                                        "value": 598
+                                    },
+                                    {
+                                        "name": "PrjTotSites",
+                                        "description": "Tot_No_Sites_Prj",
+                                        "value": 607
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "targetmilestones": [
+                    {
+                        "date": "2017/02/16",
+                        "name": "TFSI",
+                        "description": "tooltip_TFSI",
+                        "axis": "date"
+                    },
+                    {
+                        "date": "2022/04/05",
+                        "name": "TLSR",
+                        "description": "tooltip_TLSR",
+                        "axis": "date"
+                    },
+                    {
+                        "name": "RT",
+                        "description": "tooltip_RT",
+                        "axis": "subject",
+                        "value": 600
+                    }
+                ],
+                "cohortKey": 61
+            }
+        }
+    }
+}

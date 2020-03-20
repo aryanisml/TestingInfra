@@ -1,0 +1,271 @@
+{
+    "serviceResponse": {
+        "result": "OK",
+        "studyPlanDetails": {
+            "geoList": {
+                "geography": [{
+                    "planParams": {
+                        "RR": 0.014162745098039217,
+                        "screeningTarget": 120,
+                        "cycleTime": 72.3,
+                        "enrollmentTarget": 120,
+                        "maximumEnrollment": 120,
+                        "FSS": "2017-08-10",
+                        "PFSI": "2017-08-07",
+                        "LSR": "2018-12-30",
+                        "overRecruitmentPercent": 0,
+                        "LSS": "2018-12-20",
+                        "PFSR": "2017-08-20",
+                        "isOverRecruitmentEnabled": false,
+                        "ARC": 100,
+                        "PFSS": "2017-08-10",
+                        "PLSS": "2018-12-15",
+                        "siteInitPercDates": {
+                            "percDate": [{
+                                "perc": 25,
+                                "content": "2017-08-08"
+                            }, {
+                                "perc": 50,
+                                "content": "2017-08-09"
+                            }, {
+                                "perc": 75,
+                                "content": "2017-08-12"
+                            }, {
+                                "perc": 90,
+                                "content": "2017-08-10"
+                            }, {
+                                "perc": 100,
+                                "content": "2017-08-16"
+                            }]
+                        },
+                        "numSites": 17,
+                        "FSI": "2017-08-07",
+                        "PLSR": "2018-12-25",
+                        "SFR": 0,
+                        "maximumScreening": 120,
+                        "SR": 0.014162745098039217
+                    },
+                    "geographyKey": 0,
+                    "geographyLevel": "WW",
+                    "geographyName": "Worldwide",
+                    "costParams": {
+                        "siteInitCost": 0,
+                        "costAlert": false,
+                        "screeningCost": 0,
+                        "countrySetupCost": 0,
+                        "treatmentCost": 0,
+                        "totalCost": 0
+                    }
+                }, {
+                    "planParams": {
+                        "RR": 0.0101,
+                        "ARTB": "2018-12-10",
+                        "screeningTarget": 20,
+                        "maximumEnrollment": 20,
+                        "avgDaysToSiteInit": 0.8571428571428571,
+                        "planStatus": {
+                            "value": "VALID"
+                        },
+                        "overRecruitmentPercent": 0,
+                        "noteList": "",
+                        "algorithmCode": "simpleFrcst",
+                        "rateAdjustmentsTable": "",
+                        "minScreeningRate": 0,
+                        "countryCalcQuantity": {
+                            "effectiveSFR": 0,
+                            "effectiveSR": 0.0071374473405268835,
+                            "effectiveSAS": 75
+                        },
+                        "logList": "",
+                        "seedNumber": 1531989471384,
+                        "numSites": 4,
+                        "SITOFSSDAYS": 5,
+                        "FSI": "2017-08-11",
+                        "isCountryEmpty": false,
+                        "SFR": 0,
+                        "SR": 0.0101,
+                        "cycleTime": 69.6,
+                        "enrollmentTarget": 20,
+                        "lastModifiedDate": "2018-09-28",
+                        "minRT": 4,
+                        "centerInitInfo": {
+                            "percentCenterInitInfo": {
+                                "centerInitSlot": [{
+                                    "slotNum": 1,
+                                    "percOfCenterInit": 25,
+                                    "noOfCenters": 1,
+                                    "redistributed": false,
+                                    "slotEndDate": "2017-08-11",
+                                    "noOfPeriods": 0,
+                                    "slotStartDate": "2017-08-11",
+                                    "slotPlannedDate": "2017-08-11"
+                                }, {
+                                    "slotNum": 2,
+                                    "percOfCenterInit": 50,
+                                    "noOfCenters": 2,
+                                    "redistributed": false,
+                                    "slotEndDate": "2017-08-12",
+                                    "noOfPeriods": 1,
+                                    "slotStartDate": "2017-08-11",
+                                    "slotPlannedDate": "2017-08-12"
+                                }, {
+                                    "slotNum": 3,
+                                    "percOfCenterInit": 90,
+                                    "noOfCenters": 3,
+                                    "redistributed": false,
+                                    "slotEndDate": "2017-08-13",
+                                    "noOfPeriods": 2,
+                                    "slotStartDate": "2017-08-12",
+                                    "slotPlannedDate": "2017-08-13"
+                                }]
+                            },
+                            "granularCenterInitInfo": {
+                                "centerInitSlot": [{
+                                    "slotNum": 1,
+                                    "percOfCenterInit": 0,
+                                    "noOfCenters": 1,
+                                    "redistributed": false,
+                                    "slotEndDate": "2017-08-11",
+                                    "noOfPeriods": 0,
+                                    "slotStartDate": "2017-08-11"
+                                }, {
+                                    "slotNum": 2,
+                                    "percOfCenterInit": 0,
+                                    "noOfCenters": 1,
+                                    "redistributed": false,
+                                    "slotEndDate": "2017-08-12",
+                                    "noOfPeriods": 1,
+                                    "slotStartDate": "2017-08-12"
+                                }, {
+                                    "slotNum": 3,
+                                    "percOfCenterInit": 0,
+                                    "noOfCenters": 1,
+                                    "redistributed": false,
+                                    "slotEndDate": "2017-08-13",
+                                    "noOfPeriods": 2,
+                                    "slotStartDate": "2017-08-13"
+                                }, {
+                                    "slotNum": 4,
+                                    "percOfCenterInit": 0,
+                                    "noOfCenters": 1,
+                                    "redistributed": false,
+                                    "slotEndDate": "2017-08-16",
+                                    "noOfPeriods": 5,
+                                    "slotStartDate": "2017-08-16"
+                                }]
+                            }
+                        },
+                        "FSS": "2017-08-16",
+                        "siteInitiationMethod": "granular",
+                        "lastModifiedBy": "DFulwani",
+                        "PFSI": "2017-08-11",
+                        "LSR": "2018-12-30",
+                        "creationDate": "2018-07-19",
+                        "algorithmSiteCompId": "Linear",
+                        "LSS": "2018-12-20",
+                        "isCountryLocked": false,
+                        "version": "2018-09-28 15:43:21.590",
+                        "PFSR": "2017-08-26",
+                        "isOverRecruitmentEnabled": false,
+                        "isSSV": true,
+                        "ARC": 100,
+                        "PFSS": "2017-08-16",
+                        "createdBy": "divyak",
+                        "PLSS": "2018-11-30",
+                        "siteInitPercDates": {
+                            "percDate": [{
+                                "perc": 25,
+                                "content": "2017-08-11"
+                            }, {
+                                "perc": 50,
+                                "content": "2017-08-12"
+                            }, {
+                                "perc": 75,
+                                "content": "2017-08-13"
+                            }, {
+                                "perc": 90,
+                                "content": "2017-08-13"
+                            }, {
+                                "perc": 100,
+                                "content": "2017-08-16"
+                            }]
+                        },
+                        "PLSR": "2018-12-10",
+                        "maximumScreening": 20,
+                        "algorithmId": 1
+                    },
+                    "geographyKey": 115,
+                    "geographyLevel": "Country",
+                    "geographyName": "Canada",
+                    "costParams": ""
+                }]
+            },
+            "studyTargets":{
+                "FPA": "2015-08-16",
+                "LSR": "2019-10-24",
+                "FSI": "2016-03-23",
+                "RT": 1000,
+                "LSS": "2018-10-24"		
+            },
+            "actuals":{
+                "FPA": "2015-08-16",
+                "LSR": "2019-10-24",
+                "FSI": "2016-03-23",
+                "RT": 1000,
+                "LSS": "2018-10-24"		
+            },
+            "projections":{
+                "FPA": "2015-08-16",
+                "LSR": "2019-10-24",
+                "FSI": "2016-03-23",
+                "RT": 1000,
+                "LSS": "2018-10-24"		
+            },
+            "planProperties": {
+                "screeningTarget": 120,
+                "isPlanApproved": true,
+                "planCountries": 4,
+                "planSites": 17,
+                "planStatus": {
+                    "value": "VALID"
+                },
+                "originalPlanKey": 468,
+                "studyKey": 2,
+                "hasLockedCountries": false,
+                "approvePlanComments": "djfhsdjfsdj",
+                "isDeletable": true,
+                "planFSS": "2017-08-10",
+                "isReadOnly": false,
+                "isPlan": true,
+                "isAutoDeleted": false,
+                "planScreened": 120,
+                "screeningPeriod": 10,
+                "planFSI": "2017-08-07",
+                "SFR": 0,
+                "SR": 0.014162745,
+                "planType": "",
+                "cycleTime": 73,
+                "lastModifiedDate": "2018-10-10 15:27:26.351",
+                "lastModifiedBy": "DFulwani",
+                "isPrevApproved": false,
+                "creationDate": "2018-07-19 08:22:40.772",
+                "planLSS": "2018-12-15",
+                "planApprovedBy": "DFulwani",
+                "planEnrollment": 120,
+                "planLSR": "2018-12-25",
+                "version": "2018-10-10 15:27:26.351",
+                "approvedPlanDate": "2018-10-10",
+                "createdBy": "divyak",
+                "name": "TEIID_PLANSTATUS_4",
+                "planKey": 468
+            },
+            "parentPlanProperties": {
+                "FPA": "2015-08-16",
+                "LSR": "2019-10-24",
+                "FSI": "2016-03-23",
+                "RT": 1000,
+                "LSS": "2018-10-24"	
+            }
+        }
+    }
+}

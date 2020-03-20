@@ -1,0 +1,10 @@
+{
+    "serviceResponse": {
+        "result": "OK",
+        "recruitmentCostDefn": {
+            "studyKey": "26",
+            "planKey": "212",
+            "version": "2018-11-01 02:39:56.016"
+        }
+    }
+}

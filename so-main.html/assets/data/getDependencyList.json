@@ -1,0 +1,42 @@
+[{
+    "cmdName": "getStudyTag",
+    "dependentVal": [],
+    "cmdType": "dataType"
+  },
+
+  {
+    "cmdName": "getPlanList",
+    "dependentVal": ["getStudyTag"],
+    "cmdType": "dataType"
+  },
+
+  {
+    "cmdName": "updateStudyPlan",
+    "dependentVal": ["getPlanList"],
+    "cmdType": "actionType"
+  },
+
+  {
+    "cmdName": "createStudyPlan",
+    "dependentVal": ["getPlanList"],
+    "cmdType": "actionType"
+  },
+
+  {
+    "cmdName": "deleteStudyPlan",
+    "dependentVal": ["getPlanList"],
+    "cmdType": "actionType"
+  },
+
+  {
+    "cmdName": "getStudyPlan",
+    "dependentVal": ["getPlanList"],
+    "cmdType": "actionType"
+  },
+
+  {
+    "cmdName": "getCurve",
+    "dependentVal": ["getStudyPlan"],
+    "cmdType": "actionType"
+  }
+]

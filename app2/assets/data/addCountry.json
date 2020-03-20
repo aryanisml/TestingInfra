@@ -1,0 +1,846 @@
+{
+    "serviceResponse": {
+      "result": "OK",
+      "studyPlanDetails": {
+        "geoList": {
+          "geography": [
+            {
+              "planParamsDetails": {
+                "projections": { "LSR": "2019-09-12", "LSS": "2019-08-23" },
+                "planStatus": { "value": "VALID" },
+                "noteList": "",
+                "isAdjustable": true,
+                "isDeletable": false,
+                "parentPlan": {
+                  "RT": 300,
+                  "FSS": "2018-05-05",
+                  "LSR": "2018-10-28",
+                  "numSites": 10,
+                  "FSI": "2018-04-29",
+                  "LSS": "2018-10-08"
+                },
+                "numSites": 10,
+                "seedNumber": 1547468244414,
+                "FSI": "2018-04-29",
+                "isCopyToCountryAllowed": false,
+                "cycleTime": 26.1,
+                "enrollmentTarget": 300,
+                "siteInitiationMethod": "percent",
+                "LSR": "2019-10-01",
+                "creationDate": "2019-01-14",
+                "algorithmSiteCompId": "Random",
+                "LSS": "2019-09-11",
+                "isCountryLocked": false,
+                "version": "2019-01-14 17:47:30.325",
+                "isOverRecruitmentEnabled": false,
+                "ARC": 95,
+                "RR": 0.22428571428571428,
+                "ARTB": "2019-10-01",
+                "screeningTarget": 300,
+                "maximumEnrollment": 300,
+                "avgDaysToSiteInit": 3,
+                "isCountryAdjusted": false,
+                "overRecruitmentPercent": 0,
+                "algorithmCode": "simpleFrcst",
+                "rateAdjustmentsTable": {
+                  "rateAdjustment": [
+                    {
+                      "isDeletable": true,              
+                      "description": "er",
+                      "reasonName": "Holiday",
+                      "isEndDate": true,
+                      "reasonKey": 1,
+                      "rateAdjustmentType": "RTADJUST",
+                      "endDate": "2017-09-30",
+                      "srPercChange": -50,
+                      "name": "Ra",
+                      "sfrPercChange": 0,
+                      "key": 472,
+                      "startDate": "2017-09-01"
+                    },
+                    {
+                      "isDeletable": true,
+                      "description": "er",
+                      "reasonName": "Holiday",
+                      "isEndDate": true,
+                      "reasonKey": 1,
+                      "rateAdjustmentType": "RTADJUST",
+                      "endDate": "2018-10-31",
+                      "srPercChange": 20,
+                      "name": "RA2",
+                      "sfrPercChange": 0,
+                      "key": 473,
+                      "startDate": "2018-08-06"
+                    },
+                    {
+                      "isDeletable": true,
+                      "description": "er",
+                      "reasonName": "Holiday",
+                      "isEndDate": true,
+                      "reasonKey": 1,
+                      "rateAdjustmentType": "RTADJUST",
+                      "endDate": "2019-10-31",
+                      "srPercChange": 20,
+                      "name": "RA2",
+                      "sfrPercChange": 0,
+                      "key": 473,
+                      "startDate": "2019-08-06"
+                    }
+                  ]
+                },
+                "minScreeningRate": 0,
+                "countryCalcQuantity": {
+                  "effectiveSFR": 0,
+                  "effectiveSR": 0.137562511535803,
+                  "effectiveSAS": 95
+                },
+                "logList": "",
+                "isFromBasePlan": true,
+                "isCountryEmpty": false,
+                "SFR": 0,
+                "SR": 0.22428571428571428,
+                "actuals": {
+                  "RT": 29,
+                  "FSS": "2018-05-31",
+                  "numSites": 3,
+                  "FSI": "2018-05-01"
+                },
+                "lastModifiedDate": "2019-01-14",
+                "centerInitInfo": {
+                  "percentCenterInitInfo": {
+                    "centerInitSlot": [
+                      {
+                        "slotNum": 1,
+                        "percOfCenterInit": 25,
+                        "noOfCenters": 2,
+                        "redistributed": false,
+                        "slotEndDate": "2018-05-09",
+                        "noOfPeriods": 10,
+                        "slotStartDate": "2018-04-29",
+                        "slotPlannedDate": "2018-05-01"
+                      },
+                      {
+                        "slotNum": 2,
+                        "percOfCenterInit": 50,
+                        "noOfCenters": 5,
+                        "redistributed": false,
+                        "slotEndDate": "2018-05-14",
+                        "noOfPeriods": 15,
+                        "slotStartDate": "2018-05-09",
+                        "slotPlannedDate": "2018-05-12"
+                      },
+                      {
+                        "slotNum": 3,
+                        "percOfCenterInit": 90,
+                        "noOfCenters": 9,
+                        "redistributed": false,
+                        "slotEndDate": "2018-05-19",
+                        "noOfPeriods": 20,
+                        "slotStartDate": "2018-05-14",
+                        "slotPlannedDate": "2018-05-18"
+                      }
+                    ]
+                  },
+                  "granularCenterInitInfo": {
+                    "centerInitSlot": [
+                      {
+                        "slotNum": 1,
+                        "percOfCenterInit": 25,
+                        "noOfCenters": 2,
+                        "redistributed": false,
+                        "slotEndDate": "2018-05-01",
+                        "noOfPeriods": 2,
+                        "slotStartDate": "2018-04-29",
+                        "slotPlannedDate": "2018-05-01"
+                      },
+                      {
+                        "slotNum": 2,
+                        "percOfCenterInit": 50,
+                        "noOfCenters": 3,
+                        "redistributed": false,
+                        "slotEndDate": "2018-05-12",
+                        "noOfPeriods": 13,
+                        "slotStartDate": "2018-05-02",
+                        "slotPlannedDate": "2018-05-12"
+                      },
+                      {
+                        "slotNum": 3,
+                        "percOfCenterInit": 90,
+                        "noOfCenters": 4,
+                        "redistributed": false,
+                        "slotEndDate": "2018-05-18",
+                        "noOfPeriods": 19,
+                        "slotStartDate": "2018-05-13",
+                        "slotPlannedDate": "2018-05-18"
+                      },
+                      {
+                        "slotNum": 4,
+                        "percOfCenterInit": 100,
+                        "noOfCenters": 1,
+                        "redistributed": false,
+                        "slotEndDate": "2018-05-19",
+                        "noOfPeriods": 20,
+                        "slotStartDate": "2018-05-19",
+                        "slotPlannedDate": "2018-05-19"
+                      }
+                    ]
+                  }
+                },
+                "isTargetAdjusted": false,
+                "lastModifiedBy": "nishant.n",
+                "PFSI": "2018-04-29",
+                "PFSR": "2018-05-25",
+                "isSSV": false,
+                "PFSS": "2018-05-05",
+                "createdBy": "nishant.n",
+                "PLSS": "2018-10-08",
+                "siteInitPercDates": {
+                  "percDate": [
+                    { "perc": 25, "content": "2018-05-01" },
+                    { "perc": 50, "content": "2018-05-12" },
+                    { "perc": 75, "content": "2018-05-15" },
+                    { "perc": 90, "content": "2018-05-18" },
+                    { "perc": 100, "content": "2018-05-19" }
+                  ]
+                },
+                "PLSR": "2018-10-28",
+                "maximumScreening": 300,
+                "algorithmId": 1
+              },
+              "geographyKey": 115,
+              "geographyLevel": "Country",
+              "geographyName": "Canada",
+              "costParams": ""
+            },
+            {
+              "planParamsDetails": {
+                "projections": "",
+                "planStatus": { "value": "VALID" },
+                "noteList": "",
+                "isAdjustable": true,
+                "isDeletable": false,
+                "parentPlan": {
+                  "RT": 170,
+                  "FSS": "2018-05-06",
+                  "LSR": "2018-10-28",
+                  "numSites": 35,
+                  "FSI": "2018-04-29",
+                  "LSS": "2018-10-08"
+                },
+                "numSites": 35,
+                "seedNumber": 1547468104406,
+                "FSI": "2018-04-29",
+                "isCopyToCountryAllowed": false,
+                "cycleTime": 74.1,
+                "enrollmentTarget": 170,
+                "siteInitiationMethod": "percent",
+                "LSR": "2019-10-01",
+                "creationDate": "2019-01-14",
+                "algorithmSiteCompId": "Random",
+                "LSS": "2019-09-11",
+                "isCountryLocked": true,
+                "version": "2019-01-14 17:50:10.508",
+                "isOverRecruitmentEnabled": false,
+                "ARC": 100,
+                "redistSites": 7,
+                "RR": 0.010285714285714283,
+                "ARTB": "2019-10-01",
+                "screeningTarget": 177,
+                "maximumEnrollment": 170,
+                "avgDaysToSiteInit": 39,
+                "isCountryAdjusted": true,
+                "overRecruitmentPercent": 0,
+                "algorithmCode": "simpleFrcst",
+                "rateAdjustmentsTable": {
+                  "rateAdjustment": [
+                    {
+                      "isDeletable": true,
+                      "description": "er",
+                      "reasonName": "Holiday",
+                      "isEndDate": true,
+                      "reasonKey": 1,
+                      "rateAdjustmentType": "RTADJUST",
+                      "endDate": "2017-09-30",
+                      "srPercChange": -50,
+                      "name": "Ra",
+                      "sfrPercChange": 0,
+                      "key": 472,
+                      "startDate": "2017-09-01"
+                    },
+                    {
+                      "isDeletable": true,
+                      "description": "er",
+                      "reasonName": "Holiday",
+                      "isEndDate": false,
+                      "reasonKey": 1,
+                      "rateAdjustmentType": "RTADJUST",                    
+                      "srPercChange": 20,
+                      "name": "RA2",
+                      "sfrPercChange": 0,
+                      "key": 473,
+                      "startDate": "2018-08-06"
+                    }
+                  ]
+                },
+                "redistFSI": "2019-01-15",
+                "minScreeningRate": 0,
+                "countryCalcQuantity": {
+                  "effectiveSFR": 0,
+                  "effectiveSR": 9.134505594884677e-7,
+                  "effectiveSAS": 100
+                },
+                "logList": "",
+                "isFromBasePlan": true,
+                "isCountryEmpty": false,
+                "SFR": 0,
+                "SR": 0.010285714285714283,
+                "actuals": {
+                  "RT": 102,
+                  "FSS": "2018-05-04",
+                  "numSites": 25,
+                  "FSI": "2018-04-27"
+                },
+                "lastModifiedDate": "2019-01-14",
+                "centerInitInfo": {
+                  "percentCenterInitInfo": {
+                    "centerInitSlot": [
+                      {
+                        "slotNum": 1,
+                        "percOfCenterInit": 25,
+                        "noOfCenters": 8,
+                        "redistributed": false,
+                        "slotEndDate": "2018-05-08",
+                        "noOfPeriods": 9,
+                        "slotStartDate": "2018-04-29",
+                        "slotPlannedDate": "2018-05-08"
+                      },
+                      {
+                        "slotNum": 2,
+                        "percOfCenterInit": 50,
+                        "noOfCenters": 17,
+                        "redistributed": false,
+                        "slotEndDate": "2018-05-23",
+                        "noOfPeriods": 24,
+                        "slotStartDate": "2018-05-08",
+                        "slotPlannedDate": "2018-05-23"
+                      },
+                      {
+                        "slotNum": 3,
+                        "percOfCenterInit": 90,
+                        "noOfCenters": 31,
+                        "redistributed": false,
+                        "slotEndDate": "2019-01-17",
+                        "noOfPeriods": 263,
+                        "slotStartDate": "2018-05-23",
+                        "slotPlannedDate": "2019-01-17"
+                      }
+                    ]
+                  },
+                  "granularCenterInitInfo": {
+                    "centerInitSlot": [
+                      {
+                        "slotNum": 1,
+                        "percOfCenterInit": 25,
+                        "noOfCenters": 8,
+                        "redistributed": false,
+                        "slotEndDate": "2018-05-08",
+                        "noOfPeriods": 9,
+                        "slotStartDate": "2018-04-29",
+                        "slotPlannedDate": "2018-05-08"
+                      },
+                      {
+                        "slotNum": 2,
+                        "percOfCenterInit": 50,
+                        "noOfCenters": 9,
+                        "redistributed": false,
+                        "slotEndDate": "2018-05-23",
+                        "noOfPeriods": 24,
+                        "slotStartDate": "2018-05-09",
+                        "slotPlannedDate": "2018-05-23"
+                      },
+                      {
+                        "slotNum": 3,
+                        "percOfCenterInit": 90,
+                        "noOfCenters": 14,
+                        "redistributed": false,
+                        "slotEndDate": "2019-01-17",
+                        "noOfPeriods": 263,
+                        "slotStartDate": "2018-05-24",
+                        "slotPlannedDate": "2019-01-17"
+                      },
+                      {
+                        "slotNum": 4,
+                        "percOfCenterInit": 100,
+                        "noOfCenters": 4,
+                        "redistributed": false,
+                        "slotEndDate": "2019-01-26",
+                        "noOfPeriods": 272,
+                        "slotStartDate": "2019-01-18",
+                        "slotPlannedDate": "2019-01-26"
+                      }
+                    ]
+                  }
+                },
+                "isTargetAdjusted": false,
+                "lastModifiedBy": "nishant.n",
+                "PFSI": "2018-04-29",
+                "PFSR": "2018-05-26",
+                "isSSV": false,
+                "PFSS": "2018-05-06",
+                "createdBy": "nishant.n",
+                "PLSS": "2019-09-09",
+                "siteInitPercDates": {
+                  "percDate": [
+                    { "perc": 25, "content": "2018-05-08" },
+                    { "perc": 50, "content": "2018-05-23" },
+                    { "perc": 75, "content": "2019-01-14" },
+                    { "perc": 90, "content": "2019-01-17" },
+                    { "perc": 100, "content": "2019-01-26" }
+                  ]
+                },
+                "PLSR": "2019-09-29",
+                "maximumScreening": 177,
+                "algorithmId": 1
+              },
+              "geographyKey": 102,
+              "geographyLevel": "Country",
+              "geographyName": "United States",
+              "costParams": ""
+            },
+            {
+              "planParamsDetails": {
+                "projections": { "LSR": "2019-10-25", "LSS": "2019-10-05" },
+                "planStatus": { "value": "VALID" },
+                "noteList": "",
+                "isAdjustable": true,
+                "isDeletable": false,
+                "parentPlan": {
+                  "RT": 90,
+                  "FSS": "2018-05-07",
+                  "LSR": "2018-10-27",
+                  "numSites": 10,
+                  "FSI": "2018-04-29",
+                  "LSS": "2018-10-07"
+                },
+                "numSites": 10,
+                "seedNumber": 1547468180431,
+                "FSI": "2018-04-29",
+                "isCopyToCountryAllowed": false,
+                "cycleTime": 74.4,
+                "enrollmentTarget": 90,
+                "siteInitiationMethod": "percent",
+                "LSR": "2019-10-01",
+                "creationDate": "2019-01-14",
+                "algorithmSiteCompId": "Random",
+                "LSS": "2019-09-11",
+                "isCountryLocked": true,
+                "version": "2019-01-14 17:50:54.810",
+                "isOverRecruitmentEnabled": false,
+                "ARC": 100,
+                "redistSites": 3,
+                "RR": 0.043,
+                "ARTB": "2019-10-01",
+                "screeningTarget": 90,
+                "maximumEnrollment": 90,
+                "avgDaysToSiteInit": 38.42857142857143,
+                "isCountryAdjusted": true,
+                "overRecruitmentPercent": 0,
+                "algorithmCode": "simpleFrcst",
+                "rateAdjustmentsTable": "",
+                "redistFSI": "2019-01-15",
+                "minScreeningRate": 0,
+                "countryCalcQuantity": {
+                  "effectiveSFR": 0,
+                  "effectiveSR": 0.03885131422993795,
+                  "effectiveSAS": 80
+                },
+                "logList": "",
+                "isFromBasePlan": true,
+                "isCountryEmpty": false,
+                "SFR": 0,
+                "SR": 0.043,
+                "actuals": {
+                  "RT": 8,
+                  "FSS": "2018-06-28",
+                  "numSites": 6,
+                  "FSI": "2018-06-08"
+                },
+                "lastModifiedDate": "2019-01-14",
+                "centerInitInfo": {
+                  "percentCenterInitInfo": {
+                    "centerInitSlot": [
+                      {
+                        "slotNum": 1,
+                        "percOfCenterInit": 25,
+                        "noOfCenters": 2,
+                        "redistributed": false,
+                        "slotEndDate": "2018-04-30",
+                        "noOfPeriods": 1,
+                        "slotStartDate": "2018-04-29",
+                        "slotPlannedDate": "2018-04-30"
+                      },
+                      {
+                        "slotNum": 2,
+                        "percOfCenterInit": 50,
+                        "noOfCenters": 5,
+                        "redistributed": false,
+                        "slotEndDate": "2018-05-13",
+                        "noOfPeriods": 14,
+                        "slotStartDate": "2018-04-30",
+                        "slotPlannedDate": "2018-05-13"
+                      },
+                      {
+                        "slotNum": 3,
+                        "percOfCenterInit": 90,
+                        "noOfCenters": 9,
+                        "redistributed": false,
+                        "slotEndDate": "2019-01-21",
+                        "noOfPeriods": 267,
+                        "slotStartDate": "2018-05-13",
+                        "slotPlannedDate": "2019-01-21"
+                      }
+                    ]
+                  },
+                  "granularCenterInitInfo": {
+                    "centerInitSlot": [
+                      {
+                        "slotNum": 1,
+                        "percOfCenterInit": 25,
+                        "noOfCenters": 2,
+                        "redistributed": false,
+                        "slotEndDate": "2018-04-30",
+                        "noOfPeriods": 1,
+                        "slotStartDate": "2018-04-29",
+                        "slotPlannedDate": "2018-04-30"
+                      },
+                      {
+                        "slotNum": 2,
+                        "percOfCenterInit": 50,
+                        "noOfCenters": 3,
+                        "redistributed": false,
+                        "slotEndDate": "2018-05-13",
+                        "noOfPeriods": 14,
+                        "slotStartDate": "2018-05-01",
+                        "slotPlannedDate": "2018-05-13"
+                      },
+                      {
+                        "slotNum": 3,
+                        "percOfCenterInit": 90,
+                        "noOfCenters": 4,
+                        "redistributed": false,
+                        "slotEndDate": "2019-01-21",
+                        "noOfPeriods": 267,
+                        "slotStartDate": "2018-05-14",
+                        "slotPlannedDate": "2019-01-21"
+                      },
+                      {
+                        "slotNum": 4,
+                        "percOfCenterInit": 100,
+                        "noOfCenters": 1,
+                        "redistributed": false,
+                        "slotEndDate": "2019-01-22",
+                        "noOfPeriods": 268,
+                        "slotStartDate": "2019-01-22",
+                        "slotPlannedDate": "2019-01-22"
+                      }
+                    ]
+                  }
+                },
+                "isTargetAdjusted": false,
+                "lastModifiedBy": "nishant.n",
+                "PFSI": "2018-04-29",
+                "PFSR": "2018-05-27",
+                "isSSV": false,
+                "PFSS": "2018-05-07",
+                "createdBy": "nishant.n",
+                "PLSS": "2019-09-11",
+                "siteInitPercDates": {
+                  "percDate": [
+                    { "perc": 25, "content": "2018-04-30" },
+                    { "perc": 50, "content": "2018-05-13" },
+                    { "perc": 75, "content": "2019-01-14" },
+                    { "perc": 90, "content": "2019-01-21" },
+                    { "perc": 100, "content": "2019-01-22" }
+                  ]
+                },
+                "PLSR": "2019-10-01",
+                "maximumScreening": 90,
+                "algorithmId": 1
+              },
+              "geographyKey": 126,
+              "geographyLevel": "Country",
+              "geographyName": "Czech Republic",
+              "costParams": ""
+            },
+            {
+                "planParamsDetails": {
+                  "projections": { "LSR": "2019-10-25", "LSS": "2019-10-05" },
+                  "planStatus": { "value": "VALID" },
+                  "noteList": "",
+                  "isAdjustable": true,
+                  "isDeletable": false,
+                  "parentPlan": {
+                    "RT": 90,
+                    "FSS": "2018-05-07",
+                    "LSR": "2018-10-27",
+                    "numSites": 10,
+                    "FSI": "2018-04-29",
+                    "LSS": "2018-10-07"
+                  },
+                  "numSites": 10,
+                  "seedNumber": 1547468180431,
+                  "FSI": "2018-04-29",
+                  "isCopyToCountryAllowed": false,
+                  "cycleTime": 74.4,
+                  "enrollmentTarget": 90,
+                  "siteInitiationMethod": "percent",
+                  "LSR": "2019-10-01",
+                  "creationDate": "2019-01-14",
+                  "algorithmSiteCompId": "Random",
+                  "LSS": "2019-09-11",
+                  "isCountryLocked": true,
+                  "version": "2019-01-14 17:50:54.810",
+                  "isOverRecruitmentEnabled": false,
+                  "ARC": 100,
+                  "redistSites": 3,
+                  "RR": 0.043,
+                  "ARTB": "2019-10-01",
+                  "screeningTarget": 90,
+                  "maximumEnrollment": 90,
+                  "avgDaysToSiteInit": 38.42857142857143,
+                  "isCountryAdjusted": true,
+                  "overRecruitmentPercent": 0,
+                  "algorithmCode": "simpleFrcst",
+                  "rateAdjustmentsTable": "",
+                  "redistFSI": "2019-01-15",
+                  "minScreeningRate": 0,
+                  "countryCalcQuantity": {
+                    "effectiveSFR": 0,
+                    "effectiveSR": 0.03885131422993795,
+                    "effectiveSAS": 80
+                  },
+                  "logList": "",
+                  "isFromBasePlan": true,
+                  "isCountryEmpty": false,
+                  "SFR": 0,
+                  "SR": 0.043,
+                  "actuals": {
+                    "RT": 8,
+                    "FSS": "2018-06-28",
+                    "numSites": 6,
+                    "FSI": "2018-06-08"
+                  },
+                  "lastModifiedDate": "2019-01-14",
+                  "centerInitInfo": {
+                    "percentCenterInitInfo": {
+                      "centerInitSlot": [
+                        {
+                          "slotNum": 1,
+                          "percOfCenterInit": 25,
+                          "noOfCenters": 2,
+                          "redistributed": false,
+                          "slotEndDate": "2018-04-30",
+                          "noOfPeriods": 1,
+                          "slotStartDate": "2018-04-29",
+                          "slotPlannedDate": "2018-04-30"
+                        },
+                        {
+                          "slotNum": 2,
+                          "percOfCenterInit": 50,
+                          "noOfCenters": 5,
+                          "redistributed": false,
+                          "slotEndDate": "2018-05-13",
+                          "noOfPeriods": 14,
+                          "slotStartDate": "2018-04-30",
+                          "slotPlannedDate": "2018-05-13"
+                        },
+                        {
+                          "slotNum": 3,
+                          "percOfCenterInit": 90,
+                          "noOfCenters": 9,
+                          "redistributed": false,
+                          "slotEndDate": "2019-01-21",
+                          "noOfPeriods": 267,
+                          "slotStartDate": "2018-05-13",
+                          "slotPlannedDate": "2019-01-21"
+                        }
+                      ]
+                    },
+                    "granularCenterInitInfo": {
+                      "centerInitSlot": [
+                        {
+                          "slotNum": 1,
+                          "percOfCenterInit": 25,
+                          "noOfCenters": 2,
+                          "redistributed": false,
+                          "slotEndDate": "2018-04-30",
+                          "noOfPeriods": 1,
+                          "slotStartDate": "2018-04-29",
+                          "slotPlannedDate": "2018-04-30"
+                        },
+                        {
+                          "slotNum": 2,
+                          "percOfCenterInit": 50,
+                          "noOfCenters": 3,
+                          "redistributed": false,
+                          "slotEndDate": "2018-05-13",
+                          "noOfPeriods": 14,
+                          "slotStartDate": "2018-05-01",
+                          "slotPlannedDate": "2018-05-13"
+                        },
+                        {
+                          "slotNum": 3,
+                          "percOfCenterInit": 90,
+                          "noOfCenters": 4,
+                          "redistributed": false,
+                          "slotEndDate": "2019-01-21",
+                          "noOfPeriods": 267,
+                          "slotStartDate": "2018-05-14",
+                          "slotPlannedDate": "2019-01-21"
+                        },
+                        {
+                          "slotNum": 4,
+                          "percOfCenterInit": 100,
+                          "noOfCenters": 1,
+                          "redistributed": false,
+                          "slotEndDate": "2019-01-22",
+                          "noOfPeriods": 268,
+                          "slotStartDate": "2019-01-22",
+                          "slotPlannedDate": "2019-01-22"
+                        }
+                      ]
+                    }
+                  },
+                  "isTargetAdjusted": false,
+                  "lastModifiedBy": "nishant.n",
+                  "PFSI": "2018-04-29",
+                  "PFSR": "2018-05-27",
+                  "isSSV": false,
+                  "PFSS": "2018-05-07",
+                  "createdBy": "nishant.n",
+                  "PLSS": "2019-09-11",
+                  "siteInitPercDates": {
+                    "percDate": [
+                      { "perc": 25, "content": "2018-04-30" },
+                      { "perc": 50, "content": "2018-05-13" },
+                      { "perc": 75, "content": "2019-01-14" },
+                      { "perc": 90, "content": "2019-01-21" },
+                      { "perc": 100, "content": "2019-01-22" }
+                    ]
+                  },
+                  "PLSR": "2019-10-01",
+                  "maximumScreening": 90,
+                  "algorithmId": 1
+                },
+                "geographyKey": 152,
+                "geographyLevel": "Country",
+                "geographyName": "India",
+                "costParams": ""
+              },
+            {
+              "planParamsDetails": {
+                "actuals": {
+                  "RT": 229,
+                  "FSS": "2018-04-19",
+                  "numSites": 69,
+                  "FSI": "2017-08-17"
+                },
+                "projections": { "LSR": "2019-06-28", "LSS": "2019-06-08" },
+                "RR": 0.052010582010582014,
+                "screeningTarget": 567,
+                "cycleTime": 50.4,
+                "enrollmentTarget": 462,
+                "centerInitInfo": {
+                  "percentCenterInitInfo": {
+                    "centerInitSlot": [
+                      { "slotNum": 1, "slotPlannedDate": "2018-05-10" },
+                      { "slotNum": 2, "slotPlannedDate": "2018-05-15" },
+                      { "slotNum": 3, "slotPlannedDate": "2019-01-18" }
+                    ]
+                  }
+                },
+                "PFSI": "2018-04-29",
+                "LSR": "2019-10-01",
+                "LSS": "2019-09-11",
+                "PFSR": "2018-05-25",
+                "isOverRecruitmentEnabled": false,
+                "ARC": 98.18181818181819,
+                "PFSS": "2018-05-05",
+                "PLSS": "2019-09-11",
+                "parentPlan": {
+                  "RT": 462,
+                  "FSS": "2018-05-05",
+                  "LSR": "2018-10-03",
+                  "numSites": 55,
+                  "FSI": "2018-04-29",
+                  "LSS": "2018-10-08"
+                },
+                "numSites": 55,
+                "FSI": "2018-04-29",
+                "PLSR": "2022-04-16",
+                "SFR": 0,
+                "SR": 0.052010582010582014
+              },
+              "geographyKey": 0,
+              "geographyLevel": "WW",
+              "geographyName": "Worldwide",
+              "costParams": {
+                "siteInitCost": 0,
+                "costAlert": false,
+                "screeningCost": 0,
+                "countrySetupCost": 0,
+                "treatmentCost": 0,
+                "totalCost": 0
+              }
+            }
+          ]
+        },
+        "studyTargets": {
+          "FPA": "2018-01-21",
+          "LSR": "2022-10-28",
+          "FSI": "2018-04-29",
+          "LSS": "2018-10-08"
+        },
+        "planProperties": {
+          "screeningTarget": 567,
+          "isPlanApproved": false,
+          "planCountries": 3,
+          "planSites": 55,
+          "planStatus": { "value": "VALID" },
+          "originalPlanKey": 1044,
+          "studyKey": 26,
+          "hasLockedCountries": false,
+          "isDeletable": true,
+          "planFSS": "2018-05-05",
+          "isReadOnly": false,
+          "isPlan": true,
+          "isAutoDeleted": false,
+          "planScreened": 567,
+          "screeningPeriod": 20,
+          "planFSI": "2018-04-29",
+          "FSI": "2018-04-29",
+          "SFR": 0,
+          "SR": 0.05201058,
+          "parentPlankey": 1044,
+          "cycleTime": 74.4,
+          "enrollmentTarget": 462,
+          "lastModifiedDate": "2019-01-14 17:50:55.544",
+          "lastModifiedBy": "nishant.n",
+          "isPrevApproved": false,
+          "LSR": "2019-10-01",
+          "creationDate": "2019-01-14 17:48:56.735",
+          "planLSS": "2019-09-11",
+          "LSS": "2019-09-11",
+          "planEnrollment": 560,
+          "planLSR": "2019-04-16",
+          "version": "2019-01-14 17:50:55.544",
+          "createdBy": "nishant.n",
+          "name": "Test_123ABC",
+          "planKey": 1045,
+          "planDesign": "cohort"
+        }
+      }
+    }
+  }
+  
+  

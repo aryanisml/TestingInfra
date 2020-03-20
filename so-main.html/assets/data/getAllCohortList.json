@@ -1,0 +1,67 @@
+{
+	"serviceResponse": {
+		"cohortThumbnailList": {
+			"cohortThumbnail": [
+				{
+					"cohortKey": "6",
+					"studyCohortKey": "5",
+					"cohortName": "Middle Age",
+					"cohortDescription": "ages 35-60",
+					"cohortID": "Unmapped",
+					"usedInPlan": "Early Feasiibility Plan 1, Test_cohort, Test_LP1, Test_P1, Test_P_adj, Test_P, test_lp, test_lp, Plan_adj, Plan_1, Early Feasibility Plan 2test, Early Feasibility Plan 2, Cohort plan example, Early Feasibility Plan 2",
+					"isDeletable": true,
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "3",
+					"studyCohortKey": "5",
+					"cohortName": "Pediatric",
+					"cohortDescription": "ages 5-18",
+					"cohortID": "Unmapped",
+					"usedInPlan": "",
+					"isDeletable": true,
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "26",
+					"studyCohortKey": "5",
+					"cohortName": "Treatment naive",
+					"cohortID": "Unmapped",
+					"usedInPlan": "Capping of sub-groups",
+					"isDeletable": true,
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "4",
+					"studyCohortKey": "5",
+					"cohortName": "Young Adult",
+					"cohortDescription": "ages 19-35",
+					"cohortID": "Unmapped",
+					"isDeletable": false,
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "8",
+					"studyCohortKey": "5",
+					"cohortName": "Adult",
+					"cohortDescription": "ages 19-35",
+					"cohortID": "Unmapped",
+					"isDeletable": false,
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "5",
+					"studyCohortKey": "5",
+					"cohortName": "Younge",
+					"cohortDescription": "ages 19-35",
+					"cohortID": "Unmapped",
+					"isDeletable": false,
+					"isDeletedFromSource": "false"
+				}
+			],
+			"_cohortReadinessTypeCode": "SiteInitiation"
+		},
+		"_xmlns": "http://www.coprindm.com",
+		"result": "OK"
+	}
+}

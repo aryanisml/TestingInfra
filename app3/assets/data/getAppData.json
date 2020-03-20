@@ -1,0 +1,1219 @@
+{
+  "serviceResponse": {
+    "result": "OK",
+    "appMetadata": {
+      "weightedAvgCalInd": true,
+      "importFromCountryOptimizer": false,
+      "isDMAvailable": false,
+      "isGrantPlanEnable": false,
+      "pageSize": 100,
+      "reportingFrequency": {
+        "reportingFreqDef": [
+          {
+            "Value": 1,
+            "key": 1,
+            "Name": "DAY"
+          },
+          {
+            "Value": 7,
+            "key": 2,
+            "Name": "WEEK"
+          },
+          {
+            "Value": 30,
+            "key": 3,
+            "Name": "MONTH"
+          },
+          {
+            "Value": 90,
+            "key": 4,
+            "Name": "QUARTER"
+          }
+        ]
+      },
+      "isHistStandardEnrollRateAvlbl": true,
+      "centerInitSlotMetaData": {
+        "centerInitSlotMeta": [
+          {
+            "displayLabel": 25,
+            "percentVal": 25,
+            "description": "The date when 25% of the centers will have initiated.",
+            "slotID": 1
+          },
+          {
+            "displayLabel": 50,
+            "percentVal": 50,
+            "description": "The date when 50% of the centers will have initiated.",
+            "slotID": 2
+          },
+          {
+            "displayLabel": 90,
+            "percentVal": 90,
+            "description": "The date when 90% of the centers will have initiated.",
+            "slotID": 3
+          },
+          {
+            "displayLabel": 75,
+            "percentVal": 75,
+            "description": "The date when 75% of the centers will have initiated.",
+            "slotID": 4
+          },
+          {
+            "displayLabel": 100,
+            "percentVal": 100,
+            "description": "The date when 100% of the centers will have initiated.",
+            "slotID": 5
+          }
+        ]
+      },
+      "importFromSI": false,
+      "cohortPlanApprovalCriteria": {
+        "criteria": [
+          {
+            "code": "STUDY_TRAND"
+          },
+          {
+            "code": "COHORT_TRAND"
+          },
+          {
+            "code": "STUDY_TMILE"
+          },
+          {
+            "code": "COHORT_TMILE"
+          },
+          {
+            "code": "COUNTRY_EMPTY"
+          },
+          {
+            "code": "COHORT_EMPTY"
+          }
+        ]
+      },
+      "adjustStudyPlanApprovalCriteria": {
+        "criteria": {
+          "code": "STUDY_TMILE"
+        }
+      },
+      "histEnrollRateInPlanning": "Standard",
+      "isInvPerfAvailableFlag": true,
+      "curveColorsList": {
+        "curveColors": [
+          {
+            "name": "UpdExtPrSR",
+            "value": "#BFD8FF"
+          },
+          {
+            "name": "UpdExtPrSS",
+            "value": "#FFAC38"
+          },
+          {
+            "name": "UpdPrSI",
+            "value": "#E44686"
+          },
+          {
+            "name": "UpdPrSR",
+            "value": "#BFD8FF"
+          },
+          {
+            "name": "UpdPrSS",
+            "value": "#FFAC38"
+          },
+          {
+            "name": "BasPSI",
+            "value": "#9e54b0"
+          },
+          {
+            "name": "CurPrSI",
+            "value": "#ec70a2"
+          },
+          {
+            "name": "ActSI",
+            "value": "#731a88"
+          },
+          {
+            "name": "AppPSI",
+            "value": "#853699"
+          },
+          {
+            "name": "FroPrSI",
+            "value": "#de216e"
+          },
+          {
+            "name": "AdjPSI",
+            "value": "#bf80ce"
+          },
+          {
+            "name": "ActPSR",
+            "value": "#0043ae"
+          },
+          {
+            "name": "CBCurPrL",
+            "value": "#f2f2f2"
+          },
+          {
+            "name": "CBCurPrU",
+            "value": "#f2f2f2"
+          },
+          {
+            "name": "CBCurExtPrL",
+            "value": "#f2f2f2"
+          },
+          {
+            "name": "CBCurExtPrU",
+            "value": "#f2f2f2"
+          },
+          {
+            "name": "CurPrSR",
+            "value": "#d8e8fe"
+          },
+          {
+            "name": "CurExtPrSR",
+            "value": "#d8e8fe"
+          },
+          {
+            "name": "CBBasPL",
+            "value": "#999999"
+          },
+          {
+            "name": "CBBasPU",
+            "value": "#999999"
+          },
+          {
+            "name": "BasPSR",
+            "value": "#116dff"
+          },
+          {
+            "name": "CBAppPL",
+            "value": "#595959"
+          },
+          {
+            "name": "CBAppPU",
+            "value": "#595959"
+          },
+          {
+            "name": "AppPSR",
+            "value": "#005df1"
+          },
+          {
+            "name": "FroPrSR",
+            "value": "#7ba2de"
+          },
+          {
+            "name": "CBAdjPL",
+            "value": "#d9d9d9"
+          },
+          {
+            "name": "CBAdjPU",
+            "value": "#d9d9d9"
+          },
+          {
+            "name": "AdjPSR",
+            "value": "#7eb1fb"
+          },
+          {
+            "name": "ActSS",
+            "value": "#007615"
+          },
+          {
+            "name": "BasPSS",
+            "value": "#00c221"
+          },
+          {
+            "name": "CurPrSS",
+            "value": "#ffbe64"
+          },
+          {
+            "name": "CurExtPrSS",
+            "value": "#ffbe64"
+          },
+          {
+            "name": "AppPSS",
+            "value": "#00971a"
+          },
+          {
+            "name": "FroPrSS",
+            "value": "#c67200"
+          },
+          {
+            "name": "AdjPSS",
+            "value": "#a9e8b4"
+          },
+          {
+            "name": "ActDO",
+            "value": "#e20000"
+          },
+          {
+            "name": "ActSF",
+            "value": "#9b5a00"
+          },
+          {
+            "name": "BasEP",
+            "value": "#072156"
+          },
+          {
+            "name": "AdjEP",
+            "value": "#072156"
+          },
+          {
+            "name": "SiteInit",
+            "value": "#9e54b0"
+          },
+          {
+            "name": "Rnd",
+            "value": "#005ff1"
+          },
+          {
+            "name": "Scr",
+            "value": "#00c221"
+          },
+          {
+            "name": "CBApp",
+            "value": "#595959"
+          },
+          {
+            "name": "CBBas",
+            "value": "#999999"
+          },
+          {
+            "name": "CBAdj",
+            "value": "#d9d9d9"
+          },
+          {
+            "name": "CBCurPr",
+            "value": "#f2f2f2"
+          },
+          {
+            "name" : "AppEP",
+            "value" : "#072156"
+          },
+          {
+            "name" : "EP",
+            "value" : "#072156"
+          }
+        ]
+      },
+      "financeCurrency": "USD $",
+      "isHistThrshldEnrollRateAvlbl": true,
+      "scnActReasonMetaData": {
+        "scnActReasonMeta": [
+          {
+            "name": "Holiday",
+            "description": "A holiday is expected to impact study recruitment",
+            "key": 1
+          },
+          {
+            "name": "Vacation Slowdown",
+            "description": "The vacation season is expected to negatively impact study recruitment",
+            "key": 2
+          },
+          {
+            "name": "Advertising Campaign",
+            "description": "Advertising Campaign",
+            "key": 3
+          },
+          {
+            "name": "Referral Campaign",
+            "description": "Referral Campaign",
+            "key": 7
+          },
+          {
+            "name": "Awareness Campaign",
+            "description": "Awareness Campaign",
+            "key": 6
+          },
+          {
+            "name": "Training",
+            "description": "The staff at the sites will be trained to improve the site recruiting results",
+            "key": 4
+          },
+          {
+            "name": "Unplanned Event",
+            "description": "Unplanned Event",
+            "key": 8
+          },
+          {
+            "name": "Analysis Period",
+            "description": "Analysis Period",
+            "key": 9
+          },
+          {
+            "name": "Other",
+            "description": "Any reason the customer wishes but must specify the reason",
+            "key": 5
+          },
+          {
+            "name": "Protocol Amendment",
+            "description": "Protocol Amendment",
+            "key": 10
+          },
+          {
+            "name": "Delayed Startup",
+            "description": "Delayed Startup",
+            "key": 11
+          },
+          {
+            "name": "Site Ramp-up Time",
+            "description": "Site Ramp-up Time",
+            "key": 12
+          },
+          {
+            "name": "Interim Analysis",
+            "description": "Interim Analysis",
+            "key": 13
+          }
+        ]
+      },
+      "isCostAvailable": true,
+      "HAReportingPeriod": "Weekly",
+      "histEnrollRateSiteThrshld": 10,
+      "FSIBound": 14,
+      "HATagInfoAttributes": {
+        "HAtagInfo": [
+          {
+            "tagColorName": "GREEN",
+            "tagHexColorCode": "#008000",
+            "tagKey": 1
+          },
+          {
+            "tagColorName": "ORANGE",
+            "tagHexColorCode": "#FFA500",
+            "tagKey": 2
+          },
+          {
+            "tagColorName": "RED",
+            "tagHexColorCode": "#FF0000",
+            "tagKey": 3
+          },
+          {
+            "tagColorName": "YELLOW",
+            "tagHexColorCode": "#FFFF00",
+            "tagKey": 4
+          },
+          {
+            "tagColorName": "BLUE",
+            "tagHexColorCode": "#0000FF",
+            "tagKey": 5
+          },
+          {
+            "tagColorName": "TEAL",
+            "tagHexColorCode": "#008080",
+            "tagKey": 6
+          },
+          {
+            "tagColorName": "PINK",
+            "tagHexColorCode": "#FFC0CB",
+            "tagKey": 7
+          },
+          {
+            "tagColorName": "CYAN",
+            "tagHexColorCode": "#00FFFF",
+            "tagKey": 8
+          },
+          {
+            "tagColorName": "PURPLE",
+            "tagHexColorCode": "#800080",
+            "tagKey": 9
+          },
+          {
+            "tagColorName": "BROWN",
+            "tagHexColorCode": "#A52A2A",
+            "tagKey": 10
+          }
+        ]
+      },
+      "isPriorityPresent": true,
+      "studyPlanApprovalCriteria": {
+        "criteria": [
+          {
+            "code": "STUDY_TRAND"
+          },
+          {
+            "code": "STUDY_TMILE"
+          },
+          {
+            "code": "COUNTRY_EMPTY"
+          }
+        ]
+      },
+      "isHistGammaEnrollRateAvlbl": false,
+      "isPlanTypeEnable": false,
+      "studyGrant": false,
+      "GoldStarPercentile": 80,
+      "ICDType": "ICD10",
+      "cohortAdjustPlanApprovalCriteria": {
+        "criteria": [
+          {
+            "code": "STUDY_TMILE"
+          },
+          {
+            "code": "COHORT_TMILE"
+          }
+        ]
+      },
+      "isEnableProjRates": false,
+      "siteSelectionRate": 3,
+      "isEBLicensed": false,
+      "reportListData": {
+        "reportList": [
+          {
+            "reportId": "APRStudies",
+            "warningCriteria": 50,
+            "name": "Aggregate Performance Report For Studies",
+            "parameterList": {
+              "parameterName": [
+                "DV_FILTER_DEFINITION",
+                "DV_LOCALTIME",
+                "DV_REPORTID",
+                "DV_STUDYKEYLIST",
+                "DV_USER"
+              ]
+            },
+            "moduleId": 2
+          },
+          {
+            "reportId": "PLAN_COMP",
+            "warningCriteria": 50,
+            "name": "Plan Comparison Report",
+            "parameterList": {
+              "parameterName": [
+                "DV_REPORTID",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_USER"
+              ]
+            },
+            "moduleId": 3
+          },
+          {
+            "reportId": "SSR",
+            "warningCriteria": 50,
+            "name": "Study Status Report",
+            "parameterList": {
+              "parameterName": [
+                "DV_GEOKEY",
+                "DV_GEOLEVEL",
+                "DV_IMAGEFILENAME",
+                "DV_LOCALTIME",
+                "DV_REPORTID",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_SUBREPORT_DIR",
+                "Image1"
+              ]
+            },
+            "moduleId": 4
+          },
+          {
+            "reportId": "APRCountries",
+            "warningCriteria": 50,
+            "name": "Aggregate Performance Report For Countries",
+            "parameterList": {
+              "parameterName": [
+                "DV_FILTER_DEFINITION",
+                "DV_LOCALTIME",
+                "DV_REPORTID",
+                "DV_STUDYKEYLIST",
+                "DV_USER"
+              ]
+            },
+            "moduleId": 2
+          },
+          {
+            "reportId": "ERNCW",
+            "warningCriteria": 50,
+            "name": "Non-cumulative Enrollment Report (Weekly)",
+            "parameterList": {
+              "parameterName": [
+                "DV_PLANKEY",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 4
+          },
+          {
+            "reportId": "ERNCWP",
+            "warningCriteria": 50,
+            "name": "Non-cumulative Plan Report (Weekly)",
+            "parameterList": {
+              "parameterName": [
+                "DV_PLANKEY",
+                "DV_PLANNAME",
+                "DV_PLANSTATUS",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 3
+          },
+          {
+            "reportId": "ERNCM",
+            "warningCriteria": 50,
+            "name": "Non-cumulative Enrollment Report (Monthly)",
+            "parameterList": {
+              "parameterName": [
+                "DV_PLANKEY",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 4
+          },
+          {
+            "reportId": "ERNCMP",
+            "warningCriteria": 50,
+            "name": "Non-cumulative Plan Report (Monthly)",
+            "parameterList": {
+              "parameterName": [
+                "DV_PLANKEY",
+                "DV_PLANNAME",
+                "DV_PLANSTATUS",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 3
+          },
+          {
+            "reportId": "EnrollmentTherapyGroup",
+            "warningCriteria": 50,
+            "name": "Enrollment by Therapeutic Area Report",
+            "parameterList": {
+              "parameterName": [
+                "DV_FILTER_DEFINITION",
+                "DV_LOCALTIME",
+                "DV_REPORTID",
+                "DV_STUDYKEYLIST",
+                "DV_USER"
+              ]
+            },
+            "moduleId": 2
+          },
+          {
+            "reportId": "ERNCQ",
+            "warningCriteria": 50,
+            "name": "Non-cumulative Enrollment Report (Quarterly)",
+            "parameterList": {
+              "parameterName": [
+                "DV_PLANKEY",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 4
+          },
+          {
+            "reportId": "ERNCQP",
+            "warningCriteria": 50,
+            "name": "Non-cumulative Plan Report (Quarterly)",
+            "parameterList": {
+              "parameterName": [
+                "DV_PLANKEY",
+                "DV_PLANNAME",
+                "DV_PLANSTATUS",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 3
+          },
+          {
+            "reportId": "ERNCY",
+            "warningCriteria": 50,
+            "name": "Non-cumulative Enrollment Report (Yearly)",
+            "parameterList": {
+              "parameterName": [
+                "DV_PLANKEY",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 4
+          },
+          {
+            "reportId": "ERNCYP",
+            "warningCriteria": 50,
+            "name": "Non-cumulative Plan Report (Yearly)",
+            "parameterList": {
+              "parameterName": [
+                "DV_PLANKEY",
+                "DV_PLANNAME",
+                "DV_PLANSTATUS",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 3
+          },
+          {
+            "reportId": "ERCW",
+            "warningCriteria": 50,
+            "name": "Cumulative Enrollment Report (Weekly)",
+            "parameterList": {
+              "parameterName": [
+                "DV_PLANKEY",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 4
+          },
+          {
+            "reportId": "ERCWP",
+            "warningCriteria": 50,
+            "name": "Cumulative Plan Report (Weekly)",
+            "parameterList": {
+              "parameterName": [
+                "DV_PLANKEY",
+                "DV_PLANNAME",
+                "DV_PLANSTATUS",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 3
+          },
+          {
+            "reportId": "ERCM",
+            "warningCriteria": 50,
+            "name": "Cumulative Enrollment Report (Monthly)",
+            "parameterList": {
+              "parameterName": [
+                "DV_PLANKEY",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 4
+          },
+          {
+            "reportId": "ERCMP",
+            "warningCriteria": 50,
+            "name": "Cumulative Plan Report (Monthly)",
+            "parameterList": {
+              "parameterName": [
+                "DV_PLANKEY",
+                "DV_PLANNAME",
+                "DV_PLANSTATUS",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 3
+          },
+          {
+            "reportId": "ERCQ",
+            "warningCriteria": 50,
+            "name": "Cumulative Enrollment Report (Quarterly)",
+            "parameterList": {
+              "parameterName": [
+                "DV_PLANKEY",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 4
+          },
+          {
+            "reportId": "ERCQP",
+            "warningCriteria": 50,
+            "name": "Cumulative Plan Report (Quarterly)",
+            "parameterList": {
+              "parameterName": [
+                "DV_PLANKEY",
+                "DV_PLANNAME",
+                "DV_PLANSTATUS",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 3
+          },
+          {
+            "reportId": "ERCY",
+            "warningCriteria": 50,
+            "name": "Cumulative Enrollment Report (Yearly)",
+            "parameterList": {
+              "parameterName": [
+                "DV_PLANKEY",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 4
+          },
+          {
+            "reportId": "ERCYP",
+            "warningCriteria": 50,
+            "name": "Cumulative Plan Report (Yearly)",
+            "parameterList": {
+              "parameterName": [
+                "DV_PLANKEY",
+                "DV_PLANNAME",
+                "DV_PLANSTATUS",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 3
+          },
+          {
+            "reportId": "ERP",
+            "warningCriteria": 50,
+            "name": "SupplyOptimizer  ({0} Non-Cumulative)",
+            "parameterList": {
+              "parameterName": [
+                "DV_GEOKEY",
+                "DV_GEOLEVEL",
+                "DV_LOCALTIME",
+                "DV_REPORTID",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_SUBREPORT_DIR"
+              ]
+            },
+            "moduleId": 4
+          },
+          {
+            "reportId": "ERSWP",
+            "warningCriteria": 50,
+            "name": "Steady-state Enrollment Report (Weekly)",
+            "parameterList": {
+              "parameterName": [
+                "DV_PLANKEY",
+                "DV_PLANNAME",
+                "DV_PLANSTATUS",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 3
+          },
+          {
+            "reportId": "ERSMP",
+            "warningCriteria": 50,
+            "name": "Steady-state Enrollment Report (Monthly)",
+            "parameterList": {
+              "parameterName": [
+                "DV_PLANKEY",
+                "DV_PLANNAME",
+                "DV_PLANSTATUS",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 3
+          },
+          {
+            "reportId": "WRR",
+            "warningCriteria": 50,
+            "name": "SupplyOptimizer  ({0} Cumulative)",
+            "parameterList": {
+              "parameterName": [
+                "DV_GEOKEY",
+                "DV_GEOLEVEL",
+                "DV_LOCALTIME",
+                "DV_REPORTID",
+                "DV_STUDYID",
+                "DV_STUDYKEY",
+                "DV_SUBREPORT_DIR"
+              ]
+            },
+            "moduleId": 4
+          },
+          {
+            "reportId": "ActivityByFunctionalAreaReport",
+            "warningCriteria": 50,
+            "name": "Activity by Functional Area Report",
+            "parameterList": {
+              "parameterName": [
+                "DV_REPORT_END_DATE",
+                "DV_REPORT_START_DATE"
+              ]
+            },
+            "moduleId": 8
+          },
+          {
+            "reportId": "HitsByTherapeuticAreaReport",
+            "warningCriteria": 50,
+            "name": "Hits by Therapeutic Area Report",
+            "parameterList": {
+              "parameterName": [
+                "DV_REPORT_END_DATE",
+                "DV_REPORT_START_DATE"
+              ]
+            },
+            "moduleId": 8
+          },
+          {
+            "reportId": "HitsPerStudyIdReport",
+            "warningCriteria": 50,
+            "name": "Hits per Study Report",
+            "parameterList": {
+              "parameterName": [
+                "DV_REPORT_END_DATE",
+                "DV_REPORT_START_DATE"
+              ]
+            },
+            "moduleId": 8
+          },
+          {
+            "reportId": "InvestigatorDetail",
+            "warningCriteria": 50,
+            "name": "InvestigatorDetail",
+            "parameterList": {
+              "parameterName": [
+                "DV_FILTERCRITERIA",
+                "DV_FILTERKEY",
+                "DV_FILTERNAME",
+                "DV_FIL_PERFORM_CRITERIA",
+                "DV_FIL_SEARCH_CRITERIA",
+                "DV_GEOKEY",
+                "DV_GEOLEVEL",
+                "DV_HEADER",
+                "DV_IMAGEFILENAME",
+                "DV_INVESTKEY",
+                "DV_LAST_DATA_UPD_SRC",
+                "DV_METRICTYPE",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_ROSTERKEY",
+                "DV_SITEOPT_TAB",
+                "DV_STUDIESTABLE",
+                "DV_SUBREPORT_DIR",
+                "DV_SUMMARY",
+                "DV_TABLE_NAME",
+                "DV_USER",
+                "DV_VIEW",
+                "Image1",
+                "Image2"
+              ]
+            },
+            "moduleId": 23
+          },
+          {
+            "reportId": "InvestigatorsInAssociatedFilter",
+            "warningCriteria": 50,
+            "name": "InvestigatorsInAssociatedFilter",
+            "parameterList": {
+              "parameterName": [
+                "DV_FILTERCRITERIA",
+                "DV_FILTERKEY",
+                "DV_FILTERNAME",
+                "DV_FIL_PERFORM_CRITERIA",
+                "DV_FIL_SEARCH_CRITERIA",
+                "DV_FINETUNEPARAMS",
+                "DV_HEADER",
+                "DV_LAST_DATA_UPD_SRC",
+                "DV_METRICTYPE",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_RESULTREFINEBY",
+                "DV_SITEOPT_TAB",
+                "DV_SORTCOL",
+                "DV_SORTORDER",
+                "DV_TABLE_NAME",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 22
+          },
+          {
+            "reportId": "InvestigatorsInFilter",
+            "warningCriteria": 50,
+            "name": "InvestigatorsInFilter",
+            "parameterList": {
+              "parameterName": [
+                "DV_FILTERCRITERIA",
+                "DV_FILTERKEY",
+                "DV_FILTERNAME",
+                "DV_FIL_PERFORM_CRITERIA",
+                "DV_FIL_SEARCH_CRITERIA",
+                "DV_FINETUNEPARAMS",
+                "DV_HEADER",
+                "DV_LAST_DATA_UPD_SRC",
+                "DV_METRICTYPE",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_RESULTREFINEBY",
+                "DV_SITEOPT_TAB",
+                "DV_SORTCOL",
+                "DV_SORTORDER",
+                "DV_TABLE_NAME",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 21
+          },
+          {
+            "reportId": "InvestigatorsInRoster",
+            "warningCriteria": 50,
+            "name": "InvestigatorsInRoster",
+            "parameterList": {
+              "parameterName": [
+                "DV_HEADER",
+                "DV_LAST_DATA_UPD_SRC",
+                "DV_METRICTYPE",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_ROSTERKEY",
+                "DV_ROSTERNAME",
+                "DV_SITEOPT_TAB",
+                "DV_SORTCOL",
+                "DV_SORTORDER",
+                "DV_SURVEY_KEY",
+                "DV_SURVEY_NAME",
+                "DV_SURVEY_TYPE",
+                "DV_TABLE_NAME",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 22
+          },
+          {
+            "reportId": "LoginActivityReport",
+            "warningCriteria": 50,
+            "name": "Login Activity Report",
+            "parameterList": {
+              "parameterName": [
+                "DV_REPORT_END_DATE",
+                "DV_REPORT_START_DATE"
+              ]
+            },
+            "moduleId": 8
+          },
+          {
+            "reportId": "LoginsByRoleReport",
+            "warningCriteria": 50,
+            "name": "Logins by Role Report",
+            "parameterList": {
+              "parameterName": [
+                "DV_REPORT_END_DATE",
+                "DV_REPORT_START_DATE"
+              ]
+            },
+            "moduleId": 8
+          },
+          {
+            "reportId": "SitesInRoster",
+            "warningCriteria": 50,
+            "name": "SitesInRoster",
+            "parameterList": {
+              "parameterName": [
+                "DV_HEADER",
+                "DV_LAST_DATA_UPD_SRC",
+                "DV_REPORTID",
+                "DV_REPORTINGPERIOD",
+                "DV_ROSTERKEY",
+                "DV_ROSTERNAME",
+                "DV_SITEOPT_TAB",
+                "DV_TABLE_NAME",
+                "DV_USER",
+                "DV_VIEW"
+              ]
+            },
+            "moduleId": 22
+          },
+          {
+            "reportId": "StudiesTable1",
+            "warningCriteria": 50,
+            "name": "StudiesTable1",
+            "parameterList": {
+              "parameterName": "DV_REPORTINGPERIOD"
+            },
+            "moduleId": 23
+          },
+          {
+            "reportId": "StudiesTable2",
+            "warningCriteria": 50,
+            "name": "StudiesTable2",
+            "parameterList": {
+              "parameterName": "DV_REPORTINGPERIOD"
+            },
+            "moduleId": 23
+          },
+          {
+            "reportId": "StudyHitsPerMonthReport",
+            "warningCriteria": 50,
+            "name": "Study Hits per Month and Performance Report",
+            "parameterList": {
+              "parameterName": [
+                "DV_REPORT_END_DATE",
+                "DV_REPORT_START_DATE"
+              ]
+            },
+            "moduleId": 8
+          }
+        ]
+      },
+      "isSRAvailable": false,
+      "isHistOverallEnrollRateAvlbl": true,
+      "financeCurrencyCode": "USD",
+      "cohortReadinessOption": {
+        "option": [
+          {
+            "code": "CustomEntry",
+            "type": "Custom Entry"
+          },
+          {
+            "code": "Enrollment",
+            "type": "Enrollment"
+          },
+          {
+            "code": "SiteInitiation",
+            "type": "Site Initiation"
+          }
+        ]
+      },
+      "isCountryLockEnable": false,
+      "todaysDate": "2019-03-11",
+      "studyStageMetaData": {
+        "stageMetaData": [
+          {
+            "sequence": 1,
+            "code": "SU",
+            "endMilestone": "FSFV",
+            "startMilestone": "FPA"
+          },
+          {
+            "sequence": 2,
+            "code": "RG",
+            "endMilestone": "IRBS",
+            "startMilestone": "FPA"
+          },
+          {
+            "sequence": 3,
+            "code": "RE",
+            "endMilestone": "LSFV",
+            "startMilestone": "FSFV"
+          },
+          {
+            "sequence": 4,
+            "code": "TR",
+            "endMilestone": "LSLV",
+            "startMilestone": "FSFV"
+          },
+          {
+            "sequence": 5,
+            "code": "DC",
+            "endMilestone": "DBF",
+            "startMilestone": "LSLV"
+          },
+          {
+            "sequence": 6,
+            "code": "AN",
+            "endMilestone": "SAC",
+            "startMilestone": "DBF"
+          },
+          {
+            "sequence": 7,
+            "code": "RP",
+            "endMilestone": "IACSR",
+            "startMilestone": "SAC"
+          }
+        ]
+      },
+      "isSSVenabled": false,
+      "studyStatusType": "application",
+      "algorithmMetaData": {
+        "algoMetaData": [
+          {
+            "algorithmSiteCompName": "Linear",
+            "code": "simpleFrcst",
+            "name": "SIMPLEFRCST",
+            "displayOrder": 1,
+            "description": "The planned but uninitiated centers are predicted to initiate with linear distribution function.",
+            "id": 1,
+            "algorithmSiteCompId": "Linear",
+            "defaultIND": "N"
+          },
+          {
+            "algorithmSiteCompName": "Random",
+            "code": "simpleFrcst",
+            "name": "SIMPLEFRCST",
+            "displayOrder": 2,
+            "description": "The planned but uninitiated centers are predicted to initiate with randomized distribution function.",
+            "id": 1,
+            "algorithmSiteCompId": "Random",
+            "defaultIND": "Y"
+          }
+        ]
+      }
+    }
+  }
+}

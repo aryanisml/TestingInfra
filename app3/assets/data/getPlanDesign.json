@@ -1,0 +1,74 @@
+{
+  "serviceResponse": {
+    "result": "OK",
+    "planDesignJson": {
+      "totalRandomization": 20,
+      "cohortNodeArray": [
+
+          {
+            "key": 1,
+            "cohortKey": 6,
+            "loc": "0 100",
+            "studyCohortKey": 21,
+            "cohortName": "Middle Age",
+            "isEditable": true,
+            "isIAPresent": true,
+            "category": "cohort",
+            "cohortcardConfiguration": {
+              "randomizationTarget": "",
+              "TLSR": "2018-03-02",
+              "screeningPeriod": "",
+              "noOfDaysBefore": 10,
+              "noOfDaysAfter": null,
+              "startScreening": "beforeSourceEvent",
+              "IAName": "abc"
+            }
+          },
+          {
+            "key": 2,
+            "cohortKey": 3,
+            "loc": "100 200",
+            "studyCohortKey": 21,
+            "cohortName": "Pediatric",
+            "isEditable": true,
+            "isIAPresent": false,
+            "category": "cohort",
+            "cohortcardConfiguration": {
+              "randomizationTarget": "",
+              "TLSR": null,
+              "screeningPeriod": 40,
+              "startScreening": "dateSourceEvent",
+              "noOfDaysBefore": null,
+              "noOfDaysAfter": 40,
+              "IAName": "xyz"
+            }
+          }
+        
+      ],
+      "cohortLinkArray": [
+        {
+          "from": 1,
+          "to": 1001,
+          "isEditable": true
+        }
+      ],
+      "dependencyArray": [
+        {
+          "key": 1001,
+          "dependencyKey": 1001,
+          "loc": "375 100",
+          "dependencyName": "D1",
+          "isEditable": "true",    
+          "sourceCohorts": ["Middle Age"],
+          "dependencyCardConfiguration": {
+            "numberOfSubjects": "12",
+            "enrollmentComplete": "true"
+          },
+          "targetCohorts": [],
+          "category": "dependency"
+        }
+        
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "headerMenu": [
+    {
+      "name": "Study List",
+      "url": "/studyList",
+      "moduleName": "MODULE_STUYD_LIST"
+    },
+    {
+      "name": "Runway",
+      "url": "/runway",
+      "moduleName": "MODULE_RUNWAY"
+    },
+    {
+      "name": "Analysis & Templates",
+      "url": "/ant",
+      "moduleName": "MODULE_HISTORICAL"
+    }
+  ],
+  "subHeaderMenu": [
+    {
+      "name": "Study",
+      "url": "/study",
+      "moduleName": "MODULE_STUDY"
+    },
+    {
+      "name": "Countries",
+      "url": "/countries",
+      "moduleName": "MODULE_COUNTRY"
+    },
+    {
+      "name": "Sites",
+      "url": "/sites",
+      "moduleName": "MODULE_SITES"
+    },
+    {
+      "name": "Plans",
+      "url": "/plan",
+      "moduleName": "MODULE_PLANNING"
+    },
+    {
+      "name": "Plans",
+      "url": "/newPlans"
+    }
+  ],
+  "profileItem": [
+    {
+      "name": "Password",
+      "url": "/password"
+    },
+    {
+      "name": "Logout",
+      "url": "/about"
+    },
+    {
+      "name": "Help",
+      "url": "/help"
+    },
+    {
+      "name": "About",
+      "url": "/logout"
+    }
+  ],
+  "ebMenu": {
+    "name": "Enrollment Benchmarks",
+    "url": "/eb",
+    "moduleName": "MODULE_ENROLLMENT"
+  },
+  "logo": { 
+    "name": "testLogo.png"
+  }
+}

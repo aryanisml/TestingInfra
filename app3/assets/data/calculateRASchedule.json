@@ -1,0 +1,57 @@
+{
+  "serviceResponse": {
+    "result": "OK",
+    "rateAdjustmentsList": {
+      "rateAdjustments": [
+        {
+          "effectiveSFR": 0,
+          "effectiveSR": 0.0080,
+          "endDate": "Thu Aug 31 05 2017",
+          "startDate": "SOE",
+          "SFR": 0,
+          "SR": 0.0080
+        },
+        {
+          "effectiveSFR": 0,
+          "effectiveSR": 0.008,
+          "endDate": "Tue Sep 12 2017",
+          "startDate": "Fri Sep 01  2017",
+          "SFR": 0,
+          "SR": 0.008
+        },
+        {
+          "effectiveSFR": 0,
+          "effectiveSR": 0.00803,
+          "endDate": "Sat Sep 30 2017",
+          "startDate": "Wed Sep 13 2017",
+          "SFR": 0,
+          "SR": 0.0136
+        },
+        {
+          "effectiveSFR": 0,
+          "effectiveSR": 0.0083,
+          "endDate": "Fri Nov 03 2017",
+          "startDate": "Sun Oct 01  2017",
+          "SFR": 0,
+          "SR": 0.0117
+        },
+        {
+          "effectiveSFR": 0,
+          "effectiveSR": 0.0083,
+          "endDate": "Wed Jan 24 2018",
+          "startDate": "Sat Nov 04 2017",
+          "SFR": 0,
+          "SR": 0.0112
+        },
+        {
+          "effectiveSFR": 0,
+          "effectiveSR": 0.00833,
+          "endDate": "EOE",
+          "startDate": "Thu Jan 25 2018",
+          "SFR": 0,
+          "SR": 0.011
+        }
+      ]
+    }
+  }
+}

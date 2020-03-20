@@ -1,0 +1,186 @@
+{
+	"serviceResponse": {
+		"cohortThumbnailList": {
+			"cohortThumbnail": [
+				{
+					"cohortKey": "31",
+					"studyCohortKey": "5",
+					"cohortName": "DEC",
+					"cohortDescription": "Dose Expansion Cohort",
+					"cohortID": "Unmapped",
+					"isDeletable": "false",
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "16",
+					"studyCohortKey": "5",
+					"cohortName": "DRC",
+					"cohortDescription": "Cohorts - population based",
+					"cohortID": "Unmapped",
+					"isDeletable": "false",
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "17",
+					"studyCohortKey": "5",
+					"cohortName": "DRC+",
+					"cohortDescription": "Cohorts - population based",
+					"cohortID": "Unmapped",
+					"usedInPlan": "Test_P1",
+					"isDeletable": "true",
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "22",
+					"studyCohortKey": "5",
+					"cohortName": "Dose 1",
+					"cohortID": "Unmapped",
+					"usedInPlan": "3+3 dose escalation study, a, Demo: 3+3 DE plus DEC",
+					"isDeletable": "true",
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "23",
+					"studyCohortKey": "5",
+					"cohortName": "Dose 2",
+					"cohortID": "Unmapped",
+					"usedInPlan": "3+3 dose escalation study, Demo: 3+3 DE plus DEC",
+					"isDeletable": "true",
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "24",
+					"studyCohortKey": "5",
+					"cohortName": "Dose 3",
+					"cohortID": "Unmapped",
+					"usedInPlan": "3+3 dose escalation study, Demo: 3+3 DE plus DEC",
+					"isDeletable": "true",
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "25",
+					"studyCohortKey": "5",
+					"cohortName": "Dose 4",
+					"cohortID": "Unmapped",
+					"usedInPlan": "3+3 dose escalation study, Demo: 3+3 DE plus DEC",
+					"isDeletable": "true",
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "27",
+					"studyCohortKey": "5",
+					"cohortName": "Exposed to treatment",
+					"cohortID": "Unmapped",
+					"usedInPlan": "Capping of sub-groups",
+					"isDeletable": "true",
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "15",
+					"studyCohortKey": "5",
+					"cohortName": "Geriatric",
+					"cohortDescription": "65+",
+					"cohortID": "Unmapped",
+					"usedInPlan": "Test_H1, Test_H1_Adj",
+					"isDeletable": "true",
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "18",
+					"studyCohortKey": "5",
+					"cohortName": "Indication 1",
+					"cohortID": "Unmapped",
+					"usedInPlan": "4 arms/indications",
+					"isDeletable": "true",
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "19",
+					"studyCohortKey": "5",
+					"cohortName": "Indication 2",
+					"cohortID": "Unmapped",
+					"usedInPlan": "4 arms/indications",
+					"isDeletable": "true",
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "20",
+					"studyCohortKey": "5",
+					"cohortName": "Indication 3",
+					"cohortID": "Unmapped",
+					"usedInPlan": "4 arms/indications",
+					"isDeletable": "true",
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "21",
+					"studyCohortKey": "5",
+					"cohortName": "Indication 4",
+					"cohortID": "Unmapped",
+					"usedInPlan": "4 arms/indications",
+					"isDeletable": "true",
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "14",
+					"studyCohortKey": "5",
+					"cohortName": "Mid Age",
+					"cohortID": "Unmapped",
+					"usedInPlan": "Test_H1, Test_H1_Adj",
+					"isDeletable": "true",
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "6",
+					"studyCohortKey": "63",
+					"cohortName": "Middle Age",
+					"cohortDescription": "ages 35-60",
+					"cohortID": "c_gdp004_3",
+					"usedInPlan": "Early Feasiibility Plan 1, Test_cohort, Test_LP1, Test_P1, Test_P_adj, Test_P, test_lp, test_lp, Plan_adj, Plan_1, Early Feasibility Plan 2test, Early Feasibility Plan 2, Cohort plan example, Early Feasibility Plan 2",
+					"isDeletable": "true",
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "3",
+					"studyCohortKey": "62",
+					"cohortName": "Pediatric",
+					"cohortDescription": "ages 5-18",
+					"cohortID": "c_gdp004_1",
+					"usedInPlan": "Early Feasiibility Plan 1, Test_LP1, Test_P1, Test_P_adj, Test_P, test_lp, test_lp, Plan_adj, Early Feasibility Plan 2test, Early Feasibility Plan 2, Adaptive design, Cohort plan example, Early Feasibility Plan 2",
+					"isDeletable": "true",
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "28",
+					"studyCohortKey": "5",
+					"cohortName": "TEST",
+					"cohortID": "Unmapped",
+					"isDeletable": "true",
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "26",
+					"studyCohortKey": "5",
+					"cohortName": "Treatment naive",
+					"cohortID": "Unmapped",
+					"usedInPlan": "Capping of sub-groups",
+					"isDeletable": "true",
+					"isDeletedFromSource": "false"
+				},
+				{
+					"cohortKey": "4",
+					"studyCohortKey": "61",
+					"cohortName": "Young Adult",
+					"cohortDescription": "ages 19-35",
+					"cohortID": "c_gdp004_2",
+					"usedInPlan": "Early Feasiibility Plan 1, Test_LP1, test_lp, test_lp, Plan_adj, Early Feasibility Plan 2test, Early Feasibility Plan 2, Adaptive design, Cohort plan example, Early Feasibility Plan 2",
+					"isDeletable": "true",
+					"isDeletedFromSource": "false"
+				}
+			],
+			"_cohortReadinessTypeCode": "SiteInitiation"
+		},
+		"_xmlns": "http://www.coprindm.com",
+		"result": "OK"
+	}
+}

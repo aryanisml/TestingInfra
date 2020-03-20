@@ -1,0 +1,9 @@
+{
+    "serviceResponse": {
+        "result": "ERROR",
+        "error": {
+            "message": "test",
+            "errorCode": 5003
+        }
+    }
+}

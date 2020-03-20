@@ -1,0 +1,16 @@
+{
+    "serviceResponse": {
+      "result": "OK",
+      "multiCountryPlanSolver": {
+        "countryPlanSolver": {
+          "countryKey": 102,
+          "minScreenRate": 0,
+          "LSR": "2019-04-30",
+          "countryName": "United States",
+          "seedNumber": 1554787191772,
+          "solveFor": "Minimum Screening Rate"
+        },
+        "WWPLSR": "2019-04-30"
+      }
+    }
+  }
